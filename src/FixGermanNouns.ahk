@@ -14,18 +14,12 @@ SendMode Input
 ::end::End
 ::schluss::Schluss
 ::see::See
-::klapp::Klapp
 ::plenar::Plenar
 ::kern::Kern
 ::atom::Atom
-::dreh::Dreh
-::zapfen::Zapfen
-::angel::Angel
-::schlüssel::Schlüssel
 ::kardinal::Kardinal
 ::mitwirkung::Mitwirkung
 ::beteiligung::Beteiligung
-::mittel::Mittel
 ::west::West
 ::end::End
 ::schluss::Schluss
@@ -45,23 +39,17 @@ SendMode Input
 ::zielstrebigkeit::Zielstrebigkeit
 ::vorkriegszeit::Vorkriegszeit
 ::volks::Volks
-::mittel::Mittel
 ::second-hand::Second-Hand
-::spezial::Spezial
 ::sonder::Sonder
 ::schickimicki::Schickimicki
 ::gefahr::Gefahr
 ::zug::Zug
 ::mehrzahl::Mehrzahl
-::beton::Beton
-::spezial::Spezial
 ::sonder::Sonder
 ::lieblings::Lieblings
 ::wischiwaschi::Wischiwaschi
 ::hilfs::Hilfs
-::neben::Neben
 ::zusatz::Zusatz
-::wert::Wert
 ::nährstoff::Nährstoff
 ::mönchs::Mönchs
 ::abtreibungs::Abtreibungs
@@ -74,6 +62,7 @@ SendMode Input
 ::schenkel::Schenkel
 ::femoralis::Femoralis
 ::hirnhaut::Hirnhaut
+::palmar::Palmar
 ::hand::Hand
 ::landwirtschaft::Landwirtschaft
 ::selbstbedienung::Selbstbedienung
@@ -86,14 +75,12 @@ SendMode Input
 ::instrumentalis::Instrumentalis
 ::raum::Raum
 ::kalbfleisch::Kalbfleisch
-::braut::Braut
 ::hochzeit::Hochzeit
 ::akkusativ::Akkusativ
 ::gesichts::Gesichts
 ::virus::Virus
 ::muskel::Muskel
 ::nieren::Nieren
-::post::Post
 ::us-amerikanisch::US-amerikanisch
 ::bauchspeicheldrüsen::Bauchspeicheldrüsen
 ::pankreas::Pankreas
@@ -122,12 +109,10 @@ SendMode Input
 ::person::Person
 ::personen::Personen
 ::individuum::Individuum
-::sterbliche::Sterbliche
 ::tier::Tier
 ::geschöpf::Geschöpf
 ::kreatur::Kreatur
 ::vieh::Vieh
-::pflanze::Pflanze
 ::substanz::Substanz
 ::stoff::Stoff
 ::materie::Materie
@@ -141,22 +126,17 @@ SendMode Input
 ::motiv::Motiv
 ::beweggrund::Beweggrund
 ::motivation::Motivation
-::zustand::Zustand
 ::gefühl::Gefühl
 ::emotion::Emotion
 ::ort::Ort
 ::platz::Platz
 ::form::Form
-::zeit::Zeit
 ::ereignis::Ereignis
 ::handlung::Handlung
-::tat::Tat
 ::akt::Akt
 ::gruppe::Gruppe
 ::beziehung::Beziehung
 ::quantität::Quantität
-::menge::Menge
-::maß::Maß
 ::phänomen::Phänomen
 ::liebenswürdigkeit::Liebenswürdigkeit
 ::errungenschaft::Errungenschaft
@@ -167,14 +147,13 @@ SendMode Input
 ::interaktion::Interaktion
 ::bowling::Bowling
 ::ursache::Ursache
-::abfahrt::Abfahrt
+::entdeckung::Entdeckung
 ::exhumierung::Exhumierung
 ::wiedererlangung::Wiedererlangung
 ::stunt::Stunt
 ::fait accompli::Fait accompli
 ::ankunft::Ankunft
 ::ankunft::Ankunft
-::eintritt::Eintritt
 ::registrierung::Registrierung
 ::einschreibung::Einschreibung
 ::immatrikulation::Immatrikulation
@@ -187,7 +166,6 @@ SendMode Input
 ::repatriierung::Repatriierung
 ::penetration::Penetration
 ::landung::Landung
-::abschied::Abschied
 ::entzug::Entzug
 ::rückzug::Rückzug
 ::evakuierung::Evakuierung
@@ -197,11 +175,7 @@ SendMode Input
 ::immigration::Immigration
 ::alija::Alija
 ::einschiffung::Einschiffung
-::abtritt::Abtritt
-::austritt::Austritt
-::ausstieg::Ausstieg
 ::abwanderung::Abwanderung
-::flucht::Flucht
 ::manöver::Manöver
 ::hedschra::Hedschra
 ::orgasmus::Orgasmus
@@ -221,16 +195,13 @@ SendMode Input
 ::pflichtverletzung::Pflichtverletzung
 ::fehler::Fehler
 ::freudscher versprecher::Freudscher Versprecher
-::abseits::Abseits
 ::fauxpas::Fauxpas
 ::fehltritt::Fehltritt
 ::sturz::Sturz
 ::erwerb::Erwerb
 ::aneignung::Aneignung
 ::einkauf::Einkauf
-::kauf::Kauf
 ::option::Option
-::einkaufen::Einkaufen
 ::einkäufe::Einkäufe
 ::annahme::Annahme
 ::beschaffung::Beschaffung
@@ -241,7 +212,6 @@ SendMode Input
 ::rettung::Rettung
 ::ablass::Ablass
 ::buße::Buße
-::sühne::Sühne
 ::befreiung::Befreiung
 ::ausführung::Ausführung
 ::durchführung::Durchführung
@@ -249,7 +219,6 @@ SendMode Input
 ::dienstleistung::Dienstleistung
 ::selbstbedienung::Selbstbedienung
 ::zugabe::Zugabe
-::jonglieren::Jonglieren
 ::jonglage::Jonglage
 ::interpretation::Interpretation
 ::start::Start
@@ -258,13 +227,10 @@ SendMode Input
 ::wurf::Wurf
 ::einwurf::Einwurf
 ::strike::Strike
-::klick::Klick
 ::mausklick::Mausklick
-::schubs::Schubs
 ::drängelei::Drängelei
 ::gedrängel::Gedrängel
 ::beförderung::Beförderung
-::abschleppen::Abschleppen
 ::schlepper::Schlepper
 ::ruck::Ruck
 ::entfernung::Entfernung
@@ -272,26 +238,21 @@ SendMode Input
 ::ausweisung::Ausweisung
 ::fenstersturz::Fenstersturz
 ::defenstration::Defenstration
-::kotze::Kotze
-::erbrochenes::Erbrochenes
 ::sprung::Sprung
 ::satz::Satz
 ::übertragung::Übertragung
 ::schuss::Schuss
 ::schuss::Schuss
 ::kopfball::Kopfball
-::schlag::Schlag
 ::peitschenriemen::Peitschenriemen
 ::faustschlag::Faustschlag
 ::kopfnuss::Kopfnuss
 ::freistoß::Freistoß
 ::eckball::Eckball
 ::eckstoß::Eckstoß
-::ecke::Ecke
 ::kuss::Kuss
 ::busserl::Busserl
 ::zungenkuss::Zungenkuss
-::fang::Fang
 ::bedienung::Bedienung
 ::handhabung::Handhabung
 ::umgang::Umgang
@@ -311,7 +272,6 @@ SendMode Input
 ::falsifikation::Falsifikation
 ::initiation::Initiation
 ::initiierung::Initiierung
-::zwang::Zwang
 ::manipulierung::Manipulierung
 ::manipulation::Manipulation
 ::hypnotismus::Hypnotismus
@@ -333,23 +293,19 @@ SendMode Input
 ::spielzug::Spielzug
 ::rochade::Rochade
 ::schach::Schach
-::schachmatt::Schachmatt
 ::gambit::Gambit
 ::parkieren::Parkieren
 ::umzug::Umzug
-::kniff::Kniff
 ::kunstgriff::Kunstgriff
 ::trick::Trick
 ::art::Art
 ::methode::Methode
 ::werkzeug::Werkzeug
-::gerät::Gerät
 ::instrument::Instrument
 ::maßnahme::Maßnahme
 ::ausflucht::Ausflucht
 ::ausweg::Ausweg
 ::hilfsmittel::Hilfsmittel
-::mittel::Mittel
 ::nothilfe::Nothilfe
 ::notlösung::Notlösung
 ::wiederwahl::Wiederwahl
@@ -357,7 +313,6 @@ SendMode Input
 ::volksabstimmung::Volksabstimmung
 ::referendum::Referendum
 ::wahl::Wahl
-::stimme::Stimme
 ::votum::Votum
 ::tor::Tor
 ::eigentor::Eigentor
@@ -377,11 +332,8 @@ SendMode Input
 ::exkommunikation::Exkommunikation
 ::veto::Veto
 ::einspruch::Einspruch
-::ende::Ende
-::ablauf::Ablauf
 ::abschluss::Abschluss
 ::ergebnis::Ergebnis
-::finale::Finale
 ::vervollständigung::Vervollständigung
 ::schwanengesang::Schwanengesang
 ::auslieferung::Auslieferung
@@ -420,23 +372,17 @@ SendMode Input
 ::vergiftung::Vergiftung
 ::schießerei::Schießerei
 ::sauerstoffmangel::Sauerstoffmangel
-::opfer::Opfer
 ::enthauptung::Enthauptung
 ::abschaffung::Abschaffung
 ::aufhebung::Aufhebung
 ::abtreibung::Abtreibung
-::beginn::Beginn
 ::anfang::Anfang
-::beitritt::Beitritt
 ::aktivierung::Aktivierung
-::aktivieren::Aktivieren
 ::eröffnungsvorstellung::Eröffnungsvorstellung
-::initiative::Initiative
 ::installation::Installation
 ::weckruf::Weckruf
 ::inauguration::Inauguration
 ::verbesserung::Verbesserung
-::fortschritt::Fortschritt
 ::arbeitsablauf::Arbeitsablauf
 ::entwicklung::Entwicklung
 ::trockenreinigung::Trockenreinigung
@@ -449,10 +395,7 @@ SendMode Input
 ::waschung::Waschung
 ::abwaschung::Abwaschung
 ::ablution::Ablution
-::dusche::Dusche
-::brause::Brause
 ::bad::Bad
-::baden::Baden
 ::sprudelbad::Sprudelbad
 ::korrektur::Korrektur
 ::berichtigung::Berichtigung
@@ -463,7 +406,6 @@ SendMode Input
 ::besserung::Besserung
 ::verschönerung::Verschönerung
 ::ausschmückung::Ausschmückung
-::verschönern::Verschönern
 ::erläuterung::Erläuterung
 ::verdeutlichung::Verdeutlichung
 ::anreicherung::Anreicherung
@@ -492,25 +434,19 @@ SendMode Input
 ::bewegung::Bewegung
 ::zugang::Zugang
 ::eingang::Eingang
-::fortschritt::Fortschritt
 ::karriere::Karriere
 ::spaziergang::Spaziergang
 ::spazierengehen::Spazierengehen
-::gang::Gang
 ::spaziergang::Spaziergang
-::bummel::Bummel
 ::promenade::Promenade
 ::somnambulismus::Somnambulismus
 ::somnambulie::Somnambulie
-::schritt::Schritt
-::gang::Gang
 ::trab::Trab
 ::dressurreiten::Dressurreiten
 ::galopp::Galopp
 ::wanderung::Wanderung
 ::marsch::Marsch
 ::schneckentempo::Schneckentempo
-::reise::Reise
 ::prozession::Prozession
 ::umzug::Umzug
 ::tourismus::Tourismus
@@ -530,10 +466,8 @@ SendMode Input
 ::spritztour::Spritztour
 ::safari::Safari
 ::erkundung::Erkundung
-::wallfahrt::Wallfahrt
 ::ausflug::Ausflug
 ::exkursion::Exkursion
-::reise::Reise
 ::törn::Törn
 ::kreuzfahrt::Kreuzfahrt
 ::raumfahrt::Raumfahrt
@@ -546,7 +480,6 @@ SendMode Input
 ::transfusion::Transfusion
 ::bluttransfusion::Bluttransfusion
 ::seiltanz::Seiltanz
-::bergsteigen::Bergsteigen
 ::geschwindigkeitsüberschreitung::Geschwindigkeitsüberschreitung
 ::beschleunigung::Beschleunigung
 ::verlangsamung::Verlangsamung
@@ -555,11 +488,9 @@ SendMode Input
 ::abduktion::Abduktion
 ::störenfried::Störenfried
 ::geste::Geste
-::gebärde::Gebärde
 ::attitüde::Attitüde
 ::mudra::Mudra
 ::kopfnicken::Kopfnicken
-::hocke::Hocke
 ::drehung::Drehung
 ::reduktion::Reduktion
 ::reduzierung::Reduzierung
@@ -569,7 +500,6 @@ SendMode Input
 ::liberalisierung::Liberalisierung
 ::minimierung::Minimierung
 ::konsum::Konsum
-::verzehr::Verzehr
 ::abkürzung::Abkürzung
 ::haarschnitt::Haarschnitt
 ::zufügung::Zufügung
@@ -606,7 +536,6 @@ SendMode Input
 ::zusammenkunft::Zusammenkunft
 ::unterbrechung::Unterbrechung
 ::teilung::Teilung
-::kerbe::Kerbe
 ::verästelung::Verästelung
 ::verzweigung::Verzweigung
 ::ramifikation::Ramifikation
@@ -628,7 +557,6 @@ SendMode Input
 ::beweglichkeit::Beweglichkeit
 ::faltung::Faltung
 ::falzung::Falzung
-::klappen::Klappen
 ::aktivität::Aktivität
 ::unternehmung::Unternehmung
 ::praxis::Praxis
@@ -636,13 +564,11 @@ SendMode Input
 ::kooperation::Kooperation
 ::mitarbeit::Mitarbeit
 ::kannibalismus::Kannibalismus
-::brauch::Brauch
 ::sitte::Sitte
 ::usus::Usus
 ::sklaverei::Sklaverei
 ::hadith::Hadith
 ::umarmung::Umarmung
-::ärger::Ärger
 ::nachlässigkeit::Nachlässigkeit
 ::gleichgültigkeit::Gleichgültigkeit
 ::nichtbeachten::Nichtbeachten
@@ -654,10 +580,8 @@ SendMode Input
 ::verfolgung::Verfolgung
 ::unterdrückung::Unterdrückung
 ::pogrom::Pogrom
-::folter::Folter
 ::schlafentzug::Schlafentzug
 ::strappado::Strappado
-::pendel::Pendel
 ::grausamkeit::Grausamkeit
 ::quälerei::Quälerei
 ::grausamkeit::Grausamkeit
@@ -669,7 +593,6 @@ SendMode Input
 ::scherz::Scherz
 ::streich::Streich
 ::schabernack::Schabernack
-::tanz::Tanz
 ::amüsement::Amüsement
 ::entertainment::Entertainment
 ::unterhaltung::Unterhaltung
@@ -679,7 +602,6 @@ SendMode Input
 ::hobby::Hobby
 ::steckenpferd::Steckenpferd
 ::sport::Sport
-::turnen::Turnen
 ::gymnastik::Gymnastik
 ::rad::Rad
 ::handstand::Handstand
@@ -693,27 +615,22 @@ SendMode Input
 ::wassersport::Wassersport
 ::bad::Bad
 ::bauchklatscher::Bauchklatscher
+::wellenreiten::Wellenreiten
 ::bogenschießen::Bogenschießen
 ::wrestling::Wrestling
 ::sumo::Sumo
 ::schlittschuhlaufen::Schlittschuhlaufen
-::skaten::Skaten
-::eislaufen::Eislaufen
 ::eiskunstlauf::Eiskunstlauf
 ::eisschnelllauf::Eisschnelllauf
 ::pferderennsport::Pferderennsport
 ::pferderennen::Pferderennen
 ::jagd::Jagd
 ::fischfang::Fischfang
-::spiel::Spiel
-::spiel::Spiel
 ::zug::Zug
 ::attacke::Attacke
-::angriff::Angriff
 ::eröffnung::Eröffnung
 ::videospiel::Videospiel
 ::computerspiel::Computerspiel
-::flipper::Flipper
 ::flipperspiel::Flipperspiel
 ::ratespiel::Ratespiel
 ::scharade::Scharade
@@ -759,7 +676,6 @@ SendMode Input
 ::bridge::Bridge
 ::piquet::Piquet
 ::pikett::Pikett
-::poker::Poker
 ::rommé::Rommé
 ::herz::Herz
 ::canasta::Canasta
@@ -797,7 +713,6 @@ SendMode Input
 ::aprilscherz::Aprilscherz
 ::ablenkung::Ablenkung
 ::militainment::Militainment
-::feier::Feier
 ::festival::Festival
 ::zirkus::Zirkus
 ::kabarett::Kabarett
@@ -822,25 +737,18 @@ SendMode Input
 ::parodie::Parodie
 ::pantomime::Pantomime
 ::wutanfall::Wutanfall
-::eile::Eile
-::hast::Hast
 ::abbildung::Abbildung
 ::rückkehr::Rückkehr
 ::aufschlag::Aufschlag
 ::angabe::Angabe
 ::ass::Ass
-::schlag::Schlag
 ::zug::Zug
 ::kraul::Kraul
 ::schmetterling::Schmetterling
 ::delfin::Delfin
 ::brust::Brust
-::brustschwimmen::Brustschwimmen
-::rückenschwimmen::Rückenschwimmen
 ::rückenkraulen::Rückenkraulen
 ::arbeit::Arbeit
-::betrieb::Betrieb
-::vorgehen::Vorgehen
 ::vorgehensweise::Vorgehensweise
 ::service::Service
 ::militärdienst::Militärdienst
@@ -850,7 +758,6 @@ SendMode Input
 ::beruf::Beruf
 ::arbeit::Arbeit
 ::job::Job
-::stelle::Stelle
 ::anstellung::Anstellung
 ::spezialität::Spezialität
 ::arbeit::Arbeit
@@ -859,7 +766,6 @@ SendMode Input
 ::seebehörde::Seebehörde
 ::admiralsamt::Admiralsamt
 ::admiralswürde::Admiralswürde
-::lehre::Lehre
 ::lehrzeit::Lehrzeit
 ::kalifat::Kalifat
 ::kuratorium::Kuratorium
@@ -885,20 +791,15 @@ SendMode Input
 ::fotografie::Fotografie
 ::arbeit::Arbeit
 ::anstrengung::Anstrengung
-::aufwand::Aufwand
 ::ringkampf::Ringkampf
-::ringen::Ringen
-::ärger::Ärger
 ::zores::Zores
 ::übung::Übung
 ::training::Training
 ::sport::Sport
 ::bodybuilding::Bodybuilding
-::gewichtheben::Gewichtheben
 ::jogging::Jogging
 ::klimmzug::Klimmzug
 ::experiment::Experiment
-::versuch::Versuch
 ::versuch und irrtum::Versuch und Irrtum
 ::endoskopie::Endoskopie
 ::dialyse::Dialyse
@@ -908,7 +809,6 @@ SendMode Input
 ::countdown::Countdown
 ::spionage::Spionage
 ::spionageabwehr::Spionageabwehr
-::sorge::Sorge
 ::erste hilfe::Erste Hilfe
 ::nothilfe::Nothilfe
 ::unfallhilfe::Unfallhilfe
@@ -916,14 +816,11 @@ SendMode Input
 ::behandlung::Behandlung
 ::krankenhauseinweisung::Krankenhauseinweisung
 ::massage::Massage
-::maniküre::Maniküre
 ::pediküre::Pediküre
 ::fußpflege::Fußpflege
 ::therapie::Therapie
 ::aufzucht::Aufzucht
 ::erziehung::Erziehung
-::pflege::Pflege
-::hegen::Hegen
 ::appendektomie::Appendektomie
 ::amputation::Amputation
 ::operation::Operation
@@ -932,7 +829,6 @@ SendMode Input
 ::facelift::Facelift
 ::hämostase::Hämostase
 ::blutstillung::Blutstillung
-::einschnitt::Einschnitt
 ::fettabsaugung::Fettabsaugung
 ::liposuktion::Liposuktion
 ::nasenplastik::Nasenplastik
@@ -943,7 +839,6 @@ SendMode Input
 ::einlauf::Einlauf
 ::klistier::Klistier
 ::hospiz::Hospiz
-::schröpfen::Schröpfen
 ::physiotherapie::Physiotherapie
 ::psychotherapie::Psychotherapie
 ::hypnotherapie::Hypnotherapie
@@ -969,7 +864,6 @@ SendMode Input
 ::quarterback::Quarterback
 ::hausaufgaben::Hausaufgaben
 ::lehrstunde::Lehrstunde
-::stunde::Stunde
 ::lektion::Lektion
 ::unterricht::Unterricht
 ::mission::Mission
@@ -988,7 +882,6 @@ SendMode Input
 ::umgehung::Umgehung
 ::steuerhinterziehung::Steuerhinterziehung
 ::verschwendung::Verschwendung
-::unrecht::Unrecht
 ::ungerechtigkeit::Ungerechtigkeit
 ::transgression::Transgression
 ::profanierung::Profanierung
@@ -1019,7 +912,6 @@ SendMode Input
 ::ursünde::Ursünde
 ::erbsünde::Erbsünde
 ::todsünde::Todsünde
-::gier::Gier
 ::habsucht::Habsucht
 ::trägheit::Trägheit
 ::faulheit::Faulheit
@@ -1028,9 +920,7 @@ SendMode Input
 ::wollust::Wollust
 ::lust::Lust
 ::terrorismus::Terrorismus
-::verbrechen::Verbrechen
 ::anschlag::Anschlag
-::betrug::Betrug
 ::entführung::Entführung
 ::überfall::Überfall
 ::verletzung::Verletzung
@@ -1039,7 +929,6 @@ SendMode Input
 ::vergewaltigung::Vergewaltigung
 ::anschlag::Anschlag
 ::attentat::Attentat
-::fang::Fang
 ::festnahme::Festnahme
 ::gefangennahme::Gefangennahme
 ::erfassung::Erfassung
@@ -1049,7 +938,6 @@ SendMode Input
 ::kinderraub::Kinderraub
 ::bestechung::Bestechung
 ::unterschlagung::Unterschlagung
-::schwindel::Schwindel
 ::diebstahl::Diebstahl
 ::raub::Raub
 ::hochverrat::Hochverrat
@@ -1063,16 +951,11 @@ SendMode Input
 ::einbruch::Einbruch
 ::joint venture::Joint Venture
 ::gemeinschaftsunternehmen::Gemeinschaftsunternehmen
-::versuch::Versuch
-::bestreben::Bestreben
 ::bestrebung::Bestrebung
-::versuch::Versuch
 ::kampf::Kampf
 ::duell::Duell
 ::zweikampf::Zweikampf
-::vorsingen::Vorsingen
 ::casting::Casting
-::vorspielen::Vorspielen
 ::projekt::Projekt
 ::abenteuer::Abenteuer
 ::marathon::Marathon
@@ -1088,7 +971,6 @@ SendMode Input
 ::besitz::Besitz
 ::lagerung::Lagerung
 ::speicherung::Speicherung
-::griff::Griff
 ::schutz::Schutz
 ::sorgerecht::Sorgerecht
 ::obhut::Obhut
@@ -1106,7 +988,6 @@ SendMode Input
 ::atmung::Atmung
 ::inhalation::Inhalation
 ::einatmung::Einatmung
-::einatmen::Einatmen
 ::ingestion::Ingestion
 ::bondage::Bondage
 ::sex::Sex
@@ -1116,11 +997,7 @@ SendMode Input
 ::befruchtung::Befruchtung
 ::insemination::Insemination
 ::geschlechtsverkehr::Geschlechtsverkehr
-::verkehr::Verkehr
 ::koitus::Koitus
-::fick::Fick
-::bums::Bums
-::ritt::Ritt
 ::paarung::Paarung
 ::begattung::Begattung
 ::ehebruch::Ehebruch
@@ -1142,7 +1019,6 @@ SendMode Input
 ::oralsex::Oralsex
 ::fellatio::Fellatio
 ::blowjob::Blowjob
-::neunundsechzig::Neunundsechzig
 ::masturbation::Masturbation
 ::onanie::Onanie
 ::selbstbefriedigung::Selbstbefriedigung
@@ -1163,27 +1039,21 @@ SendMode Input
 ::reflex::Reflex
 ::gänsehaut::Gänsehaut
 ::berechnung::Berechnung
-::betrieb::Betrieb
 ::kombination::Kombination
 ::integration::Integration
 ::multiplikation::Multiplikation
 ::addition::Addition
-::urteil::Urteil
 ::beurteilung::Beurteilung
 ::schätzung::Schätzung
 ::abschätzung::Abschätzung
 ::auskultation::Auskultation
 ::fratze::Fratze
-::blick::Blick
-::blick::Blick
 ::streifblick::Streifblick
 ::inspektion::Inspektion
 ::prüfung::Prüfung
 ::besichtigung::Besichtigung
 ::beobachtung::Beobachtung
 ::überwachung::Überwachung
-::wache::Wache
-::lehre::Lehre
 ::unterricht::Unterricht
 ::kurs::Kurs
 ::hochschulbildung::Hochschulbildung
@@ -1191,14 +1061,12 @@ SendMode Input
 ::katechese::Katechese
 ::tutorium::Tutorium
 ::unterricht::Unterricht
-::lehre::Lehre
 ::seminar::Seminar
 ::workshop::Workshop
 ::vorlesung::Vorlesung
 ::vortrag::Vortrag
 ::drill::Drill
 ::übung::Übung
-::probe::Probe
 ::generalprobe::Generalprobe
 ::hauptprobe::Hauptprobe
 ::schattenboxen::Schattenboxen
@@ -1237,7 +1105,6 @@ SendMode Input
 ::kartographie::Kartographie
 ::kartografie::Kartografie
 ::laminierung::Laminierung
-::präfi­gie­ren::Präfi­gie­ren
 ::prä­fi­gie­rung::Prä­fi­gie­rung
 ::prä­fixation::Prä­fixation
 ::suffigieren::Suffigieren
@@ -1245,7 +1112,6 @@ SendMode Input
 ::suffixation::Suffixation
 ::design::Design
 ::entwurf::Entwurf
-::plan::Plan
 ::planung::Planung
 ::stadtplanung::Stadtplanung
 ::programmierung::Programmierung
@@ -1260,12 +1126,10 @@ SendMode Input
 ::erfindung::Erfindung
 ::neologismus::Neologismus
 ::ausgrabung::Ausgrabung
-::suche::Suche
 ::queste::Queste
 ::verwendung::Verwendung
 ::benutzung::Benutzung
 ::anwendung::Anwendung
-::gebrauch::Gebrauch
 ::recycling::Recycling
 ::wiederverwertung::Wiederverwertung
 ::anwendung::Anwendung
@@ -1292,7 +1156,6 @@ SendMode Input
 ::klassenkampf::Klassenkampf
 ::manöver::Manöver
 ::rebellion::Rebellion
-::aufstand::Aufstand
 ::bürgerkrieg::Bürgerkrieg
 ::revolution::Revolution
 ::meuterei::Meuterei
@@ -1304,9 +1167,7 @@ SendMode Input
 ::expedition::Expedition
 ::kreuzzug::Kreuzzug
 ::verstärkung::Verstärkung
-::angriff::Angriff
 ::attacke::Attacke
-::krieg::Krieg
 ::kriegsführung::Kriegsführung
 ::ablenkung::Ablenkung
 ::infiltration::Infiltration
@@ -1315,7 +1176,6 @@ SendMode Input
 ::bombardierung::Bombardierung
 ::bombardement::Bombardement
 ::bombardierung::Bombardierung
-::offensive::Offensive
 ::aufklärung::Aufklärung
 ::kundschaft::Kundschaft
 ::sperrfeuer::Sperrfeuer
@@ -1339,7 +1199,6 @@ SendMode Input
 ::appell::Appell
 ::klassifikation::Klassifikation
 ::sammlung::Sammlung
-::ernte::Ernte
 ::freispeichersammlung::Freispeichersammlung
 ::philatelie::Philatelie
 ::briefmarkenkunde::Briefmarkenkunde
@@ -1366,23 +1225,19 @@ SendMode Input
 ::naturismus::Naturismus
 ::gottesdienst::Gottesdienst
 ::liturgie::Liturgie
-::dienst::Dienst
 ::sakrament::Sakrament
 ::abendmahl::Abendmahl
 ::hochzeit::Hochzeit
 ::hochzeit::Hochzeit
-::taufe::Taufe
 ::kindertaufe::Kindertaufe
 ::kleinkindstaufe::Kleinkindstaufe
 ::säuglingstaufe::Säuglingstaufe
 ::erwachsenentaufe::Erwachsenentaufe
 ::gläubigentaufe::Gläubigentaufe
 ::mündigentaufe::Mündigentaufe
-::beichte::Beichte
 ::seligsprechung::Seligsprechung
 ::trankopfer::Trankopfer
 ::libation::Libation
-::messe::Messe
 ::hochamt::Hochamt
 ::zoolatrie::Zoolatrie
 ::wiedergeburt::Wiedergeburt
@@ -1404,10 +1259,7 @@ SendMode Input
 ::gehirn-abfluss::Gehirn-Abfluss
 ::ferien::Ferien
 ::unterbrechung::Unterbrechung
-::pause::Pause
 ::unterbrechung::Unterbrechung
-::pause::Pause
-::ruhe::Ruhe
 ::erholung::Erholung
 ::verzögerung::Verzögerung
 ::aufschub::Aufschub
@@ -1426,7 +1278,6 @@ SendMode Input
 ::barmherzigkeit::Barmherzigkeit
 ::gnade::Gnade
 ::nachsicht::Nachsicht
-::milde::Milde
 ::obstruktion::Obstruktion
 ::verhinderung::Verhinderung
 ::blockierung::Blockierung
@@ -1441,7 +1292,6 @@ SendMode Input
 ::zuteilung::Zuteilung
 ::zuweisung::Zuweisung
 ::anteil::Anteil
-::teil::Teil
 ::großzügigkeit::Großzügigkeit
 ::freizügigkeit::Freizügigkeit
 ::sozialhilfe::Sozialhilfe
@@ -1452,13 +1302,10 @@ SendMode Input
 ::nächstenliebe::Nächstenliebe
 ::wohltätigkeit::Wohltätigkeit
 ::almosen::Almosen
-::handel::Handel
 ::kommerz::Kommerz
-::handel::Handel
 ::kommerz::Kommerz
 ::freihandel::Freihandel
 ::internethandel::Internethandel
-::online-handel::Online-Handel
 ::umwandlung::Umwandlung
 ::börsengang::Börsengang
 ::geschäft::Geschäft
@@ -1478,10 +1325,8 @@ SendMode Input
 ::tauschhandel::Tauschhandel
 ::tausch::Tausch
 ::tauschgeschäft::Tauschgeschäft
-::handel::Handel
 ::geschäft::Geschäft
 ::deal::Deal
-::schmuggel::Schmuggel
 ::marketing::Marketing
 ::simonie::Simonie
 ::ämterkauf::Ämterkauf
@@ -1492,7 +1337,6 @@ SendMode Input
 ::dumping::Dumping
 ::telefonverkauf::Telefonverkauf
 ::telemarketing::Telemarketing
-::verkauf::Verkauf
 ::schlussverkauf::Schlussverkauf
 ::ausverkauf::Ausverkauf
 ::bezahlung::Bezahlung
@@ -1500,7 +1344,6 @@ SendMode Input
 ::rückerstattung::Rückerstattung
 ::rückzahlung::Rückzahlung
 ::tribut::Tribut
-::aufwand::Aufwand
 ::wohnsitzwechsel::Wohnsitzwechsel
 ::migration::Migration
 ::goldrausch::Goldrausch
@@ -1554,7 +1397,6 @@ SendMode Input
 ::musterung::Musterung
 ::wehrpflicht::Wehrpflicht
 ::besteuerung::Besteuerung
-::strafe::Strafe
 ::bestrafung::Bestrafung
 ::auspeitschung::Auspeitschung
 ::hinrichtung::Hinrichtung
@@ -1568,18 +1410,13 @@ SendMode Input
 ::tausch::Tausch
 ::konkurrenz::Konkurrenz
 ::rivalität::Rivalität
-::widerstand::Widerstand
 ::uneinigkeit::Uneinigkeit
-::streit::Streit
-::trotz::Trotz
 ::kampf::Kampf
 ::schlacht::Schlacht
-::schlag::Schlag
 ::rebellion::Rebellion
 ::demonstration::Demonstration
 ::mißachtung::Mißachtung
 ::beamtenbeleidigung::Beamtenbeleidigung
-::fall::Fall
 ::prozess::Prozess
 ::rechtssache::Rechtssache
 ::gerichtsverfahren::Gerichtsverfahren
@@ -1598,7 +1435,6 @@ SendMode Input
 ::vertreibung::Vertreibung
 ::ausweisung::Ausweisung
 ::legalisierung::Legalisierung
-::verhör::Verhör
 ::prozeß::Prozeß
 ::gottesurteil::Gottesurteil
 ::trennung::Trennung
@@ -1615,13 +1451,11 @@ SendMode Input
 ::zusammenarbeit::Zusammenarbeit
 ::kollaboration::Kollaboration
 ::kompromiss::Kompromiss
-::ausgleich::Ausgleich
 ::versöhnung::Versöhnung
 ::aussöhnung::Aussöhnung
 ::annäherung::Annäherung
 ::wiederannäherung::Wiederannäherung
 ::hilfe::Hilfe
-::beistand::Beistand
 ::hilfe::Hilfe
 ::unterstützung::Unterstützung
 ::bärendienst::Bärendienst
@@ -1661,11 +1495,9 @@ SendMode Input
 ::anwesenheit::Anwesenheit
 ::abwesenheit::Abwesenheit
 ::rache::Rache
-::krieg::Krieg
 ::blutfehde::Blutfehde
 ::vendetta::Vendetta
 ::aggression::Aggression
-::angriff::Angriff
 ::demokratisierung::Demokratisierung
 ::integration::Integration
 ::partizipation::Partizipation
@@ -1689,7 +1521,6 @@ SendMode Input
 ::dummheit::Dummheit
 ::erneuerung::Erneuerung
 ::zerstörung::Zerstörung
-::abriss::Abriss
 ::demolierung::Demolierung
 ::abbruch::Abbruch
 ::vandalismus::Vandalismus
@@ -1701,14 +1532,12 @@ SendMode Input
 ::annullierung::Annullierung
 ::karaoke::Karaoke
 ::bewährung::Bewährung
-::stich::Stich
 ::rekrutierung::Rekrutierung
 ::xenotransplantation::Xenotransplantation
 ::hundertjähriger krieg::Hundertjähriger Krieg
 ::koreakrieg::Koreakrieg
 ::punischer krieg::Punischer Krieg
 ::zweiter weltkrieg::Zweiter Weltkrieg
-::tierreich::Tierreich
 ::fauna::Fauna
 ::ungeziefer::Ungeziefer
 ::schädlinge::Schädlinge
@@ -1727,11 +1556,8 @@ SendMode Input
 ::pet::Pet
 ::heimtier::Heimtier
 ::männchen::Männchen
-::nachkomme::Nachkomme
-::nachwuchs::Nachwuchs
 ::brut::Brut
 ::abkömmling::Abkömmling
-::junge::Junge
 ::welpe::Welpe
 ::welpin::Welpin
 ::wolfswelpe::Wolfswelpe
@@ -1739,7 +1565,6 @@ SendMode Input
 ::wolfsjunges::Wolfsjunges
 ::welpe::Welpe
 ::hündchen::Hündchen
-::junges::Junges
 ::welpe::Welpe
 ::dachsjunges::Dachsjunges
 ::bärenjunges::Bärenjunges
@@ -1778,7 +1603,6 @@ SendMode Input
 ::krone::Krone
 ::mikroorganismus::Mikroorganismus
 ::kreuzung::Kreuzung
-::hybride::Hybride
 ::virus::Virus
 ::humanes immundefizienz-virus::Humanes Immundefizienz-Virus
 ::herpes::Herpes
@@ -1891,9 +1715,7 @@ SendMode Input
 ::zebrafink::Zebrafink
 ::leierschwanz::Leierschwanz
 ::fliegenschnäpper::Fliegenschnäpper
-::drossel::Drossel
 ::misteldrossel::Misteldrossel
-::drossel::Drossel
 ::singdrossel::Singdrossel
 ::wacholderdrossel::Wacholderdrossel
 ::amsel::Amsel
@@ -1905,7 +1727,6 @@ SendMode Input
 ::schilfrohrsänger::Schilfrohrsänger
 ::paradiesvogel::Paradiesvogel
 ::star::Star
-::krähe::Krähe
 ::rabe::Rabe
 ::kolkrabe::Kolkrabe
 ::saatkrähe::Saatkrähe
@@ -1971,7 +1792,6 @@ SendMode Input
 ::europäischer laubfrosch::Europäischer Laubfrosch
 ::kriechtier::Kriechtier
 ::reptil::Reptil
-::wurm::Wurm
 ::schildkröte::Schildkröte
 ::meeresschildkröte::Meeresschildkröte
 ::echte karettschildkröte::Echte Karettschildkröte
@@ -1997,7 +1817,6 @@ SendMode Input
 ::pterodaktylus::Pterodaktylus
 ::ichthyosaurier::Ichthyosaurier
 ::schlange::Schlange
-::wurm::Wurm
 ::natter::Natter
 ::kornnatter::Kornnatter
 ::dreiecksnatter::Dreiecksnatter
@@ -2027,11 +1846,9 @@ SendMode Input
 ::afterspinne::Afterspinne
 ::kanker::Kanker
 ::schneckenkanker::Schneckenkanker
-::schneider::Schneider
 ::zimmermann::Zimmermann
 ::skorpion::Skorpion
 ::pseudoskorpion::Pseudoskorpion
-::spinne::Spinne
 ::vogelspinne::Vogelspinne
 ::tarantel::Tarantel
 ::zecke::Zecke
@@ -2072,8 +1889,6 @@ SendMode Input
 ::rothuhn::Rothuhn
 ::perlhuhn::Perlhuhn
 ::hoatzin::Hoatzin
-::taube::Taube
-::tauber::Tauber
 ::täuber::Täuber
 ::tauberich::Tauberich
 ::täuberich::Täuberich
@@ -2099,8 +1914,6 @@ SendMode Input
 ::papagei::Papagei
 ::ara::Ara
 ::kea::Kea
-::unzertrennlicher::Unzertrennlicher
-::unzertrennliche::Unzertrennliche
 ::agapornide::Agapornide
 ::liebesvogel::Liebesvogel
 ::sittich::Sittich
@@ -2198,17 +2011,13 @@ SendMode Input
 ::kuhkalb::Kuhkalb
 ::bock::Bock
 ::rammler::Rammler
-::rüde::Rüde
 ::maulwurf::Maulwurf
 ::spitzmaus::Spitzmaus
 ::waldspitzmaus::Waldspitzmaus
-::igel::Igel
-::haut::Haut
 ::fell::Fell
 ::leder::Leder
 ::pelz::Pelz
 ::balg::Balg
-::feder::Feder
 ::vogelfeder::Vogelfeder
 ::daune::Daune
 ::fell::Fell
@@ -2216,15 +2025,12 @@ SendMode Input
 ::mähne::Mähne
 ::schnurrhaar::Schnurrhaar
 ::vibrisse::Vibrisse
-::schuppe::Schuppe
-::schale::Schale
 ::invertebrat::Invertebrat
-::wirbelloses::Wirbelloses
 ::qualle::Qualle
 ::seeanemone::Seeanemone
 ::seeanemone::Seeanemone
+::koralle::Koralle
 ::hirnkoralle::Hirnkoralle
-::wurm::Wurm
 ::bandwurm::Bandwurm
 ::regenwurm::Regenwurm
 ::aalwurm::Aalwurm
@@ -2342,7 +2148,6 @@ SendMode Input
 ::dugong::Dugong
 ::meerkuh::Meerkuh
 ::allesfresser::Allesfresser
-::robbe::Robbe
 ::seehund::Seehund
 ::seebär::Seebär
 ::seelöwe::Seelöwe
@@ -2498,17 +2303,11 @@ SendMode Input
 ::kalong::Kalong
 ::flügel::Flügel
 ::raubtier::Raubtier
-::beute::Beute
 ::huf::Huf
-::klaue::Klaue
-::kralle::Kralle
-::klaue::Klaue
-::schere::Schere
 ::vierfüßer::Vierfüßer
 ::vierfüßerin::Vierfüßerin
 ::vierfüßler::Vierfüßler
 ::vierfüßlerin::Vierfüßlerin
-::quadrupede::Quadrupede
 ::sechsfüßler::Sechsfüßler
 ::zweifüßer::Zweifüßer
 ::zweifüßerin::Zweifüßerin
@@ -2516,7 +2315,6 @@ SendMode Input
 ::zweifüßlerin::Zweifüßlerin
 ::zweibeiner::Zweibeiner
 ::zweibeinerin::Zweibeinerin
-::bipede::Bipede
 ::schwanz::Schwanz
 ::schweif::Schweif
 ::sterz::Sterz
@@ -2554,12 +2352,9 @@ SendMode Input
 ::kopflaus::Kopflaus
 ::filzlaus::Filzlaus
 ::sackratte::Sackratte
-::floh::Floh
-::fliege::Fliege
 ::stubenfliege::Stubenfliege
 ::tsetsefliege::Tsetsefliege
 ::schmeißfliege::Schmeißfliege
-::bremse::Bremse
 ::taufliege::Taufliege
 ::essigfliege::Essigfliege
 ::obstfliege::Obstfliege
@@ -2591,10 +2386,8 @@ SendMode Input
 ::heuschrecke::Heuschrecke
 ::grashüpfer::Grashüpfer
 ::heuschrecke::Heuschrecke
-::grille::Grille
 ::maulwurfsgrille::Maulwurfsgrille
 ::gespenstschrecke::Gespenstschrecke
-::schabe::Schabe
 ::kakerlake::Kakerlake
 ::deutsche schabe::Deutsche Schabe
 ::gottesanbeterin::Gottesanbeterin
@@ -2622,7 +2415,6 @@ SendMode Input
 ::raupe::Raupe
 ::larve::Larve
 ::larve::Larve
-::wurm::Wurm
 ::made::Made
 ::fleischmade::Fleischmade
 ::puppe::Puppe
@@ -2786,7 +2578,6 @@ SendMode Input
 ::bummal::Bummal
 ::kuh::Kuh
 ::färse::Färse
-::kalbe::Kalbe
 ::kalbin::Kalbin
 ::queene::Queene
 ::auerochse::Auerochse
@@ -2795,13 +2586,11 @@ SendMode Input
 ::jak::Jak
 ::banteng::Banteng
 ::guernsey::Guernsey
-::büffel::Büffel
 ::wisent::Wisent
 ::anoa::Anoa
 ::wisent::Wisent
 ::nordamerikanischer bison::Nordamerikanischer Bison
 ::bison::Bison
-::büffel::Büffel
 ::moschusochse::Moschusochse
 ::schaf::Schaf
 ::schafbock::Schafbock
@@ -2822,7 +2611,6 @@ SendMode Input
 ::ziegenbock::Ziegenbock
 ::ziege::Ziege
 ::geiß::Geiß
-::zicke::Zicke
 ::zibbe::Zibbe
 ::schraubenziege::Schraubenziege
 ::steinbock::Steinbock
@@ -2894,7 +2682,6 @@ SendMode Input
 ::fischermarder::Fischermarder
 ::micky maus::Micky Maus
 ::donald duck::Donald Duck
-::schnauze::Schnauze
 ::hundeschnauze::Hundeschnauze
 ::rüssel::Rüssel
 ::schweinerüssel::Schweinerüssel
@@ -3002,7 +2789,6 @@ SendMode Input
 ::coregonen::Coregonen
 ::schnäpel::Schnäpel
 ::reinanken::Reinanken
-::renken::Renken
 ::maränen::Maränen
 ::stint::Stint
 ::lodde::Lodde
@@ -3010,7 +2796,6 @@ SendMode Input
 ::laternenfisch::Laternenfisch
 ::anglerfisch::Anglerfisch
 ::seeteufel::Seeteufel
-::barsch::Barsch
 ::flussbarsch::Flussbarsch
 ::zackenbarsch::Zackenbarsch
 ::piranha::Piranha
@@ -3052,7 +2837,6 @@ SendMode Input
 ::ziehharmonika::Ziehharmonika
 ::handharmonika::Handharmonika
 ::handorgel::Handorgel
-::quetsche::Quetsche
 ::quetschkommode::Quetschkommode
 ::schifferklavier::Schifferklavier
 ::as::As
@@ -3061,12 +2845,10 @@ SendMode Input
 ::herz-ass::Herz-Ass
 ::pik-ass::Pik-Ass
 ::ecstasy::Ecstasy
-::teile::Teile
 ::pillen::Pillen
 ::adapter::Adapter
 ::zusatzstoff::Zusatzstoff
 ::zusatz::Zusatz
-::additiv::Additiv
 ::engländer::Engländer
 ::agora::Agora
 ::klimaanlage::Klimaanlage
@@ -3088,7 +2870,6 @@ SendMode Input
 ::luftschiff::Luftschiff
 ::luft-luft-rakete::Luft-Luft-Rakete
 ::luft-boden-rakete::Luft-Boden-Rakete
-::gang::Gang
 ::gangway::Gangway
 ::wecker::Wecker
 ::albe::Albe
@@ -3144,17 +2925,13 @@ SendMode Input
 ::klamotten::Klamotten
 ::apparat::Apparat
 ::gadget::Gadget
-::schürze::Schürze
 ::vorfeld::Vorfeld
 ::apsis::Apsis
 ::aquarium::Aquarium
 ::aquädukt::Aquädukt
-::arabeske::Arabeske
 ::pergola::Pergola
 ::arkade::Arkade
-::bogen::Bogen
 ::torbogen::Torbogen
-::bogen::Bogen
 ::arkade::Arkade
 ::archiv::Archiv
 ::galosche::Galosche
@@ -3223,9 +3000,7 @@ SendMode Input
 ::datensicherung::Datensicherung
 ::backup::Backup
 ::hinterhof::Hinterhof
-::beutel::Beutel
 ::tasche::Tasche
-::tüte::Tüte
 ::sack::Sack
 ::koffer::Koffer
 ::handtasche::Handtasche
@@ -3243,7 +3018,6 @@ SendMode Input
 ::waage::Waage
 ::balkon::Balkon
 ::ball::Ball
-::kugel::Kugel
 ::ballast::Ballast
 ::kugellager::Kugellager
 ::tutu::Tutu
@@ -3254,8 +3028,6 @@ SendMode Input
 ::kuli::Kuli
 ::ballsaal::Ballsaal
 ::balsam::Balsam
-::band::Band
-::verband::Verband
 ::bandelier::Bandelier
 ::bandolier::Bandolier
 ::bandalier::Bandalier
@@ -3265,13 +3037,11 @@ SendMode Input
 ::banner::Banner
 ::balustrade::Balustrade
 ::geländer::Geländer
-::block::Block
 ::barren::Barren
 ::stange::Stange
 ::theke::Theke
 ::tresen::Tresen
 ::widerhaken::Widerhaken
-::grill::Grill
 ::barbecue::Barbecue
 ::grillplatte::Grillplatte
 ::grillteller::Grillteller
@@ -3281,11 +3051,9 @@ SendMode Input
 ::schleppkahn::Schleppkahn
 ::scheune::Scheune
 ::stall::Stall
-::schuppen::Schuppen
 ::barometer::Barometer
 ::fass::Fass
 ::tonne::Tonne
-::lauf::Lauf
 ::drehorgel::Drehorgel
 ::leierkasten::Leierkasten
 ::haarspange::Haarspange
@@ -3294,19 +3062,15 @@ SendMode Input
 ::schranke::Schranke
 ::schlagbaum::Schlagbaum
 ::barriere::Barriere
-::karren::Karren
-::karre::Karre
 ::schubkarre::Schubkarre
 ::innenfeld::Innenfeld
 ::scheuerleiste::Scheuerleiste
 ::keller::Keller
 ::basilika::Basilika
 ::korb::Korb
-::bass::Bass
 ::baß::Baß
 ::kontrabass::Kontrabass
 ::bassgitarre::Bassgitarre
-::bass::Bass
 ::tuba::Tuba
 ::sousaphon::Sousaphon
 ::fagott::Fagott
@@ -3334,7 +3098,6 @@ SendMode Input
 ::wasserball::Wasserball
 ::kombi::Kombi
 ::leuchtturm::Leuchtturm
-::perle::Perle
 ::becherglas::Becherglas
 ::balken::Balken
 ::bett::Bett
@@ -3349,7 +3112,6 @@ SendMode Input
 ::schlafzimmer::Schlafzimmer
 ::zimmer::Zimmer
 ::kammer::Kammer
-::gemach::Gemach
 ::schlafgemach::Schlafgemach
 ::bettdecke::Bettdecke
 ::bienenstock::Bienenstock
@@ -3361,7 +3123,6 @@ SendMode Input
 ::gürtel::Gürtel
 ::riemen::Riemen
 ::bank::Bank
-::kurve::Kurve
 ::baskenmütze::Baskenmütze
 ::koje::Koje
 ::betabloker::Betabloker
@@ -3370,7 +3131,6 @@ SendMode Input
 ::fahrrad::Fahrrad
 ::velo::Velo
 ::drahtesel::Drahtesel
-::sattel::Sattel
 ::bidet::Bidet
 ::bikini::Bikini
 ::visier::Visier
@@ -3392,49 +3152,34 @@ SendMode Input
 ::pixelgrafik::Pixelgrafik
 ::binärbild::Binärbild
 ::bitmap::Bitmap
-::tafel::Tafel
 ::wandtafel::Wandtafel
 ::flugschreiber::Flugschreiber
 ::totenkopfflagge::Totenkopfflagge
 ::totenkopffahne::Totenkopffahne
 ::piratenflagge::Piratenflagge
-::klinge::Klinge
-::decke::Decke
 ::hochofen::Hochofen
 ::blazer::Blazer
 ::sakko::Sakko
 ::mixer::Mixer
 ::vermuser::Vermuser
 ::augenbinde::Augenbinde
-::block::Block
 ::klotz::Klotz
 ::bluse::Bluse
 ::blasrohr::Blasrohr
-::knüppel::Knüppel
 ::blaupause::Blaupause
 ::lichtpause::Lichtpause
 ::espingole::Espingole
-::tafel::Tafel
 ::pension::Pension
 ::gasthaus::Gasthaus
 ::boot::Boot
 ::schiff::Schiff
 ::panamahut::Panamahut
-::spule::Spule
-::rolle::Rolle
-::kessel::Kessel
 ::boiler::Boiler
 ::poller::Poller
-::polster::Polster
-::schraube::Schraube
 ::riegel::Riegel
-::ballen::Ballen
-::bombe::Bombe
 ::bomber::Bomber
-::bombe::Bombe
 ::luftschutzbunker::Luftschutzbunker
 ::haube::Haube
-::band::Band
 ::album::Album
 ::bücherregal::Bücherregal
 ::buchstütze::Buchstütze
@@ -3446,11 +3191,9 @@ SendMode Input
 ::baum::Baum
 ::bumerang::Bumerang
 ::booster::Booster
-::stiefel::Stiefel
 ::kiosk::Kiosk
 ::bude::Bude
 ::zelle::Zelle
-::stand::Stand
 ::messestand::Messestand
 ::stiefelknecht::Stiefelknecht
 ::rand::Rand
@@ -3465,17 +3208,12 @@ SendMode Input
 ::blumenstrauß::Blumenstrauß
 ::bouquet::Bouquet
 ::boutique::Boutique
-::bogen::Bogen
-::bogen::Bogen
 ::bug::Bug
 ::bugüberhang::Bugüberhang
-::schleife::Schleife
 ::pfeil und bogen::Pfeil und Bogen
-::schale::Schale
 ::schüssel::Schüssel
 ::melone::Melone
 ::melonenhut::Melonenhut
-::fliege::Fliege
 ::kasten::Kasten
 ::kiste::Kiste
 ::box::Box
@@ -3486,7 +3224,6 @@ SendMode Input
 ::zahnspange::Zahnspange
 ::hosenträger::Hosenträger
 ::armband::Armband
-::bremse::Bremse
 ::bremsbelag::Bremsbelag
 ::schuh::Schuh
 ::bremsschuh::Bremsschuh
@@ -3524,23 +3261,17 @@ SendMode Input
 ::brosche::Brosche
 ::besen::Besen
 ::besenstiel::Besenstiel
-::bürste::Bürste
 ::eimer::Eimer
-::schnalle::Schnalle
-::puffer::Puffer
-::anrichte::Anrichte
 ::wanze::Wanze
 ::gebäude::Gebäude
 ::bau::Bau
 ::bauklotz::Bauklotz
 ::spielbaustein::Spielbaustein
 ::planierraupe::Planierraupe
-::kugel::Kugel
 ::shinkansen::Shinkansen
 ::hochgeschwindigkeitszug::Hochgeschwindigkeitszug
 ::stierkampf::Stierkampf
 ::corrida::Corrida
-::bündel::Bündel
 ::cottage::Cottage
 ::häuschen::Häuschen
 ::kotten::Kotten
@@ -3558,7 +3289,6 @@ SendMode Input
 ::kolben::Kolben
 ::stummel::Stummel
 ::zigarettenstummel::Zigarettenstummel
-::kippe::Kippe
 ::zigarettenkippe::Zigarettenkippe
 ::buttermesser::Buttermesser
 ::knopf::Knopf
@@ -3578,19 +3308,16 @@ SendMode Input
 ::bremserhäuschen::Bremserhäuschen
 ::spind::Spind
 ::schließfach::Schließfach
-::seil::Seil
 ::tau::Tau
 ::kabelfernsehen::Kabelfernsehen
 ::drahtseilbahn::Drahtseilbahn
 ::seilbahn::Seilbahn
-::cache::Cache
 ::café::Café
 ::kaffeehaus::Kaffeehaus
 ::kaftan::Kaftan
 ::käfig::Käfig
 ::rechner::Rechner
 ::taschenrechner::Taschenrechner
-::kessel::Kessel
 ::dampforgel::Dampforgel
 ::kalorimeter::Kalorimeter
 ::friedenspfeife::Friedenspfeife
@@ -3600,7 +3327,6 @@ SendMode Input
 ::camcorder::Camcorder
 ::fotoapparat::Fotoapparat
 ::kamera::Kamera
-::lager::Lager
 ::flüchtlingslager::Flüchtlingslager
 ::nockenwelle::Nockenwelle
 ::dose::Dose
@@ -3623,16 +3349,13 @@ SendMode Input
 ::baldachin::Baldachin
 ::kantine::Kantine
 ::auskragung::Auskragung
-::leinen::Leinen
 ::leinwand::Leinwand
 ::mütze::Mütze
 ::kondensator::Kondensator
 ::cape::Cape
 ::kapitell::Kapitell
 ::spill::Spill
-::kapsel::Kapsel
 ::auto::Auto
-::automobil::Automobil
 ::pkw::PKW
 ::kraftfahrzeug::Kraftfahrzeug
 ::personenwagen::Personenwagen
@@ -3654,9 +3377,7 @@ SendMode Input
 ::frachtschiff::Frachtschiff
 ::frachter::Frachter
 ::karussell::Karussell
-::kutsche::Kutsche
 ::autositz::Autositz
-::karren::Karren
 ::karton::Karton
 ::kartusche::Kartusche
 ::patrone::Patrone
@@ -3685,7 +3406,6 @@ SendMode Input
 ::streuer::Streuer
 ::burg::Burg
 ::festung::Festung
-::schloss::Schloss
 ::turm::Turm
 ::rizinusöl::Rizinusöl
 ::katakombe::Katakombe
@@ -3706,7 +3426,6 @@ SendMode Input
 ::bahndamm::Bahndamm
 ::säbel::Säbel
 ::cd-spieler::CD-Spieler
-::decke::Decke
 ::zelle::Zelle
 ::cello::Cello
 ::violoncello::Violoncello
@@ -3720,18 +3439,15 @@ SendMode Input
 ::zentralheizung::Zentralheizung
 ::hauptprozessor::Hauptprozessor
 ::cpu::CPU
-::zentrifugal::Zentrifugal
 ::zentrifuge::Zentrifuge
 ::keramik::Keramik
 ::diaphragma::Diaphragma
 ::senkgrube::Senkgrube
 ::tschador::Tschador
-::kette::Kette
 ::kettensäge::Kettensäge
 ::filiale::Filiale
 ::stuhl::Stuhl
 ::kelch::Kelch
-::kreide::Kreide
 ::altarraum::Altarraum
 ::kronleuchter::Kronleuchter
 ::kanal::Kanal
@@ -3748,12 +3464,9 @@ SendMode Input
 ::schachfigur::Schachfigur
 ::figur::Figur
 ::truhe::Truhe
-::kommode::Kommode
 ::hühnerstall::Hühnerstall
 ::hühnerhof::Hühnerhof
-::kommode::Kommode
 ::kamin::Kamin
-::esse::Esse
 ::schlot::Schlot
 ::schornstein::Schornstein
 ::porzellan::Porzellan
@@ -3762,10 +3475,8 @@ SendMode Input
 ::chip::Chip
 ::mikrochip::Mikrochip
 ::chip::Chip
-::meißel::Meißel
 ::chloroform::Chloroform
 ::keil::Keil
-::weck::Weck
 ::chor::Chor
 ::schneidbrett::Schneidbrett
 ::essstäbchen::Essstäbchen
@@ -3784,7 +3495,6 @@ SendMode Input
 ::sattelgurt::Sattelgurt
 ::kino::Kino
 ::kreis::Kreis
-::runde::Runde
 ::leistungsschalter::Leistungsschalter
 ::kreissäge::Kreissäge
 ::zisterne::Zisterne
@@ -3792,7 +3502,6 @@ SendMode Input
 ::rathaus::Rathaus
 ::klöppel::Klöppel
 ::klarinette::Klarinette
-::griff::Griff
 ::spange::Spange
 ::klassiker::Klassiker
 ::klassenzimmer::Klassenzimmer
@@ -3810,7 +3519,6 @@ SendMode Input
 ::wäscheleine::Wäscheleine
 ::wäscheklammer::Wäscheklammer
 ::kluppe::Kluppe
-::kreuz::Kreuz
 ::klubhaus::Klubhaus
 ::streubombe::Streubombe
 ::kupplung::Kupplung
@@ -3831,17 +3539,13 @@ SendMode Input
 ::couchtisch::Couchtisch
 ::kassetten::Kassetten
 ::sarg::Sarg
-::spule::Spule
 ::spirale::Spirale
-::wickel::Wickel
-::rolle::Rolle
 ::windung::Windung
 ::spirale::Spirale
 ::koks::Koks
 ::colchicin::Colchicin
 ::collage::Collage
 ::montage::Montage
-::kragen::Kragen
 ::halsband::Halsband
 ::kölnischwasser::Kölnischwasser
 ::kölnisch wasser::Kölnisch Wasser
@@ -3885,7 +3589,6 @@ SendMode Input
 ::leitung::Leitung
 ::leitungsrohr::Leitungsrohr
 ::rohr::Rohr
-::kegel::Kegel
 ::konditorei::Konditorei
 ::beichtstuhl::Beichtstuhl
 ::konfetti::Konfetti
@@ -3901,7 +3604,6 @@ SendMode Input
 ::verhütungsmittel::Verhütungsmittel
 ::strg-taste::Strg-Taste
 ::steuerung-taste::Steuerung-Taste
-::pult::Pult
 ::spätverkauf::Spätverkauf
 ::späti::Späti
 ::convenience shop::Convenience Shop
@@ -3916,22 +3618,17 @@ SendMode Input
 ::schnur::Schnur
 ::kordel::Kordel
 ::cord::Cord
-::stöpsel::Stöpsel
 ::kork::Kork
 ::korken::Korken
 ::korkenzieher::Korkenzieher
-::ecke::Ecke
-::ecke::Ecke
 ::winkel::Winkel
 ::nische::Nische
 ::alkoven::Alkoven
 ::grundstein::Grundstein
-::trompete::Trompete
 ::kornett::Kornett
 ::jagdhorn::Jagdhorn
 ::horn::Horn
 ::korridor::Korridor
-::gang::Gang
 ::durchgang::Durchgang
 ::korsett::Korsett
 ::korvette::Korvette
@@ -3948,13 +3645,9 @@ SendMode Input
 ::gerichtsgebäude::Gerichtsgebäude
 ::kuhstall::Kuhstall
 ::kuhglocke::Kuhglocke
-::wiege::Wiege
 ::kran::Kran
-::kurbel::Kurbel
 ::kurbelwelle::Kurbelwelle
 ::zeichenstift::Zeichenstift
-::creme::Creme
-::kreme::Kreme
 ::sahnekännchen::Sahnekännchen
 ::erfindung::Erfindung
 ::werk::Werk
@@ -3964,13 +3657,11 @@ SendMode Input
 ::öse::Öse
 ::häkelarbeit::Häkelarbeit
 ::geschirr::Geschirr
-::kreuz::Kreuz
 ::armbrust::Armbrust
 ::zebrastreifen::Zebrastreifen
 ::fußgängerübergang::Fußgängerübergang
 ::krone::Krone
 ::mastkorb::Mastkorb
-::ausguck::Ausguck
 ::krähennest::Krähennest
 ::tiegel::Tiegel
 ::kruzifix::Kruzifix
@@ -3987,7 +3678,6 @@ SendMode Input
 ::detektorempfänger::Detektorempfänger
 ::detektorradio::Detektorradio
 ::kuckucksuhr::Kuckucksuhr
-::knüppel::Knüppel
 ::queue::Queue
 ::billardstock::Billardstock
 ::manschette::Manschette
@@ -4002,7 +3692,6 @@ SendMode Input
 ::kelch::Kelch
 ::pokal::Pokal
 ::schrank::Schrank
-::kuppel::Kuppel
 ::bordstein::Bordstein
 ::kandare::Kandare
 ::schreibmarke::Schreibmarke
@@ -4034,7 +3723,6 @@ SendMode Input
 ::todestrakt::Todestrakt
 ::totenglocke::Totenglocke
 ::totenmaske::Totenmaske
-::deck::Deck
 ::deckstuhl::Deckstuhl
 ::badeliege::Badeliege
 ::faltstuhl::Faltstuhl
@@ -4054,14 +3742,12 @@ SendMode Input
 ::gebiss::Gebiss
 ::deodorant::Deodorant
 ::kaufhaus::Kaufhaus
-::muster::Muster
 ::schreibtisch::Schreibtisch
 ::desktop-computer::Desktop-Computer
 ::zerstörer::Zerstörer
 ::detektor::Detektor
 ::sensor::Sensor
 ::entwickler::Entwickler
-::gerät::Gerät
 ::apparat::Apparat
 ::einheit::Einheit
 ::instrument::Instrument
@@ -4078,7 +3764,6 @@ SendMode Input
 ::windel::Windel
 ::diaphragma::Diaphragma
 ::diazepam::Diazepam
-::würfel::Würfel
 ::diesel::Diesel
 ::digitalkamera::Digitalkamera
 ::digitaluhr::Digitaluhr
@@ -4114,7 +3799,6 @@ SendMode Input
 ::schaufenster::Schaufenster
 ::spinnrocken::Spinnrocken
 ::kunkel::Kunkel
-::rocken::Rocken
 ::spindel::Spindel
 ::branntweinbrennerei::Branntweinbrennerei
 ::brennerei::Brennerei
@@ -4124,7 +3808,6 @@ SendMode Input
 ::whiskybrennerei::Whiskybrennerei
 ::whiskydestillerie::Whiskydestillerie
 ::verteiler::Verteiler
-::schanze::Schanze
 ::sturzkampfbomber::Sturzkampfbomber
 ::sturzbomber::Sturzbomber
 ::dingsbums::Dingsbums
@@ -4138,18 +3821,15 @@ SendMode Input
 ::hünengrab::Hünengrab
 ::hünenstein::Hünenstein
 ::kromlech::Kromlech
-::kuppel::Kuppel
 ::schild::Schild
 ::adapter::Adapter
 ::tür::Tür
 ::türen::Türen
 ::türe::Türe
 ::türklingel::Türklingel
-::klingel::Klingel
 ::türknauf::Türknauf
 ::fußmatte::Fußmatte
 ::fußabstreifer::Fußabstreifer
-::schwelle::Schwelle
 ::eingangsstufe::Eingangsstufe
 ::türöffnung::Türöffnung
 ::dachgaubenfenster::Dachgaubenfenster
@@ -4169,7 +3849,6 @@ SendMode Input
 ::kleid::Kleid
 ::kutte::Kutte
 ::zylinder::Zylinder
-::verband::Verband
 ::morgenrock::Morgenrock
 ::morgenmantel::Morgenmantel
 ::schlafrock::Schlafrock
@@ -4177,15 +3856,11 @@ SendMode Input
 ::bohrmaschine::Bohrmaschine
 ::bohrturm::Bohrturm
 ::laufwerk::Laufwerk
-::auffahrt::Auffahrt
-::zufahrt::Zufahrt
-::einfahrt::Einfahrt
 ::droschke::Droschke
 ::droge::Droge
 ::rauschgift::Rauschgift
 ::rauschmittel::Rauschmittel
 ::apotheke::Apotheke
-::trommel::Trommel
 ::trommelbremse::Trommelbremse
 ::trommelstock::Trommelstock
 ::schlegel::Schlegel
@@ -4209,9 +3884,8 @@ SendMode Input
 ::kehrblech::Kehrblech
 ::kehrschaufel::Kehrschaufel
 ::kutterschaufel::Kutterschaufel
-::bleibe::Bleibe
 ::wohnung::Wohnung
-::heim::Heim
+::zuhause::Zuhause
 ::wohnsitz::Wohnsitz
 ::domizil::Domizil
 ::dynamit::Dynamit
@@ -4245,14 +3919,11 @@ SendMode Input
 ::verlobungsring::Verlobungsring
 ::motor::Motor
 ::triebwerk::Triebwerk
-::antrieb::Antrieb
 ::ensemble::Ensemble
 ::eingang::Eingang
-::einfahrt::Einfahrt
 ::klappspaten::Klappspaten
 ::briefumschlag::Briefumschlag
 ::umschlag::Umschlag
-::hülle::Hülle
 ::achselstück::Achselstück
 ::achselklappe::Achselklappe
 ::epaulette::Epaulette
@@ -4270,7 +3941,6 @@ SendMode Input
 ::auspuff::Auspuff
 ::abblaseventil::Abblaseventil
 ::ausweg::Ausweg
-::ausfahrt::Ausfahrt
 ::ausgang::Ausgang
 ::sprengstoff::Sprengstoff
 ::autobahn::Autobahn
@@ -4285,7 +3955,6 @@ SendMode Input
 ::tuch::Tuch
 ::textilie::Textilie
 ::gewebe::Gewebe
-::textil::Textil
 ::einrichtung::Einrichtung
 ::vorrichtung::Vorrichtung
 ::fax::Fax
@@ -4296,7 +3965,6 @@ SendMode Input
 ::steingut::Steingut
 ::fayence::Fayence
 ::falchion::Falchion
-::fächer::Fächer
 ::einstrom-strahltriebwerk::Einstrom-Strahltriebwerk
 ::turbojet::Turbojet
 ::bauernhof::Bauernhof
@@ -4307,7 +3975,6 @@ SendMode Input
 ::filzhut::Filzhut
 ::fedora::Fedora
 ::fedorahut::Fedorahut
-::filz::Filz
 ::filzstift::Filzstift
 ::zaun::Zaun
 ::hag::Hag
@@ -4317,7 +3984,6 @@ SendMode Input
 ::fähre::Fähre
 ::fährboot::Fährboot
 ::fährschiff::Fährschiff
-::überfuhr::Überfuhr
 ::fes::Fes
 ::fernglas::Fernglas
 ::feldlazarett::Feldlazarett
@@ -4325,14 +3991,12 @@ SendMode Input
 ::gestalt::Gestalt
 ::galionsfigur::Galionsfigur
 ::figürchen::Figürchen
-::feile::Feile
 ::kartei::Kartei
 ::datei::Datei
 ::akte::Akte
 ::füllung::Füllung
 ::film::Film
 ::film::Film
-::filter::Filter
 ::sucher::Sucher
 ::griffbrett::Griffbrett
 ::blockflöte::Blockflöte
@@ -4361,14 +4025,11 @@ SendMode Input
 ::fischerboot::Fischerboot
 ::angelleine::Angelleine
 ::angelrute::Angelrute
-::angel::Angel
 ::fischnetz::Fischnetz
 ::fischernetz::Fischernetz
 ::pfannenwender::Pfannenwender
 ::fünfer::Fünfer
-::flagge::Flagge
 ::fahne::Fahne
-::fliese::Fliese
 ::flageolett::Flageolett
 ::fahnenmast::Fahnenmast
 ::fahnenstange::Fahnenstange
@@ -4382,7 +4043,6 @@ SendMode Input
 ::patte::Patte
 ::taschenlampe::Taschenlampe
 ::reifenpanne::Reifenpanne
-::platten::Platten
 ::flachwagen::Flachwagen
 ::plattformwagen::Plattformwagen
 ::treppenlauf::Treppenlauf
@@ -4395,8 +4055,6 @@ SendMode Input
 ::geschoß::Geschoß
 ::stockwerk::Stockwerk
 ::geschoss::Geschoss
-::absteige::Absteige
-::penne::Penne
 ::flottille::Flottille
 ::treibgut::Treibgut
 ::blumenbeet::Blumenbeet
@@ -4406,10 +4064,8 @@ SendMode Input
 ::wasserklosett::Wasserklosett
 ::wc::WC
 ::toilette::Toilette
-::abtritt::Abtritt
 ::abort::Abort
 ::klo::Klo
-::flöte::Flöte
 ::querflöte::Querflöte
 ::schwungrad::Schwungrad
 ::nebelhorn::Nebelhorn
@@ -4428,10 +4084,7 @@ SendMode Input
 ::fußstütze::Fußstütze
 ::schuhwerk::Schuhwerk
 ::fockmast::Fockmast
-::schmiede::Schmiede
 ::schmiedeofen::Schmiedeofen
-::gabel::Gabel
-::gabel::Gabel
 ::forke::Forke
 ::gabelstapler::Gabelstapler
 ::festung::Festung
@@ -4441,7 +4094,6 @@ SendMode Input
 ::grundlage::Grundlage
 ::gießerei::Gießerei
 ::springbrunnen::Springbrunnen
-::quelle::Quelle
 ::strahl::Strahl
 ::füllfederhalter::Füllfederhalter
 ::viertaktmotor::Viertaktmotor
@@ -4460,9 +4112,7 @@ SendMode Input
 ::fries::Fries
 ::fregatte::Fregatte
 ::rüsche::Rüsche
-::krause::Krause
 ::frisbee::Frisbee
-::front::Front
 ::vorderseite::Vorderseite
 ::bratpfanne::Bratpfanne
 ::pfanne::Pfanne
@@ -4495,7 +4145,6 @@ SendMode Input
 ::müllwagen::Müllwagen
 ::garten::Garten
 ::garten::Garten
-::vorgarten::Vorgarten
 ::wasserspeier::Wasserspeier
 ::kleidungsstück::Kleidungsstück
 ::strumpfband::Strumpfband
@@ -4510,16 +4159,13 @@ SendMode Input
 ::gate::Gate
 ::tor::Tor
 ::zugang::Zugang
-::einfahrt::Einfahrt
 ::gaze::Gaze
 ::gaze::Gaze
 ::gartenlaube::Gartenlaube
 ::zahnrad::Zahnrad
 ::utensilien::Utensilien
 ::getriebe::Getriebe
-::gang::Gang
 ::generator::Generator
-::träger::Träger
 ::balken::Balken
 ::glas::Glas
 ::segelflugzeug::Segelflugzeug
@@ -4552,7 +4198,6 @@ SendMode Input
 ::kornhaus::Kornhaus
 ::flügel::Flügel
 ::enterhaken::Enterhaken
-::reibe::Reibe
 ::küchenreibe::Küchenreibe
 ::grab::Grab
 ::grabmal::Grabmal
@@ -4563,13 +4208,11 @@ SendMode Input
 ::gewächshaus::Gewächshaus
 ::treibhaus::Treibhaus
 ::granate::Granate
-::grill::Grill
 ::schleifstein::Schleifstein
 ::markt::Markt
 ::lebensmittelladen::Lebensmittelladen
 ::lebensmittelgeschäft::Lebensmittelgeschäft
 ::bezugspotenzial::Bezugspotenzial
-::erde::Erde
 ::erdgeschoss::Erdgeschoss
 ::obstgarten::Obstgarten
 ::obstwiese::Obstwiese
@@ -4594,9 +4237,7 @@ SendMode Input
 ::haarspray::Haarspray
 ::hellebarde::Hellebarde
 ::saal::Saal
-::halle::Halle
 ::flur::Flur
-::halle::Halle
 ::hammer::Hammer
 ::hammer::Hammer
 ::hängematte::Hängematte
@@ -4611,11 +4252,9 @@ SendMode Input
 ::handwerk::Handwerk
 ::kunsthandwerk::Kunsthandwerk
 ::taschentuch::Taschentuch
-::griff::Griff
 ::lenker::Lenker
 ::handpuppe::Handpuppe
 ::gummistempel::Gummistempel
-::stempel::Stempel
 ::handtuch::Handtuch
 ::hängegleiter::Hängegleiter
 ::deltagleiter::Deltagleiter
@@ -4643,7 +4282,6 @@ SendMode Input
 ::trosse::Trosse
 ::tau::Tau
 ::kopf::Kopf
-::abtritt::Abtritt
 ::stirnband::Stirnband
 ::stirnbinde::Stirnbinde
 ::kopfbedeckung::Kopfbedeckung
@@ -4668,14 +4306,11 @@ SendMode Input
 ::heizgerät::Heizgerät
 ::heizung::Heizung
 ::hitzeschild::Hitzeschild
-::hecke::Hecke
 ::absatz::Absatz
 ::schuhabsatz::Schuhabsatz
 ::helikopter::Helikopter
 ::hubschrauber::Hubschrauber
 ::heliometer::Heliometer
-::steuer::Steuer
-::ruder::Ruder
 ::steuerruder::Steuerruder
 ::steuerung::Steuerung
 ::helm::Helm
@@ -4688,10 +4323,8 @@ SendMode Input
 ::markierstift::Markierstift
 ::textmarker::Textmarker
 ::autobahn::Autobahn
-::griff::Griff
 ::behinderung::Behinderung
 ::hindernis::Hindernis
-::angel::Angel
 ::scharnier::Scharnier
 ::hippodrom::Hippodrom
 ::pferderennbahn::Pferderennbahn
@@ -4702,7 +4335,6 @@ SendMode Input
 ::schuhzwecke::Schuhzwecke
 ::stiefelnagel::Stiefelnagel
 ::hockeyschläger::Hockeyschläger
-::hacke::Hacke
 ::hologramm::Hologramm
 ::pflegeheim::Pflegeheim
 ::haushaltsgerät::Haushaltsgerät
@@ -4711,7 +4343,6 @@ SendMode Input
 ::kapuze::Kapuze
 ::wasserpfeife::Wasserpfeife
 ::ring::Ring
-::reck::Reck
 ::horoskop::Horoskop
 ::pferd::Pferd
 ::pauschenpferd::Pauschenpferd
@@ -4723,7 +4354,6 @@ SendMode Input
 ::jugendherberge::Jugendherberge
 ::herberge::Herberge
 ::wohnheim::Wohnheim
-::heim::Heim
 ::heißluftballon::Heißluftballon
 ::hotel::Hotel
 ::kochplatte::Kochplatte
@@ -4745,7 +4375,6 @@ SendMode Input
 ::rumpf::Rumpf
 ::hürde::Hürde
 ::tragflügelboot::Tragflügelboot
-::h-bombe::H-Bombe
 ::wasserstoffbombe::Wasserstoffbombe
 ::eisbrecher::Eisbrecher
 ::eiswürfel::Eiswürfel
@@ -4814,12 +4443,9 @@ SendMode Input
 ::kleinod::Kleinod
 ::fock::Fock
 ::stichsäge::Stichsäge
-::puzzle::Puzzle
 ::puzzlespiel::Puzzlespiel
 ::zusammensetzspiel::Zusammensetzspiel
 ::rikscha::Rikscha
-::joint::Joint
-::tüte::Tüte
 ::balken::Balken
 ::querbalken::Querbalken
 ::joker::Joker
@@ -4843,17 +4469,13 @@ SendMode Input
 ::donjon::Donjon
 ::souvenir::Souvenir
 ::reiseandenken::Reiseandenken
-::andenken::Andenken
 ::erinnerung::Erinnerung
 ::relikt::Relikt
 ::hundehütte::Hundehütte
 ::käppi::Käppi
 ::kopftuch::Kopftuch
-::kessel::Kessel
 ::kochtopf::Kochtopf
 ::kesselpauke::Kesselpauke
-::schlüssel::Schlüssel
-::taste::Taste
 ::tastatur::Tastatur
 ::schlüsselloch::Schlüsselloch
 ::brennofen::Brennofen
@@ -4866,7 +4488,6 @@ SendMode Input
 ::krautgarten::Krautgarten
 ::drachen::Drachen
 ::kitsch::Kitsch
-::hupe::Hupe
 ::messer::Messer
 ::messer::Messer
 ::springer::Springer
@@ -4879,7 +4500,6 @@ SendMode Input
 ::kreml::Kreml
 ::labor::Labor
 ::laboratorium::Laboratorium
-::spitze::Spitze
 ::schnürband::Schnürband
 ::schnürsenkel::Schnürsenkel
 ::schuhband::Schuhband
@@ -4897,15 +4517,11 @@ SendMode Input
 ::treppenabsatz::Treppenabsatz
 ::festnetz::Festnetz
 ::landmine::Landmine
-::gang::Gang
 ::gasse::Gasse
 ::spur::Spur
 ::laterne::Laterne
-::revers::Revers
 ::laptop::Laptop
 ::klapprechner::Klapprechner
-::backbord::Backbord
-::laser::Laser
 ::laserdrucker::Laserdrucker
 ::riegel::Riegel
 ::drechselbank::Drechselbank
@@ -4935,7 +4551,6 @@ SendMode Input
 ::wasserwaage::Wasserwaage
 ::bahnübergang::Bahnübergang
 ::bü::BÜ
-::hebel::Hebel
 ::bibliothek::Bibliothek
 ::bücherei::Bücherei
 ::kfz-kennzeichen::Kfz-Kennzeichen
@@ -4945,7 +4560,6 @@ SendMode Input
 ::rettungsweste::Rettungsweste
 ::schwimmweste::Schwimmweste
 ::lichtquelle::Lichtquelle
-::licht::Licht
 ::glühbirne::Glühbirne
 ::glühlampe::Glühlampe
 ::led::LED
@@ -4955,7 +4569,6 @@ SendMode Input
 ::zigarettenanzünder::Zigarettenanzünder
 ::blitzableiter::Blitzableiter
 ::leine::Leine
-::leinen::Leinen
 ::liniment::Liniment
 ::linolschnitt::Linolschnitt
 ::lippenbalsam::Lippenbalsam
@@ -4968,10 +4581,7 @@ SendMode Input
 ::sprechzimmer::Sprechzimmer
 ::stube::Stube
 ::local area network::Local Area Network
-::schloss::Schloss
-::schleuse::Schleuse
 ::schiffshebewerk::Schiffshebewerk
-::schloss::Schloss
 ::medaillon::Medaillon
 ::lokomotive::Lokomotive
 ::lok::Lok
@@ -4990,14 +4600,12 @@ SendMode Input
 ::warteraum::Warteraum
 ::luftschlitz::Luftschlitz
 ::kofferraum::Kofferraum
-::laute::Laute
 ::lyzeum::Lyzeum
 ::leier::Leier
 ::lyra::Lyra
 ::machete::Machete
 ::maschine::Maschine
 ::maschinengewehr::Maschinengewehr
-::mg::MG
 ::werkzeugmaschine::Werkzeugmaschine
 ::magnet::Magnet
 ::postzug::Postzug
@@ -5006,14 +4614,11 @@ SendMode Input
 ::maisonette::Maisonette
 ::maisonettenwohnung::Maisonettenwohnung
 ::neuroleptikum::Neuroleptikum
-::schminke::Schminke
 ::make-up::Make-up
 ::klopfholz::Klopfholz
 ::mammogramm::Mammogramm
 ::mandoline::Mandoline
 ::krippe::Krippe
-::trog::Trog
-::mangel::Mangel
 ::wäschemangel::Wäschemangel
 ::mannloch::Mannloch
 ::kontrollschacht::Kontrollschacht
@@ -5022,12 +4627,10 @@ SendMode Input
 ::schaufensterpuppe::Schaufensterpuppe
 ::druckmessgerät::Druckmessgerät
 ::manometer::Manometer
-::halle::Halle
 ::herrenhaus::Herrenhaus
 ::kaminregal::Kaminregal
 ::kaminsims::Kaminsims
 ::landkarte::Landkarte
-::murmel::Murmel
 ::xylophon::Xylophon
 ::marimbaphon::Marimbaphon
 ::maskara::Maskara
@@ -5037,7 +4640,6 @@ SendMode Input
 ::urschrift::Urschrift
 ::meisterstück::Meisterstück
 ::meisterwerk::Meisterwerk
-::matte::Matte
 ::streichholz::Streichholz
 ::zündholz::Zündholz
 ::streichholzschachtel::Streichholzschachtel
@@ -5062,7 +4664,6 @@ SendMode Input
 ::denkmal::Denkmal
 ::mahnmal::Mahnmal
 ::monument::Monument
-::speicher::Speicher
 ::zoo::Zoo
 ::tiergarten::Tiergarten
 ::tierpark::Tierpark
@@ -5075,7 +4676,6 @@ SendMode Input
 ::zinne::Zinne
 ::messgerät::Messgerät
 ::metformin::Metformin
-::u-bahn::U-Bahn
 ::metro::Metro
 ::untergrundbahn::Untergrundbahn
 ::metronom::Metronom
@@ -5098,7 +4698,6 @@ SendMode Input
 ::grube::Grube
 ::mine::Mine
 ::bergwerk::Bergwerk
-::zeche::Zeche
 ::tagebau::Tagebau
 ::minenabwehrfahrzeug::Minenabwehrfahrzeug
 ::minenräumboot::Minenräumboot
@@ -5108,7 +4707,6 @@ SendMode Input
 ::nerz::Nerz
 ::anxiolytikum::Anxiolytikum
 ::minutenzeiger::Minutenzeiger
-::spiegel::Spiegel
 ::fäustling::Fäustling
 ::mixer::Mixer
 ::rührschüssel::Rührschüssel
@@ -5150,7 +4748,6 @@ SendMode Input
 ::motiv::Motiv
 ::motor::Motor
 ::triebwerk::Triebwerk
-::antrieb::Antrieb
 ::motorrad::Motorrad
 ::motorroller::Motorroller
 ::erdhügel::Erdhügel
@@ -5174,7 +4771,6 @@ SendMode Input
 ::klavierstuhl::Klavierstuhl
 ::muskete::Muskete
 ::maulkorb::Maulkorb
-::nagel::Nagel
 ::nagellack::Nagellack
 ::namensschild::Namensschild
 ::napiersche rechenstäbchen::Napiersche Rechenstäbchen
@@ -5196,8 +4792,6 @@ SendMode Input
 ::schlafmütze::Schlafmütze
 ::nachthemd::Nachthemd
 ::lachgas::Lachgas
-::schlinge::Schlinge
-::schnauze::Schnauze
 ::rüssel::Rüssel
 ::ogive::Ogive
 ::nasenring::Nasenring
@@ -5209,8 +4803,6 @@ SendMode Input
 ::kernreaktor::Kernreaktor
 ::mutter::Mutter
 ::nussknacker::Nussknacker
-::ruder::Ruder
-::darre::Darre
 ::tabakdarre::Tabakdarre
 ::malzdarre::Malzdarre
 ::hopfendarre::Hopfendarre
@@ -5225,7 +4817,6 @@ SendMode Input
 ::büro::Büro
 ::wachstuch::Wachstuch
 ::tanker::Tanker
-::salbe::Salbe
 ::balsam::Balsam
 ::einbahnstraße::Einbahnstraße
 ::zwiebelturm::Zwiebelturm
@@ -5264,10 +4855,8 @@ SendMode Input
 ::pagode::Pagode
 ::farbe::Farbe
 ::lack::Lack
-::pinsel::Pinsel
 ::gemälde::Gemälde
 ::palast::Palast
-::schloss::Schloss
 ::sänfte::Sänfte
 ::farbpalette::Farbpalette
 ::palette::Palette
@@ -5279,7 +4868,6 @@ SendMode Input
 ::panamakanal::Panamakanal
 ::glasscheibe::Glasscheibe
 ::verkleidung::Verkleidung
-::platte::Platte
 ::panorama::Panorama
 ::diorama::Diorama
 ::pantheon::Pantheon
@@ -5289,7 +4877,6 @@ SendMode Input
 ::feinstrumpfhose::Feinstrumpfhose
 ::strumpfhose::Strumpfhose
 ::büroklammer::Büroklammer
-::klammer::Klammer
 ::papierfabrik::Papierfabrik
 ::briefbeschwerer::Briefbeschwerer
 ::fallschirm::Fallschirm
@@ -5299,7 +4886,6 @@ SendMode Input
 ::parkuhr::Parkuhr
 ::parkautomat::Parkautomat
 ::parkett::Parkett
-::teil::Teil
 ::durchgang::Durchgang
 ::korridor::Korridor
 ::wagon::Wagon
@@ -5310,9 +4896,7 @@ SendMode Input
 ::zentralschlüssel::Zentralschlüssel
 ::passepartout::Passepartout
 ::pastiche::Pastiche
-::flicken::Flicken
 ::pfad::Pfad
-::bahn::Bahn
 ::pfad::Pfad
 ::terrasse::Terrasse
 ::veranda::Veranda
@@ -5343,7 +4927,6 @@ SendMode Input
 ::bleistiftspitzer::Bleistiftspitzer
 ::griffelspitzer::Griffelspitzer
 ::anhänger::Anhänger
-::pendel::Pendel
 ::penicillin::Penicillin
 ::gefängnis::Gefängnis
 ::taschenmesser::Taschenmesser
@@ -5381,7 +4964,6 @@ SendMode Input
 ::lichtbild::Lichtbild
 ::klavier::Klavier
 ::piccoloflöte::Piccoloflöte
-::hacke::Hacke
 ::pickel::Pickel
 ::spitzhacke::Spitzhacke
 ::plektron::Plektron
@@ -5396,14 +4978,12 @@ SendMode Input
 ::pier::Pier
 ::anlegestelle::Anlegestelle
 ::sparschwein::Sparschwein
-::pike::Pike
 ::tablette::Tablette
 ::pille::Pille
 ::pille::Pille
 ::bunker::Bunker
 ::pillendose::Pillendose
 ::pillenschachtel::Pillenschachtel
-::pranger::Pranger
 ::schandpfahl::Schandpfahl
 ::kopfkissen::Kopfkissen
 ::kissen::Kissen
@@ -5413,8 +4993,6 @@ SendMode Input
 ::nadel::Nadel
 ::zwicker::Zwicker
 ::nadelkissen::Nadelkissen
-::pfeife::Pfeife
-::flöte::Flöte
 ::rohrbombe::Rohrbombe
 ::pfeifenreiniger::Pfeifenreiniger
 ::pipette::Pipette
@@ -5430,7 +5008,6 @@ SendMode Input
 ::bildpunkt::Bildpunkt
 ::bildelement::Bildelement
 ::set::Set
-::hobel::Hobel
 ::raubank::Raubank
 ::planetarium::Planetarium
 ::fabrik::Fabrik
@@ -5454,7 +5031,6 @@ SendMode Input
 ::einkaufszentrum::Einkaufszentrum
 ::zange::Zange
 ::pflug::Pflug
-::stöpsel::Stöpsel
 ::verrohrung::Verrohrung
 ::rohrleitung::Rohrleitung
 ::plüsch::Plüsch
@@ -5491,7 +5067,6 @@ SendMode Input
 ::bullauge::Bullauge
 ::portikus::Portikus
 ::koffer::Koffer
-::positiv::Positiv
 ::positivfilm::Positivfilm
 ::pfosten::Pfosten
 ::frankiermaschine::Frankiermaschine
@@ -5499,7 +5074,6 @@ SendMode Input
 ::postkutsche::Postkutsche
 ::hintertür::Hintertür
 ::posthorn::Posthorn
-::postmoderne::Postmoderne
 ::topf::Topf
 ::gras::Gras
 ::marihuana::Marihuana
@@ -5517,7 +5091,6 @@ SendMode Input
 ::gebetsmantel::Gebetsmantel
 ::tallit::Tallit
 ::gebetsschal::Gebetsschal
-::presse::Presse
 ::druckerpresse::Druckerpresse
 ::dampfkochtopf::Dampfkochtopf
 ::schnellkochtopf::Schnellkochtopf
@@ -5529,7 +5102,6 @@ SendMode Input
 ::fließband::Fließband
 ::vorsprung::Vorsprung
 ::projektor::Projektor
-::stütze::Stütze
 ::propeller::Propeller
 ::prothese::Prothese
 ::winkelmesser::Winkelmesser
@@ -5538,16 +5110,13 @@ SendMode Input
 ::eishockeyscheibe::Eishockeyscheibe
 ::scheibe::Scheibe
 ::puck::Puck
-::rolle::Rolle
 ::pullover::Pullover
-::pumpe::Pumpe
 ::lochkarte::Lochkarte
 ::einstich::Einstich
 ::reifenpanne::Reifenpanne
 ::stocherkahn::Stocherkahn
 ::marionette::Marionette
 ::handpuppe::Handpuppe
-::taste::Taste
 ::strommast::Strommast
 ::quadrant::Quadrant
 ::kai::Kai
@@ -5556,7 +5125,6 @@ SendMode Input
 ::dame::Dame
 ::schreibfeder::Schreibfeder
 ::federkiel::Federkiel
-::feder::Feder
 ::quilt::Quilt
 ::chinin::Chinin
 ::köcher::Köcher
@@ -5568,39 +5136,30 @@ SendMode Input
 ::schläger::Schläger
 ::radar::Radar
 ::sternmotor::Sternmotor
-::kühler::Kühler
 ::röntgenbild::Röntgenbild
 ::radio::Radio
 ::radiosender::Radiosender
 ::radioteleskop::Radioteleskop
 ::radarkuppel::Radarkuppel
 ::floß::Floß
-::lappen::Lappen
 ::geländer::Geländer
 ::reling::Reling
 ::eisenbahnlinie::Eisenbahnlinie
 ::gleis::Gleis
 ::eisenbahn::Eisenbahn
-::bahn::Bahn
 ::bahnhof::Bahnhof
 ::eisenbahnhof::Eisenbahnhof
 ::regenmantel::Regenmantel
-::rechen::Rechen
-::harke::Harke
 ::rampe::Rampe
-::auffahrt::Auffahrt
 ::bollwerk::Bollwerk
 ::ladestock::Ladestock
 ::florett::Florett
 ::rapier::Rapier
 ::stoßdegen::Stoßdegen
 ::raspel::Raspel
-::rassel::Rassel
-::klapper::Klapper
 ::rattenfalle::Rattenfalle
 ::lesesaal::Lesesaal
 ::festwertspeicher::Festwertspeicher
-::nur-lese-speicher::Nur-Lese-Speicher
 ::saftpresse::Saftpresse
 ::rückseite::Rückseite
 ::kehrseite::Kehrseite
@@ -5619,7 +5178,6 @@ SendMode Input
 ::asyl::Asyl
 ::herberge::Herberge
 ::zuflucht::Zuflucht
-::zügel::Zügel
 ::relais::Relais
 ::reliquie::Reliquie
 ::kloster::Kloster
@@ -5634,11 +5192,9 @@ SendMode Input
 ::retainer::Retainer
 ::bremsrakete::Bremsrakete
 ::rückfahrkarte::Rückfahrkarte
-::revers::Revers
 ::rückwärtsgang::Rückwärtsgang
 ::revolver::Revolver
 ::drehtür::Drehtür
-::band::Band
 ::gewehr::Gewehr
 ::vorrichtung::Vorrichtung
 ::anlage::Anlage
@@ -5648,7 +5204,6 @@ SendMode Input
 ::takelage::Takelage
 ::ring::Ring
 ::rollschuhbahn::Rollschuhbahn
-::niet::Niet
 ::straße::Straße
 ::straßen::Straßen
 ::route::Route
@@ -5665,7 +5220,6 @@ SendMode Input
 ::dach::Dach
 ::raum::Raum
 ::zimmer::Zimmer
-::seil::Seil
 ::tau::Tau
 ::seilbrücke::Seilbrücke
 ::strickleiter::Strickleiter
@@ -5691,13 +5245,11 @@ SendMode Input
 ::landebahn::Landebahn
 ::säbel::Säbel
 ::sack::Sack
-::posaune::Posaune
 ::satteltasche::Satteltasche
 ::satteldecke::Satteldecke
 ::tresor::Tresor
 ::sicherheitsnadel::Sicherheitsnadel
 ::geländer::Geländer
-::segel::Segel
 ::kutter::Kutter
 ::segelboot::Segelboot
 ::segelschiff::Segelschiff
@@ -5724,12 +5276,10 @@ SendMode Input
 ::topf::Topf
 ::untertasse::Untertasse
 ::sauna::Sauna
-::säge::Säge
 ::sägewerk::Sägewerk
 ::saxofon::Saxofon
 ::bügelhorn::Bügelhorn
 ::saxhorn::Saxhorn
-::scheide::Scheide
 ::gerüst::Gerüst
 ::schafott::Schafott
 ::waage::Waage
@@ -5738,43 +5288,34 @@ SendMode Input
 ::abtaster::Abtaster
 ::vogelscheuche::Vogelscheuche
 ::strohpuppe::Strohpuppe
-::schule::Schule
 ::schultasche::Schultasche
 ::schulranzen::Schulranzen
 ::schulbus::Schulbus
 ::schoner::Schoner
 ::krummsäbel::Krummsäbel
 ::scimitar::Scimitar
-::schere::Schere
 ::tretroller::Tretroller
 ::trittroller::Trittroller
 ::anzeigetafel::Anzeigetafel
-::geißel::Geißel
 ::leinwand::Leinwand
-::schraube::Schraube
 ::schraubenzieher::Schraubenzieher
 ::schraubendreher::Schraubendreher
 ::gewinde::Gewinde
 ::gewindegang::Gewindegang
 ::skriptorium::Skriptorium
 ::skulptur::Skulptur
-::sense::Sense
 ::siegel::Siegel
 ::petschaft::Petschaft
-::stempel::Stempel
 ::wasserflugzeug::Wasserflugzeug
-::sitz::Sitz
 ::sicherheitsgurt::Sicherheitsgurt
 ::sekundenzeiger::Sekundenzeiger
 ::schreibsekretär::Schreibsekretär
 ::beruhigungsmittel::Beruhigungsmittel
-::wippe::Wippe
 ::seismograf::Seismograf
 ::seismograph::Seismograph
 ::paillette::Paillette
 ::server::Server
 ::service::Service
-::gerät::Gerät
 ::sitzbank::Sitzbank
 ::sofa::Sofa
 ::couch::Couch
@@ -5790,10 +5331,8 @@ SendMode Input
 ::schampun::Schampun
 ::haarwaschmittel::Haarwaschmittel
 ::rasierschaum::Rasierschaum
-::schuppen::Schuppen
 ::schuppen im hinterhof::Schuppen im Hinterhof
 ::blatt::Blatt
-::platte::Platte
 ::blech::Blech
 ::regal::Regal
 ::granate::Granate
@@ -5807,7 +5346,6 @@ SendMode Input
 ::schutz::Schutz
 ::umschalttaste::Umschalttaste
 ::schiff::Schiff
-::werft::Werft
 ::hemd::Hemd
 ::schuh::Schuh
 ::lackschuh::Lackschuh
@@ -5821,11 +5359,9 @@ SendMode Input
 ::einkaufstasche::Einkaufstasche
 ::warenkorb::Warenkorb
 ::einkaufswagen::Einkaufswagen
-::karren::Karren
 ::kurzschluss::Kurzschluss
 ::abkürzung::Abkürzung
 ::flinte::Flinte
-::schaufel::Schaufel
 ::schüppe::Schüppe
 ::duschvorhang::Duschvorhang
 ::duschkopf::Duschkopf
@@ -5847,7 +5383,6 @@ SendMode Input
 ::gehsteig::Gehsteig
 ::sieb::Sieb
 ::schild::Schild
-::tafel::Tafel
 ::schalldämpfer::Schalldämpfer
 ::silhouette::Silhouette
 ::schattenriss::Schattenriss
@@ -5887,17 +5422,14 @@ SendMode Input
 ::wolkenkratzer::Wolkenkratzer
 ::hochhaus::Hochhaus
 ::scheibe::Scheibe
-::platte::Platte
 ::schlitten::Schlitten
 ::schlafsack::Schlafsack
 ::schlafwagen::Schlafwagen
 ::schlafmittel::Schlafmittel
 ::schlaftablette::Schlaftablette
 ::ärmel::Ärmel
-::rutsche::Rutsche
 ::reißverschluss::Reißverschluss
 ::schiebetür::Schiebetür
-::schleuder::Schleuder
 ::zwille::Zwille
 ::hausschuh::Hausschuh
 ::pantoffel::Pantoffel
@@ -5911,7 +5443,6 @@ SendMode Input
 ::schnarrtrommel::Schnarrtrommel
 ::snare::Snare
 ::rührtrommel::Rührtrommel
-::schnorchel::Schnorchel
 ::schneeball::Schneeball
 ::snowboard::Snowboard
 ::schneemann::Schneemann
@@ -5922,12 +5453,10 @@ SendMode Input
 ::schnupftabakdose::Schnupftabakdose
 ::tabakdose::Tabakdose
 ::tabatiere::Tabatiere
-::seife::Seife
 ::seifenschale::Seifenschale
 ::socke::Socke
 ::steckdose::Steckdose
 ::fassung::Fassung
-::ratsche::Ratsche
 ::sofa::Sofa
 ::couch::Couch
 ::soffitte::Soffitte
@@ -5937,13 +5466,10 @@ SendMode Input
 ::solarzelle::Solarzelle
 ::lötkolben::Lötkolben
 ::sohle::Sohle
-::spule::Spule
 ::sonar::Sonar
 ::tonspur::Tonspur
 ::suppenlöffel::Suppenlöffel
 ::esslöffel::Esslöffel
-::löffel::Löffel
-::quelle::Quelle
 ::ursprung::Ursprung
 ::soutane::Soutane
 ::sutane::Sutane
@@ -5957,7 +5483,6 @@ SendMode Input
 ::raumfähre::Raumfähre
 ::raumstation::Raumstation
 ::spaten::Spaten
-::pik::Pik
 ::ersatzteil::Ersatzteil
 ::zündkerze::Zündkerze
 ::gamasche::Gamasche
@@ -5969,21 +5494,17 @@ SendMode Input
 ::samenbank::Samenbank
 ::sphinx::Sphinx
 ::spindel::Spindel
-::rücken::Rücken
 ::spinett::Spinett
 ::spinnrad::Spinnrad
 ::spucknapf::Spucknapf
 ::straklatte::Straklatte
-::schiene::Schiene
 ::gipsschiene::Gipsschiene
 ::spoiler::Spoiler
 ::speiche::Speiche
-::löffel::Löffel
 ::sportwagen::Sportwagen
 ::scheinwerfer::Scheinwerfer
 ::reisig::Reisig
 ::sprungfeder::Sprungfeder
-::feder::Feder
 ::sprungbrett::Sprungbrett
 ::feuerlöschanlage::Feuerlöschanlage
 ::jätmesser::Jätmesser
@@ -6001,16 +5522,13 @@ SendMode Input
 ::treppe::Treppe
 ::pfahl::Pfahl
 ::pflock::Pflock
-::stand::Stand
 ::kiosk::Kiosk
 ::stall::Stall
 ::pfosten::Pfosten
-::stütze::Stütze
 ::banner::Banner
 ::standarte::Standarte
 ::tacker::Tacker
 ::heftgerät::Heftgerät
-::steuerbord::Steuerbord
 ::bahnhof::Bahnhof
 ::station::Station
 ::statue::Statue
@@ -6022,7 +5540,6 @@ SendMode Input
 ::dampflokomotive::Dampflokomotive
 ::dampflok::Dampflok
 ::dampfwalze::Dampfwalze
-::walze::Walze
 ::straßenwalze::Straßenwalze
 ::stahlwerk::Stahlwerk
 ::balkenwaage::Balkenwaage
@@ -6030,14 +5547,12 @@ SendMode Input
 ::turmhelm::Turmhelm
 ::lenkrad::Lenkrad
 ::schablone::Schablone
-::stufe::Stufe
 ::sprosse::Sprosse
 ::treppenstufe::Treppenstufe
 ::stufenleiter::Stufenleiter
 ::stehleiter::Stehleiter
 ::trittleiter::Trittleiter
 ::leitertritt::Leitertritt
-::tritt::Tritt
 ::trittschemel::Trittschemel
 ::heck::Heck
 ::schiffshinterteil::Schiffshinterteil
@@ -6064,10 +5579,7 @@ SendMode Input
 ::absperrhahn::Absperrhahn
 ::stoppuhr::Stoppuhr
 ::akkumulator::Akkumulator
-::lager::Lager
-::speicher::Speicher
 ::depot::Depot
-::lager::Lager
 ::lagerraum::Lagerraum
 ::ofen::Ofen
 ::richtscheit::Richtscheit
@@ -6078,14 +5590,11 @@ SendMode Input
 ::trinkrohr::Trinkrohr
 ::straße::Straße
 ::straßenbahn::Straßenbahn
-::s-bahn::S-bahn
 ::tram::Tram
 ::trambahn::Trambahn
 ::straßenbeleuchtung::Straßenbeleuchtung
 ::straßenlaterne::Straßenlaterne
-::trage::Trage
 ::tragbahre::Tragbahre
-::bahre::Bahre
 ::kordel::Kordel
 ::saiteninstrument::Saiteninstrument
 ::stroboskop::Stroboskop
@@ -6123,7 +5632,6 @@ SendMode Input
 ::sonnencreme::Sonnencreme
 ::sonnenkreme::Sonnenkreme
 ::supermarkt::Supermarkt
-::stütze::Stütze
 ::zäpfchen::Zäpfchen
 ::boden-luft-rakete::Boden-Luft-Rakete
 ::surfbrett::Surfbrett
@@ -6134,7 +5642,6 @@ SendMode Input
 ::hängebrücke::Hängebrücke
 ::mopp::Mopp
 ::frack::Frack
-::verband::Verband
 ::bandage::Bandage
 ::pullover::Pullover
 ::sweatshirt::Sweatshirt
@@ -6146,18 +5653,15 @@ SendMode Input
 ::badehose::Badehose
 ::schwimmhose::Schwimmhose
 ::badeanzug::Badeanzug
-::schaukel::Schaukel
 ::hutsche::Hutsche
 ::spießrute::Spießrute
 ::schalter::Schalter
-::weiche::Weiche
 ::schwert::Schwert
 ::laubhütte::Laubhütte
 ::sukka::Sukka
 ::synagoge::Synagoge
 ::synchrotron::Synchrotron
 ::synthesizer::Synthesizer
-::spritze::Spritze
 ::system::System
 ::ordnung::Ordnung
 ::tisch::Tisch
@@ -6170,14 +5674,12 @@ SendMode Input
 ::tamburin::Tamburin
 ::tampon::Tampon
 ::tangram::Tangram
-::tank::Tank
 ::behälter::Behälter
 ::panzer::Panzer
 ::krug::Krug
 ::seidel::Seidel
 ::gerberei::Gerberei
 ::gewindeschneider::Gewindeschneider
-::band::Band
 ::maßband::Maßband
 ::stößel::Stößel
 ::tara::Tara
@@ -6188,7 +5690,6 @@ SendMode Input
 ::tattoo::Tattoo
 ::gasthaus::Gasthaus
 ::teetasse::Teetasse
-::kessel::Kessel
 ::teekessel::Teekessel
 ::teekanne::Teekanne
 ::teehaus::Teehaus
@@ -6209,18 +5710,14 @@ SendMode Input
 ::telex::Telex
 ::fernseher::Fernseher
 ::fernsehapparat::Fernsehapparat
-::glotze::Glotze
 ::fernsehsender::Fernsehsender
 ::tempel::Tempel
 ::kutter::Kutter
 ::tennisball::Tennisball
 ::tennisschläger::Tennisschläger
-::zapfen::Zapfen
-::zelt::Zelt
 ::erdnagel::Erdnagel
 ::hering::Hering
 ::tipi::Tipi
-::terminal::Terminal
 ::reihenhaus::Reihenhaus
 ::teslaspule::Teslaspule
 ::reagenzglas::Reagenzglas
@@ -6241,9 +5738,7 @@ SendMode Input
 ::nähring::Nähring
 ::fingerschutz::Fingerschutz
 ::ding::Ding
-::faden::Faden
 ::garn::Garn
-::zwirn::Zwirn
 ::dreschboden::Dreschboden
 ::tenne::Tenne
 ::hals::Hals
@@ -6251,11 +5746,9 @@ SendMode Input
 ::thron::Thron
 ::reißzwecke::Reißzwecke
 ::reißnagel::Reißnagel
-::schwelle::Schwelle
 ::bahnschwelle::Bahnschwelle
 ::eisenbahnschwelle::Eisenbahnschwelle
 ::kachel::Kachel
-::fliese::Fliese
 ::dachziegel::Dachziegel
 ::zeitbombe::Zeitbombe
 ::zeitkapsel::Zeitkapsel
@@ -6264,7 +5757,6 @@ SendMode Input
 ::zeitschaltuhr::Zeitschaltuhr
 ::tinktur::Tinktur
 ::jodtinktur::Jodtinktur
-::zinke::Zinke
 ::schneekette::Schneekette
 ::trinitrotoluol::Trinitrotoluol
 ::toaster::Toaster
@@ -6289,7 +5781,6 @@ SendMode Input
 ::schlagbaum::Schlagbaum
 ::schagbaum::Schagbaum
 ::tomahawk::Tomahawk
-::tonarm::Tonarm
 ::werkzeug::Werkzeug
 ::instrument::Instrument
 ::werkzeugkiste::Werkzeugkiste
@@ -6301,14 +5792,9 @@ SendMode Input
 ::zahnstocher::Zahnstocher
 ::deckel::Deckel
 ::abdeckung::Abdeckung
-::kappe::Kappe
-::kreisel::Kreisel
-::topp::Topp
 ::toppsegel::Toppsegel
-::fackel::Fackel
 ::torpedo::Torpedo
 ::torpedoboot::Torpedoboot
-::totem::Totem
 ::berührungsbildschirm::Berührungsbildschirm
 ::sensorbildschirm::Sensorbildschirm
 ::touchbildschirm::Touchbildschirm
@@ -6336,8 +5822,6 @@ SendMode Input
 ::transistor::Transistor
 ::getriebe::Getriebe
 ::transponder::Transponder
-::durchreise::Durchreise
-::falle::Falle
 ::trawler::Trawler
 ::tablett::Tablett
 ::profil::Profil
@@ -6355,7 +5839,6 @@ SendMode Input
 ::trireme::Trireme
 ::triumphbogen::Triumphbogen
 ::troika::Troika
-::posaune::Posaune
 ::trophäe::Trophäe
 ::kelle::Kelle
 ::lastauto::Lastauto
@@ -6367,7 +5850,6 @@ SendMode Input
 ::trumpf::Trumpf
 ::koffer::Koffer
 ::bottich::Bottich
-::trog::Trog
 ::wanne::Wanne
 ::tube::Tube
 ::schlepper::Schlepper
@@ -6392,7 +5874,6 @@ SendMode Input
 ::unterführung::Unterführung
 ::unterwäsche::Unterwäsche
 ::einrad::Einrad
-::uniform::Uniform
 ::universität::Universität
 ::hochschule::Hochschule
 ::polsterung::Polsterung
@@ -6415,7 +5896,6 @@ SendMode Input
 ::velodrom::Velodrom
 ::radrennbahn::Radrennbahn
 ::velours::Velours
-::samt::Samt
 ::verkaufsautomat::Verkaufsautomat
 ::furnier::Furnier
 ::jalousie::Jalousie
@@ -6441,7 +5921,6 @@ SendMode Input
 ::villa::Villa
 ::weinberg::Weinberg
 ::bratsche::Bratsche
-::geige::Geige
 ::violine::Violine
 ::schraubstock::Schraubstock
 ::spannungsmessgerät::Spannungsmessgerät
@@ -6450,7 +5929,6 @@ SendMode Input
 ::fußweg::Fußweg
 ::krückstock::Krückstock
 ::gehstock::Gehstock
-::mauer::Mauer
 ::wall::Wall
 ::wanduhr::Wanduhr
 ::brieftasche::Brieftasche
@@ -6462,7 +5940,6 @@ SendMode Input
 ::station::Station
 ::garderobe::Garderobe
 ::kleiderschrank::Kleiderschrank
-::lager::Lager
 ::sprengkopf::Sprengkopf
 ::gefechtskopf::Gefechtskopf
 ::kriegsschiff::Kriegsschiff
@@ -6511,10 +5988,8 @@ SendMode Input
 ::rollstuhl::Rollstuhl
 ::schleifstein::Schleifstein
 ::wetzstein::Wetzstein
-::peitsche::Peitsche
 ::schneebesen::Schneebesen
 ::schaumschläger::Schaumschläger
-::pfeife::Pfeife
 ::trillerpfeife::Trillerpfeife
 ::weißes haus::Weißes Haus
 ::bordell::Bordell
@@ -6544,16 +6019,13 @@ SendMode Input
 ::kellerei::Kellerei
 ::weinschlauch::Weinschlauch
 ::flügel::Flügel
-::schwinge::Schwinge
 ::ohrensessel::Ohrensessel
 ::flügelmutter::Flügelmutter
 ::leitung::Leitung
 ::wok::Wok
-::holz::Holz
 ::kochlöffel::Kochlöffel
 ::holzlöffel::Holzlöffel
 ::holzblasinstrument::Holzblasinstrument
-::wolle::Wolle
 ::wollware::Wollware
 ::werk::Werk
 ::werkbank::Werkbank
@@ -6568,7 +6040,6 @@ SendMode Input
 ::girlande::Girlande
 ::wrack::Wrack
 ::schraubenschlüssel::Schraubenschlüssel
-::schlüssel::Schlüssel
 ::armband::Armband
 ::manschette::Manschette
 ::armbanduhr::Armbanduhr
@@ -6598,7 +6069,6 @@ SendMode Input
 ::kälte::Kälte
 ::esprit::Esprit
 ::untätigkeit::Untätigkeit
-::stillstand::Stillstand
 ::perfektionismus::Perfektionismus
 ::geduld::Geduld
 ::einstandspflicht::Einstandspflicht
@@ -6629,7 +6099,6 @@ SendMode Input
 ::gesichtsausdruck::Gesichtsausdruck
 ::ring::Ring
 ::fleck::Fleck
-::kreuz::Kreuz
 ::fleck::Fleck
 ::hirsutismus::Hirsutismus
 ::malerhaftigkeit::Malerhaftigkeit
@@ -6640,14 +6109,11 @@ SendMode Input
 ::charme::Charme
 ::anziehung::Anziehung
 ::anziehungskraft::Anziehungskraft
-::reiz::Reiz
 ::liebreiz::Liebreiz
 ::makel::Makel
 ::muttermal::Muttermal
 ::muttermal::Muttermal
-::mal::Mal
 ::fleck::Fleck
-::klecks::Klecks
 ::warze::Warze
 ::rokoko::Rokoko
 ::glasur::Glasur
@@ -6659,9 +6125,7 @@ SendMode Input
 ::trennschärfe::Trennschärfe
 ::lesbarkeit::Lesbarkeit
 ::teilbarkeit::Teilbarkeit
-::schärfe::Schärfe
 ::schwierigkeit::Schwierigkeit
-::härte::Härte
 ::geschicklichkeit::Geschicklichkeit
 ::feinheit::Feinheit
 ::feinsinn::Feinsinn
@@ -6698,7 +6162,6 @@ SendMode Input
 ::dualität::Dualität
 ::absolutheit::Absolutheit
 ::unbeständigkeit::Unbeständigkeit
-::wandel::Wandel
 ::identität::Identität
 ::gleichheit::Gleichheit
 ::einheit::Einheit
@@ -6710,7 +6173,6 @@ SendMode Input
 ::ähnlichkeit::Ähnlichkeit
 ::gleichberechtigung::Gleichberechtigung
 ::äquivalenz::Äquivalenz
-::unterschied::Unterschied
 ::unterscheidung::Unterscheidung
 ::andersartigkeit::Andersartigkeit
 ::anderssein::Anderssein
@@ -6724,10 +6186,8 @@ SendMode Input
 ::ungleichheit::Ungleichheit
 ::wahrscheinlichkeit::Wahrscheinlichkeit
 ::wahrscheinlichkeit::Wahrscheinlichkeit
-::frage::Frage
 ::zweifel::Zweifel
 ::spezialität::Spezialität
-::schwäche::Schwäche
 ::solidarität::Solidarität
 ::einfachheit::Einfachheit
 ::vielfalt::Vielfalt
@@ -6765,7 +6225,6 @@ SendMode Input
 ::flair::Flair
 ::feinheit::Feinheit
 ::zartheit::Zartheit
-::klasse::Klasse
 ::stil::Stil
 ::vulgarität::Vulgarität
 ::lesbarkeit::Lesbarkeit
@@ -6793,7 +6252,6 @@ SendMode Input
 ::opportunismus::Opportunismus
 ::unternehmungsgeist::Unternehmungsgeist
 ::unternehmungslust::Unternehmungslust
-::initiative::Initiative
 ::kühnheit::Kühnheit
 ::verwegenheit::Verwegenheit
 ::frechheit::Frechheit
@@ -6836,7 +6294,6 @@ SendMode Input
 ::aufrichtigkeit::Aufrichtigkeit
 ::ehrlichkeit::Ehrlichkeit
 ::heuchelei::Heuchelei
-::anstand::Anstand
 ::ehrlichkeit::Ehrlichkeit
 ::aufrichtigkeit::Aufrichtigkeit
 ::freimut::Freimut
@@ -6844,7 +6301,6 @@ SendMode Input
 ::offenheit::Offenheit
 ::verlogenheit::Verlogenheit
 ::konstanz::Konstanz
-::treue::Treue
 ::loyalität::Loyalität
 ::patriotismus::Patriotismus
 ::chauvinismus::Chauvinismus
@@ -6862,7 +6318,6 @@ SendMode Input
 ::völlerei::Völlerei
 ::fresssucht::Fresssucht
 ::gefräßigkeit::Gefräßigkeit
-::würde::Würde
 ::selbstachtung::Selbstachtung
 ::überheblichkeit::Überheblichkeit
 ::hochmut::Hochmut
@@ -6872,18 +6327,13 @@ SendMode Input
 ::urteilsvermögen::Urteilsvermögen
 ::sparsamkeit::Sparsamkeit
 ::geiz::Geiz
-::misstrauen::Misstrauen
 ::argwohn::Argwohn
 ::sauberkeit::Sauberkeit
-::betragen::Betragen
-::anstand::Anstand
 ::bescheidenheit::Bescheidenheit
 ::prüderie::Prüderie
 ::gelassenheit::Gelassenheit
-::milde::Milde
 ::höflichkeit::Höflichkeit
 ::ehrerbietung::Ehrerbietung
-::anstand::Anstand
 ::höflichkeit::Höflichkeit
 ::verbindlichkeit::Verbindlichkeit
 ::grobheit::Grobheit
@@ -6897,11 +6347,8 @@ SendMode Input
 ::schulung::Schulung
 ::aufklärung::Aufklärung
 ::erbschaft::Erbschaft
-::vorfahren::Vorfahren
 ::herkunft::Herkunft
-::alter::Alter
 ::neuheit::Neuheit
-::frische::Frische
 ::langlebigkeit::Langlebigkeit
 ::jugend::Jugend
 ::mode::Mode
@@ -6914,10 +6361,8 @@ SendMode Input
 ::bau::Bau
 ::rohbau::Rohbau
 ::struktur::Struktur
-::rahmen::Rahmen
 ::gerüst::Gerüst
 ::fachwerk::Fachwerk
-::verfassen::Verfassen
 ::verfassung::Verfassung
 ::phänotyp::Phänotyp
 ::erscheinungsbild::Erscheinungsbild
@@ -6936,19 +6381,13 @@ SendMode Input
 ::farbton::Farbton
 ::ton::Ton
 ::ebenholz::Ebenholz
-::kreide::Kreide
+::weiss::Weiss
 ::scharlach::Scharlach
-::ocker::Ocker
 ::grünlichkeit::Grünlichkeit
 ::aquamarin::Aquamarin
 ::zyan::Zyan
-::bläue::Bläue
-::himmelblau::Himmelblau
-::azurblau::Azurblau
 ::berliner blau::Berliner Blau
 ::preußisch blau::Preußisch Blau
-::beige::Beige
-::beige::Beige
 ::farbton::Farbton
 ::teint::Teint
 ::gesichtsfarbe::Gesichtsfarbe
@@ -6957,11 +6396,7 @@ SendMode Input
 ::tonwert::Tonwert
 ::geruch::Geruch
 ::duft::Duft
-::klang::Klang
 ::schall::Schall
-::stille::Stille
-::stille::Stille
-::ruhe::Ruhe
 ::musicalität::Musicalität
 ::textur::Textur
 ::missklang::Missklang
@@ -6971,7 +6406,6 @@ SendMode Input
 ::katzenmusik::Katzenmusik
 ::sopran::Sopran
 ::tenor::Tenor
-::bass::Bass
 ::baß::Baß
 ::ton::Ton
 ::klangfarbe::Klangfarbe
@@ -7008,9 +6442,7 @@ SendMode Input
 ::kälte::Kälte
 ::kälte::Kälte
 ::frost::Frost
-::kühle::Kühle
 ::hitze::Hitze
-::wärme::Wärme
 ::sicht::Sicht
 ::sichtbarkeit::Sichtbarkeit
 ::sichtverhältnisse::Sichtverhältnisse
@@ -7027,14 +6459,8 @@ SendMode Input
 ::schwerelosigkeit::Schwerelosigkeit
 ::impuls::Impuls
 ::nachhaltigkeit::Nachhaltigkeit
-::kraft::Kraft
-::stärke::Stärke
 ::mut::Mut
-::schneid::Schneid
-::stärke::Stärke
 ::schwung::Schwung
-::härte::Härte
-::stärke::Stärke
 ::gewichtung::Gewichtung
 ::gewalt::Gewalt
 ::heftigkeit::Heftigkeit
@@ -7042,7 +6468,6 @@ SendMode Input
 ::konzentration::Konzentration
 ::molarität::Molarität
 ::verwundbarkeit::Verwundbarkeit
-::folge::Folge
 ::verspätung::Verspätung
 ::pünktlichkeit::Pünktlichkeit
 ::dauer::Dauer
@@ -7056,8 +6481,6 @@ SendMode Input
 ::hochfrequenz::Hochfrequenz
 ::tempo::Tempo
 ::geschwindigkeit::Geschwindigkeit
-::eile::Eile
-::hast::Hast
 ::langsamkeit::Langsamkeit
 ::trägheit::Trägheit
 ::symmetrie::Symmetrie
@@ -7083,7 +6506,6 @@ SendMode Input
 ::wellenlänge::Wellenlänge
 ::brennweite::Brennweite
 ::diaspora::Diaspora
-::dichte::Dichte
 ::absorbanz::Absorbanz
 ::größenordnung::Größenordnung
 ::entropie::Entropie
@@ -7098,7 +6520,6 @@ SendMode Input
 ::intensität::Intensität
 ::umfang::Umfang
 ::durchmesser::Durchmesser
-::dicke::Dicke
 ::kaliber::Kaliber
 ::durchmesser::Durchmesser
 ::bohrung::Bohrung
@@ -7107,25 +6528,19 @@ SendMode Input
 ::verringerung::Verringerung
 ::gehaltserhöhung::Gehaltserhöhung
 ::korrektur::Korrektur
-::abfall::Abfall
 ::absturz::Absturz
 ::überfluss::Überfluss
 ::überfluss::Überfluss
-::mangel::Mangel
 ::knappheit::Knappheit
 ::seltenheit::Seltenheit
 ::rarität::Rarität
-::maßhalten::Maßhalten
 ::luxus::Luxus
 ::überschuss::Überschuss
 ::redundanz::Redundanz
 ::anzahl::Anzahl
-::zahl::Zahl
 ::minderheit::Minderheit
 ::umfang::Umfang
-::ausmaß::Ausmaß
 ::größe::Größe
-::grenze::Grenze
 ::begrenzer::Begrenzer
 ::maximum::Maximum
 ::rand::Rand
@@ -7137,16 +6552,10 @@ SendMode Input
 ::meeresspiegel::Meeresspiegel
 ::länge::Länge
 ::längenmaß::Längenmaß
-::tiefe::Tiefe
 ::tiefgang::Tiefgang
-::breite::Breite
-::weite::Weite
 ::höhe::Höhe
-::wert::Wert
-::verdienst::Verdienst
 ::vorteil::Vorteil
 ::optimum::Optimum
-::preis::Preis
 ::produktivität::Produktivität
 ::leistungsfähigkeit::Leistungsfähigkeit
 ::nützlichkeit::Nützlichkeit
@@ -7160,12 +6569,9 @@ SendMode Input
 ::kompetenz::Kompetenz
 ::sachkunde::Sachkunde
 ::befugnis::Befugnis
-::können::Können
 ::kompetenz::Kompetenz
-::können::Können
 ::begabung::Begabung
 ::ressource::Ressource
-::mittel::Mittel
 ::hilfe::Hilfe
 ::ausweg::Ausweg
 ::zuflucht::Zuflucht
@@ -7173,23 +6579,17 @@ SendMode Input
 ::vorsprung::Vorsprung
 ::führung::Führung
 ::leitung::Leitung
-::gewinn::Gewinn
 ::profit::Profit
 ::privileg::Privileg
 ::überlegenheit::Überlegenheit
 ::vorsprung::Vorsprung
-::stärke::Stärke
-::schwäche::Schwäche
 ::manko::Manko
 ::verlust::Verlust
-::ausgaben::Ausgaben
 ::blutzoll::Blutzoll
 ::nachteil::Nachteil
 ::wichtigkeit::Wichtigkeit
-::belang::Belang
 ::anspruch::Anspruch
 ::zugang::Zugang
-::zutritt::Zutritt
 ::menschenrecht::Menschenrecht
 ::prärogative::Prärogative
 ::dienstbarkeit::Dienstbarkeit
@@ -7205,7 +6605,6 @@ SendMode Input
 ::wahlrecht::Wahlrecht
 ::nutznießung::Nutznießung
 ::nießbrauch::Nießbrauch
-::macht::Macht
 ::unwiderstehlichkeit::Unwiderstehlichkeit
 ::einfluss::Einfluss
 ::verständnis::Verständnis
@@ -7217,7 +6616,6 @@ SendMode Input
 ::wirksamkeit::Wirksamkeit
 ::fähigkeit::Fähigkeit
 ::machtlosigkeit::Machtlosigkeit
-::schwäche::Schwäche
 ::papiertiger::Papiertiger
 ::primzahl-eigenschaft::Primzahl-Eigenschaft
 ::skalierbarkeit::Skalierbarkeit
@@ -7234,7 +6632,6 @@ SendMode Input
 ::mumie::Mumie
 ::körperteil::Körperteil
 ::zwiebel::Zwiebel
-::hülle::Hülle
 ::futteral::Futteral
 ::epithel::Epithel
 ::oberhaut::Oberhaut
@@ -7259,7 +6656,6 @@ SendMode Input
 ::seitenscheitel::Seitenscheitel
 ::frisur::Frisur
 ::frisur::Frisur
-::locke::Locke
 ::pony::Pony
 ::zopf::Zopf
 ::chignon::Chignon
@@ -7310,7 +6706,6 @@ SendMode Input
 ::sternum::Sternum
 ::zahn::Zahn
 ::sägezahn::Sägezahn
-::wirbel::Wirbel
 ::wirbelknochen::Wirbelknochen
 ::bandscheibe::Bandscheibe
 ::augenhöhle::Augenhöhle
@@ -7322,18 +6717,13 @@ SendMode Input
 ::knorpel::Knorpel
 ::muskel::Muskel
 ::abduktor::Abduktor
-::band::Band
-::sehne::Sehne
 ::ganglion::Ganglion
 ::organ::Organ
 ::eingeweide::Eingeweide
 ::zunge::Zunge
 ::glottis::Glottis
-::klappe::Klappe
-::schnauze::Schnauze
 ::mund::Mund
 ::maul::Maul
-::höhle::Höhle
 ::kloake::Kloake
 ::zahnfleisch::Zahnfleisch
 ::lippe::Lippe
@@ -7347,11 +6737,9 @@ SendMode Input
 ::backenzahn::Backenzahn
 ::weisheitszahn::Weisheitszahn
 ::wurzel::Wurzel
-::wurzeln::Wurzeln
 ::zahnwurzel::Zahnwurzel
 ::wurzelkanal::Wurzelkanal
 ::zahnschmelz::Zahnschmelz
-::schmelz::Schmelz
 ::mandel::Mandel
 ::tonsille::Tonsille
 ::gaumenmandel::Gaumenmandel
@@ -7362,14 +6750,12 @@ SendMode Input
 ::aderhaut::Aderhaut
 ::ziliarkörper::Ziliarkörper
 ::augenbraue::Augenbraue
-::braue::Braue
 ::augenlid::Augenlid
 ::lid::Lid
 ::wimper::Wimper
 ::augenwimper::Augenwimper
 ::bindehaut::Bindehaut
 ::augapfel::Augapfel
-::kapsel::Kapsel
 ::hornhaut::Hornhaut
 ::glaskörper::Glaskörper
 ::zwerchfell::Zwerchfell
@@ -7415,8 +6801,6 @@ SendMode Input
 ::pleurahöhle::Pleurahöhle
 ::pleuraspalt::Pleuraspalt
 ::herz::Herz
-::pumpe::Pumpe
-::lappen::Lappen
 ::hautlappen::Hautlappen
 ::hautfetzen::Hautfetzen
 ::myokard::Myokard
@@ -7440,12 +6824,8 @@ SendMode Input
 ::plasma::Plasma
 ::lymphe::Lymphe
 ::sperma::Sperma
-::wichse::Wichse
 ::samen::Samen
-::träne::Träne
 ::tränentropfen::Tränentropfen
-::schweiß::Schweiß
-::schwitze::Schwitze
 ::magensäure::Magensäure
 ::magensaft::Magensaft
 ::bauchspeichel::Bauchspeichel
@@ -7458,7 +6838,6 @@ SendMode Input
 ::histamin::Histamin
 ::schleim::Schleim
 ::speichel::Speichel
-::spucke::Spucke
 ::talg::Talg
 ::smegma::Smegma
 ::wochenfluss::Wochenfluss
@@ -7469,7 +6848,6 @@ SendMode Input
 ::ader::Ader
 ::krampfader::Krampfader
 ::varix::Varix
-::kapillare::Kapillare
 ::membran::Membran
 ::membrane::Membrane
 ::häutchen::Häutchen
@@ -7483,11 +6861,8 @@ SendMode Input
 ::lymphsystem::Lymphsystem
 ::lymphdrüse::Lymphdrüse
 ::zygote::Zygote
-::heterozygot::Heterozygot
-::homozygote::Homozygote
 ::ektoplasma::Ektoplasma
 ::zellkern::Zellkern
-::gen::Gen
 ::allel::Allel
 ::modifikator::Modifikator
 ::chromosom::Chromosom
@@ -7514,7 +6889,6 @@ SendMode Input
 ::neuron::Neuron
 ::nervenzelle::Nervenzelle
 ::axon::Axon
-::auswuchs::Auswuchs
 ::gelenk::Gelenk
 ::synapse::Synapse
 ::nerv::Nerv
@@ -7544,7 +6918,6 @@ SendMode Input
 ::trakt::Trakt
 ::harnwege::Harnwege
 ::harntrakt::Harntrakt
-::blase::Blase
 ::harnblase::Harnblase
 ::harnleiter::Harnleiter
 ::ureter::Ureter
@@ -7555,10 +6928,8 @@ SendMode Input
 ::eierstock::Eierstock
 ::ovar::Ovar
 ::ovarium::Ovarium
-::beutel::Beutel
 ::skrotum::Skrotum
 ::hodensack::Hodensack
-::blase::Blase
 ::gelbkörper::Gelbkörper
 ::eileiter::Eileiter
 ::ovidukt::Ovidukt
@@ -7569,7 +6940,6 @@ SendMode Input
 ::nabelschnur::Nabelschnur
 ::plazenta::Plazenta
 ::nachgeburt::Nachgeburt
-::scheide::Scheide
 ::vagina::Vagina
 ::fotze::Fotze
 ::muschi::Muschi
@@ -7633,7 +7003,6 @@ SendMode Input
 ::hirnschädel::Hirnschädel
 ::hirnschale::Hirnschale
 ::hinterkopf::Hinterkopf
-::naht::Naht
 ::diarthrose::Diarthrose
 ::fontanelle::Fontanelle
 ::kiefer::Kiefer
@@ -7645,11 +7014,9 @@ SendMode Input
 ::genick::Genick
 ::nacken::Nacken
 ::genick::Genick
-::kehle::Kehle
 ::pharynx::Pharynx
 ::fistel::Fistel
 ::bypass::Bypass
-::schulter::Schulter
 ::achselhöhle::Achselhöhle
 ::rumpf::Rumpf
 ::leib::Leib
@@ -7683,7 +7050,6 @@ SendMode Input
 ::bauch::Bauch
 ::unterleib::Unterleib
 ::bauchhöhle::Bauchhöhle
-::rücken::Rücken
 ::arsch::Arsch
 ::po::Po
 ::popo::Popo
@@ -7692,7 +7058,6 @@ SendMode Input
 ::gesäß::Gesäß
 ::hinterbacke::Hinterbacke
 ::pobacke::Pobacke
-::backe::Backe
 ::extremität::Extremität
 ::glied::Glied
 ::bein::Bein
@@ -7705,7 +7070,6 @@ SendMode Input
 ::unterarm::Unterarm
 ::hand::Hand
 ::faust::Faust
-::rechte::Rechte
 ::handfläche::Handfläche
 ::finger::Finger
 ::zeh::Zeh
@@ -7718,7 +7082,6 @@ SendMode Input
 ::schließmuskel::Schließmuskel
 ::sphinkter::Sphinkter
 ::tensor::Tensor
-::knie::Knie
 ::femur::Femur
 ::oberschenkelknochen::Oberschenkelknochen
 ::wade::Wade
@@ -7732,7 +7095,6 @@ SendMode Input
 ::bizeps::Bizeps
 ::trizeps::Trizeps
 ::ellbogen::Ellbogen
-::nagel::Nagel
 ::nagelhaut::Nagelhaut
 ::transplantat::Transplantat
 ::daumennagel::Daumennagel
@@ -7761,8 +7123,6 @@ SendMode Input
 ::gelenk::Gelenk
 ::kugelgelenk::Kugelgelenk
 ::becken::Becken
-::schritt::Schritt
-::leiste::Leiste
 ::nase::Nase
 ::kinn::Kinn
 ::doppelkinn::Doppelkinn
@@ -7778,13 +7138,10 @@ SendMode Input
 ::stirn::Stirn
 ::schläfe::Schläfe
 ::überbleibsel::Überbleibsel
-::wand::Wand
 ::tunika::Tunika
 ::krone::Krone
 ::stammzelle::Stammzelle
-::verstand::Verstand
 ::geist::Geist
-::ich::Ich
 ::ego::Ego
 ::urteilsvermögen::Urteilsvermögen
 ::klugheit::Klugheit
@@ -7796,7 +7153,6 @@ SendMode Input
 ::weisheit::Weisheit
 ::intelligenz::Intelligenz
 ::genialität::Genialität
-::schärfe::Schärfe
 ::aufgewecktheit::Aufgewecktheit
 ::gerissenheit::Gerissenheit
 ::begabung::Begabung
@@ -7811,6 +7167,7 @@ SendMode Input
 ::atlantis::Atlantis
 ::schlaraffenland::Schlaraffenland
 ::garten eden::Garten Eden
+::gelobtes land::Gelobtes Land
 ::unterwelt::Unterwelt
 ::limbus::Limbus
 ::fegefeuer::Fegefeuer
@@ -7822,7 +7179,6 @@ SendMode Input
 ::festungsbau::Festungsbau
 ::taxidermie::Taxidermie
 ::tierpräparation::Tierpräparation
-::bauchreden::Bauchreden
 ::ventriloquismus::Ventriloquismus
 ::geschicklichkeit::Geschicklichkeit
 ::fähigkeit::Fähigkeit
@@ -7848,7 +7204,6 @@ SendMode Input
 ::aufmerksamkeit::Aufmerksamkeit
 ::beachtung::Beachtung
 ::sprache::Sprache
-::verstand::Verstand
 ::vernunft::Vernunft
 ::intellekt::Intellekt
 ::sinn::Sinn
@@ -7857,7 +7212,6 @@ SendMode Input
 ::sehkraft::Sehkraft
 ::sehvermögen::Sehvermögen
 ::berührung::Berührung
-::tasten::Tasten
 ::hörvermögen::Hörvermögen
 ::gehör::Gehör
 ::geschmack::Geschmack
@@ -7872,7 +7226,6 @@ SendMode Input
 ::disziplin::Disziplin
 ::logik::Logik
 ::technik::Technik
-::brauch::Brauch
 ::gewohnheit::Gewohnheit
 ::gewohnheit::Gewohnheit
 ::habitus::Habitus
@@ -7890,7 +7243,6 @@ SendMode Input
 ::erinnerungsverlust::Erinnerungsverlust
 ::filmriss::Filmriss
 ::koma::Koma
-::schlaf::Schlaf
 ::trance::Trance
 ::neugier::Neugier
 ::neugierde::Neugierde
@@ -7899,7 +7251,6 @@ SendMode Input
 ::vedunkelung::Vedunkelung
 ::vernebelung::Vernebelung
 ::geheimnis::Geheimnis
-::rätsel::Rätsel
 ::dilemma::Dilemma
 ::problem::Problem
 ::hindernis::Hindernis
@@ -7907,7 +7258,6 @@ SendMode Input
 ::hindernis::Hindernis
 ::sprachbarriere::Sprachbarriere
 ::entsprechung::Entsprechung
-::äquivalent::Äquivalent
 ::ersatz::Ersatz
 ::ersatzspieler::Ersatzspieler
 ::ersatz::Ersatz
@@ -7917,7 +7267,6 @@ SendMode Input
 ::selbstvertrauen::Selbstvertrauen
 ::zweifel::Zweifel
 ::unsicherheit::Unsicherheit
-::misstrauen::Misstrauen
 ::ungläubigkeit::Ungläubigkeit
 ::wachsamkeit::Wachsamkeit
 ::ahnung::Ahnung
@@ -7930,7 +7279,6 @@ SendMode Input
 ::wahrnehmung::Wahrnehmung
 ::einsicht::Einsicht
 ::gefühl::Gefühl
-::schwelle::Schwelle
 ::moschus::Moschus
 ::duft::Duft
 ::geruch::Geruch
@@ -7940,15 +7288,12 @@ SendMode Input
 ::geschmack::Geschmack
 ::vanille::Vanille
 ::süßigkeit::Süßigkeit
-::säure::Säure
 ::musik::Musik
 ::lärm::Lärm
 ::geräusch::Geräusch
 ::krach::Krach
 ::radau::Radau
-::jucken::Jucken
 ::juckreiz::Juckreiz
-::wärme::Wärme
 ::kälte::Kälte
 ::doppeldenk::Doppeldenk
 ::organisation::Organisation
@@ -7981,7 +7326,6 @@ SendMode Input
 ::trend::Trend
 ::mode::Mode
 ::mode::Mode
-::schnitt::Schnitt
 ::partei::Partei
 ::seite::Seite
 ::ausbildung::Ausbildung
@@ -8029,14 +7373,12 @@ SendMode Input
 ::überlegung::Überlegung
 ::meditation::Meditation
 ::wahl::Wahl
-::auslese::Auslese
 ::auswahl::Auswahl
 ::markierung::Markierung
 ::nominierung::Nominierung
 ::sichtung::Sichtung
 ::liebling::Liebling
 ::favorit::Favorit
-::alternative::Alternative
 ::wahl::Wahl
 ::wunsch::Wunsch
 ::möglichkeit::Möglichkeit
@@ -8044,11 +7386,8 @@ SendMode Input
 ::argumentation::Argumentation
 ::basis::Basis
 ::grundlage::Grundlage
-::schlüssel::Schlüssel
 ::reservierung::Reservierung
 ::forschung::Forschung
-::probe::Probe
-::versuch::Versuch
 ::prüfung::Prüfung
 ::untersuchung::Untersuchung
 ::meinungsumfrage::Meinungsumfrage
@@ -8072,7 +7411,6 @@ SendMode Input
 ::illusion::Illusion
 ::ding-an-sich::Ding-an-sich
 ::gedächtnisstütze::Gedächtnisstütze
-::andenken::Andenken
 ::erinnerung::Erinnerung
 ::mahnzeichen::Mahnzeichen
 ::memento::Memento
@@ -8085,46 +7423,35 @@ SendMode Input
 ::illustration::Illustration
 ::ausnahme::Ausnahme
 ::präzedens::Präzedens
-::probe::Probe
-::muster::Muster
 ::exemplar::Exemplar
-::muster::Muster
 ::verkostung::Verkostung
 ::degustation::Degustation
 ::beweis::Beweis
 ::bestätigung::Bestätigung
 ::prüfsumme::Prüfsumme
 ::auslöseimpuls::Auslöseimpuls
-::schnalzen::Schnalzen
 ::freude::Freude
 ::entzückung::Entzückung
 ::wohlgefallen::Wohlgefallen
-::ärger::Ärger
 ::ärgernis::Ärgernis
 ::belästigung::Belästigung
 ::belastung::Belastung
-::last::Last
 ::beweislast::Beweislast
 ::kummer::Kummer
 ::traurigkeit::Traurigkeit
-::trauer::Trauer
-::sorge::Sorge
 ::kümmernis::Kümmernis
 ::gedanke::Gedanke
 ::idee::Idee
 ::ahnung::Ahnung
 ::inspiration::Inspiration
 ::muse::Muse
-::begriff::Begriff
 ::konzept::Konzept
 ::ahnung::Ahnung
 ::ansicht::Ansicht
 ::auffassung::Auffassung
-::begriff::Begriff
 ::denkbild::Denkbild
 ::gedanke::Gedanke
 ::idee::Idee
-::falle::Falle
 ::urteilsvermögen::Urteilsvermögen
 ::art::Art
 ::sorte::Sorte
@@ -8134,8 +7461,6 @@ SendMode Input
 ::marke::Marke
 ::genre::Genre
 ::regelung::Regelung
-::regulativ::Regulativ
-::regel::Regel
 ::algorithmus::Algorithmus
 ::sortierverfahren::Sortierverfahren
 ::heuristik::Heuristik
@@ -8155,30 +7480,22 @@ SendMode Input
 ::abteilung::Abteilung
 ::quant::Quant
 ::minimum::Minimum
-::wert::Wert
 ::notenwert::Notenwert
-::variable::Variable
 ::parameter::Parameter
 ::argument::Argument
 ::stelligkeit::Stelligkeit
 ::parameter::Parameter
 ::produkt::Produkt
 ::fakultät::Fakultät
-::vielfache::Vielfache
-::doppelte::Doppelte
 ::zwischensumme::Zwischensumme
-::summe::Summe
 ::polynom::Polynom
-::reihe::Reihe
 ::zufallsvariable::Zufallsvariable
 ::vektor::Vektor
 ::skalarprodukt::Skalarprodukt
 ::punkt::Punkt
 ::schnittpunkt::Schnittpunkt
 ::scheitelpunkt::Scheitelpunkt
-::teil::Teil
 ::mitte::Mitte
-::ganze::Ganze
 ::mischung::Mischung
 ::naturgesetz::Naturgesetz
 ::logik::Logik
@@ -8199,7 +7516,6 @@ SendMode Input
 ::wunschdenken::Wunschdenken
 ::autismus::Autismus
 ::ufo::UFO
-::plan::Plan
 ::programm::Programm
 ::politik::Politik
 ::aktivismus::Aktivismus
@@ -8208,6 +7524,7 @@ SendMode Input
 ::strategie::Strategie
 ::kartenhaus::Kartenhaus
 ::intrige::Intrige
+::verschwörung::Verschwörung
 ::konspiration::Konspiration
 ::regime::Regime
 ::goldesel::Goldesel
@@ -8220,7 +7537,6 @@ SendMode Input
 ::hadsch::Hadsch
 ::hadj::Hadj
 ::ahnung::Ahnung
-::verdacht::Verdacht
 ::argwohn::Argwohn
 ::thema::Thema
 ::motiv::Motiv
@@ -8228,7 +7544,6 @@ SendMode Input
 ::kern::Kern
 ::herz::Herz
 ::drehpunkt::Drehpunkt
-::werte::Werte
 ::idol::Idol
 ::götze::Götze
 ::standard::Standard
@@ -8236,14 +7551,11 @@ SendMode Input
 ::beispiel::Beispiel
 ::modell::Modell
 ::weisheit::Weisheit
-::stereotyp::Stereotyp
 ::klischee::Klischee
 ::rollenklischee::Rollenklischee
 ::phantasmagorie::Phantasmagorie
-::rolle::Rolle
 ::held::Held
 ::hauptfigur::Hauptfigur
-::fraktal::Fraktal
 ::sonatensatzform::Sonatensatzform
 ::gesichtsfeld::Gesichtsfeld
 ::anblick::Anblick
@@ -8257,9 +7569,7 @@ SendMode Input
 ::engramm::Engramm
 ::nachgeschmack::Nachgeschmack
 ::visualisierung::Visualisierung
-::eindruck::Eindruck
 ::prototyp::Prototyp
-::muster::Muster
 ::schablone::Schablone
 ::modell::Modell
 ::vorlage::Vorlage
@@ -8273,7 +7583,6 @@ SendMode Input
 ::aussicht::Aussicht
 ::ausblick::Ausblick
 ::überzeugung::Überzeugung
-::glaube::Glaube
 ::kult::Kult
 ::kultus::Kultus
 ::mystik::Mystik
@@ -8305,7 +7614,6 @@ SendMode Input
 ::egalitarismus::Egalitarismus
 ::feminismus::Feminismus
 ::magie::Magie
-::zauber::Zauber
 ::zauberei::Zauberei
 ::okkultismus::Okkultismus
 ::ästhetik::Ästhetik
@@ -8330,10 +7638,7 @@ SendMode Input
 ::skeptizismus::Skeptizismus
 ::skepsis::Skepsis
 ::atheismus::Atheismus
-::ziel::Ziel
-::ziel::Ziel
 ::absicht::Absicht
-::ziel::Ziel
 ::intention::Intention
 ::absicht::Absicht
 ::erlebnis::Erlebnis
@@ -8378,7 +7683,6 @@ SendMode Input
 ::ableitung::Ableitung
 ::partielle ableitung::Partielle Ableitung
 ::integralrechnung::Integralrechnung
-::integral::Integral
 ::variationsrechnung::Variationsrechnung
 ::mengenlehre::Mengenlehre
 ::mengentheorie::Mengentheorie
@@ -8386,7 +7690,6 @@ SendMode Input
 ::gruppentheorie::Gruppentheorie
 ::topologie::Topologie
 ::statistik::Statistik
-::median::Median
 ::erwartung::Erwartung
 ::standardabweichung::Standardabweichung
 ::binom::Binom
@@ -8598,7 +7901,6 @@ SendMode Input
 ::systematik::Systematik
 ::romantik::Romantik
 ::kunstgeschichte::Kunstgeschichte
-::verlauf::Verlauf
 ::ethik::Ethik
 ::ätiologie::Ätiologie
 ::ästhetik::Ästhetik
@@ -8774,7 +8076,6 @@ SendMode Input
 ::botschaft::Botschaft
 ::mitteilung::Mitteilung
 ::äther::Äther
-::mittel::Mittel
 ::vehikel::Vehikel
 ::blatt::Blatt
 ::blatt::Blatt
@@ -8783,8 +8084,6 @@ SendMode Input
 ::multimedia::Multimedia
 ::hypertext::Hypertext
 ::kino::Kino
-::presse::Presse
-::post::Post
 ::luftpost::Luftpost
 ::schneckenpost::Schneckenpost
 ::snailmail::Snailmail
@@ -8813,7 +8112,6 @@ SendMode Input
 ::empfang::Empfang
 ::amplitudenmodulation::Amplitudenmodulation
 ::sprache::Sprache
-::gebrauch::Gebrauch
 ::ausgangssprache::Ausgangssprache
 ::zielsprache::Zielsprache
 ::objektsprache::Objektsprache
@@ -8821,7 +8119,6 @@ SendMode Input
 ::satz::Satz
 ::wort::Wort
 ::anagramm::Anagramm
-::antonym::Antonym
 ::gegenwort::Gegenwort
 ::gegensatzwort::Gegensatzwort
 ::gegenteil::Gegenteil
@@ -8837,7 +8134,6 @@ SendMode Input
 ::stichpunkt::Stichpunkt
 ::heteronym::Heteronym
 ::holonym::Holonym
-::homonym::Homonym
 ::oberbegriff::Oberbegriff
 ::hyperonym::Hyperonym
 ::unterbegriff::Unterbegriff
@@ -8855,7 +8151,6 @@ SendMode Input
 ::paroxytonon::Paroxytonon
 ::partitiv::Partitiv
 ::substantiv::Substantiv
-::begriff::Begriff
 ::bezeichnung::Bezeichnung
 ::terminus::Terminus
 ::terminologie::Terminologie
@@ -8879,7 +8174,6 @@ SendMode Input
 ::objekt::Objekt
 ::kasus::Kasus
 ::nominativ::Nominativ
-::wer-fall::Wer-Fall
 ::obliquus::Obliquus
 ::akkusativ::Akkusativ
 ::wenfall::Wenfall
@@ -8888,7 +8182,6 @@ SendMode Input
 ::genitiv::Genitiv
 ::vokativ::Vokativ
 ::anredefall::Anredefall
-::ablativ::Ablativ
 ::teilsatz::Teilsatz
 ::hauptsatz::Hauptsatz
 ::nebensatz::Nebensatz
@@ -8902,7 +8195,6 @@ SendMode Input
 ::hilfsverb::Hilfsverb
 ::hilfszeitwort::Hilfszeitwort
 ::modalverb::Modalverb
-::infinitiv::Infinitiv
 ::substantiv::Substantiv
 ::nomen::Nomen
 ::dingwort::Dingwort
@@ -8910,7 +8202,6 @@ SendMode Input
 ::kollektivum::Kollektivum
 ::eigenname::Eigenname
 ::gattungsname::Gattungsname
-::appellativ::Appellativ
 ::verb::Verb
 ::verbum::Verbum
 ::zeitwort::Zeitwort
@@ -8918,8 +8209,6 @@ SendMode Input
 ::bestimmung::Bestimmung
 ::adjektiv::Adjektiv
 ::eigenschaftswort::Eigenschaftswort
-::positiv::Positiv
-::komparativ::Komparativ
 ::superlativ::Superlativ
 ::adverb::Adverb
 ::umstandswort::Umstandswort
@@ -8936,9 +8225,7 @@ SendMode Input
 ::reflexivpronomen::Reflexivpronomen
 ::geschlecht::Geschlecht
 ::femininum::Femininum
-::maskulinum::Maskulinum
 ::neutrum::Neutrum
-::zeit::Zeit
 ::tempus::Tempus
 ::präsens::Präsens
 ::gegenwart::Gegenwart
@@ -8967,23 +8254,16 @@ SendMode Input
 ::taufname::Taufname
 ::pränomen::Pränomen
 ::spitzname::Spitzname
-::pseudonym::Pseudonym
 ::deckname::Deckname
-::pseudonym::Pseudonym
-::pseudonym::Pseudonym
 ::schriftstellername::Schriftstellername
 ::künstlername::Künstlername
 ::bezeichnung::Bezeichnung
 ::kosename::Kosename
 ::lallname::Lallname
-::titel::Titel
-::titel::Titel
 ::toponym::Toponym
 ::ortsname::Ortsname
 ::schlagzeile::Schlagzeile
 ::rubrik::Rubrik
-::titel::Titel
-::legende::Legende
 ::beschriftung::Beschriftung
 ::bildunterschrift::Bildunterschrift
 ::bildüberschrift::Bildüberschrift
@@ -8999,6 +8279,7 @@ SendMode Input
 ::stenografie::Stenografie
 ::stenographie::Stenographie
 ::schrift::Schrift
+::avestisch::Avestisch
 ::devanagari::Devanagari
 ::dewanagari::Dewanagari
 ::orthografie::Orthografie
@@ -9037,7 +8318,6 @@ SendMode Input
 ::saga::Saga
 ::kriminalroman::Kriminalroman
 ::krimi::Krimi
-::legende::Legende
 ::kurzgeschichte::Kurzgeschichte
 ::parabel::Parabel
 ::gleichnis::Gleichnis
@@ -9061,21 +8341,16 @@ SendMode Input
 ::einzug::Einzug
 ::wortfolge::Wortfolge
 ::entwurf::Entwurf
-::folge::Folge
-::abschnitt::Abschnitt
 ::paragraf::Paragraf
 ::paragraph::Paragraph
 ::klausel::Klausel
 ::kapitel::Kapitel
-::abschnitt::Abschnitt
 ::episode::Episode
 ::vorwort::Vorwort
-::vorrede::Vorrede
 ::präambel::Präambel
 ::epilog::Epilog
 ::nachwort::Nachwort
 ::epilog::Epilog
-::folge::Folge
 ::anhang::Anhang
 ::nachtrag::Nachtrag
 ::absatz::Absatz
@@ -9116,7 +8391,6 @@ SendMode Input
 ::katechismus::Katechismus
 ::kochbuch::Kochbuch
 ::pop-up::Pop-up
-::band::Band
 ::broschüre::Broschüre
 ::heft::Heft
 ::lehrbuch::Lehrbuch
@@ -9124,7 +8398,6 @@ SendMode Input
 ::abc-buch::ABC-Buch
 ::notizbuch::Notizbuch
 ::verzeichnis::Verzeichnis
-::liste::Liste
 ::sprachführer::Sprachführer
 ::brevier::Brevier
 ::nachschlagewerk::Nachschlagewerk
@@ -9201,11 +8474,9 @@ SendMode Input
 ::veden::Veden
 ::psalm::Psalm
 ::zusammenfassung::Zusammenfassung
-::abriss::Abriss
 ::synopse::Synopse
 ::übersicht::Übersicht
 ::zusammenfassung::Zusammenfassung
-::unterlagen::Unterlagen
 ::dokument::Dokument
 ::aktenstück::Aktenstück
 ::stimmzettel::Stimmzettel
@@ -9228,7 +8499,6 @@ SendMode Input
 ::futures-kontrakt::Futures-Kontrakt
 ::terminkontrakt::Terminkontrakt
 ::future::Future
-::liste::Liste
 ::postposition::Postposition
 ::papyrus::Papyrus
 ::tagesordnung::Tagesordnung
@@ -9236,7 +8506,6 @@ SendMode Input
 ::index::Index
 ::kalender::Kalender
 ::katalog::Katalog
-::liste::Liste
 ::verzeichniss::Verzeichniss
 ::zeichensatz::Zeichensatz
 ::checkliste::Checkliste
@@ -9250,7 +8519,6 @@ SendMode Input
 ::unterverzeichnis::Unterverzeichnis
 ::faq::FAQ
 ::konkordanz::Konkordanz
-::schlüssel::Schlüssel
 ::inventur::Inventur
 ::mailingliste::Mailingliste
 ::speisekarte::Speisekarte
@@ -9267,7 +8535,6 @@ SendMode Input
 ::warteliste::Warteliste
 ::alphabet::Alphabet
 ::reisepass::Reisepass
-::pass::Pass
 ::katasteramt::Katasteramt
 ::protokollbuch::Protokollbuch
 ::polizeiregister::Polizeiregister
@@ -9286,7 +8553,6 @@ SendMode Input
 ::resolution::Resolution
 ::antrag::Antrag
 ::gesuch::Gesuch
-::ansinnen::Ansinnen
 ::petition::Petition
 ::geschichte::Geschichte
 ::erzählung::Erzählung
@@ -9295,7 +8561,6 @@ SendMode Input
 ::volksetymologie::Volksetymologie
 ::anamnese::Anamnese
 ::krankengeschichte::Krankengeschichte
-::kg::KG
 ::biografie::Biografie
 ::biographie::Biographie
 ::autobiografie::Autobiografie
@@ -9315,19 +8580,12 @@ SendMode Input
 ::empfangsbestätigung::Empfangsbestätigung
 ::quittung::Quittung
 ::konnossement::Konnossement
-::vertrag::Vertrag
 ::pacht::Pacht
-::zusage::Zusage
 ::partnerschaft::Partnerschaft
 ::gewerbeerlaubnis::Gewerbeerlaubnis
 ::franchise::Franchise
 ::arbeitsvertrag::Arbeitsvertrag
 ::bestellung::Bestellung
-::order::Order
-::vollmacht::Vollmacht
-::bevollmächtigte::Bevollmächtigte
-::bevollmächtigter::Bevollmächtigter
-::vollmacht::Vollmacht
 ::arbeitserlaubnis::Arbeitserlaubnis
 ::gesetz::Gesetz
 ::rechtsgeschäft::Rechtsgeschäft
@@ -9345,8 +8603,6 @@ SendMode Input
 ::strafrecht::Strafrecht
 ::ausgangssperre::Ausgangssperre
 ::ukas::Ukas
-::verbot::Verbot
-::verbot::Verbot
 ::testament::Testament
 ::patientenverfügung::Patientenverfügung
 ::durchsuchungsbefehl::Durchsuchungsbefehl
@@ -9380,7 +8636,6 @@ SendMode Input
 ::applet::Applet
 ::minianwendung::Minianwendung
 ::browser::Browser
-::schleife::Schleife
 ::patch::Patch
 ::assembler::Assembler
 ::kompiler::Kompiler
@@ -9401,10 +8656,9 @@ SendMode Input
 ::unterroutine::Unterroutine
 ::prozedur::Prozedur
 ::kommandozeile::Kommandozeile
-::hyperlink::Hyperlink
-::hyperlink::Hyperlink
 ::hypertextlink::Hypertextlink
 ::querverweis::Querverweis
+::makro::Makro
 ::shareware::Shareware
 ::spyware::Spyware
 ::dbvs::DBVS
@@ -9441,10 +8695,8 @@ SendMode Input
 ::buzzword::Buzzword
 ::modewort::Modewort
 ::geschwafel::Geschwafel
-::quatsch::Quatsch
 ::dünnschiß::Dünnschiß
 ::kauderwelsch::Kauderwelsch
-::scheiß::Scheiß
 ::zitat::Zitat
 ::zitierung::Zitierung
 ::film::Film
@@ -9458,7 +8710,6 @@ SendMode Input
 ::dokumentarfilm::Dokumentarfilm
 ::tonfilm::Tonfilm
 ::show::Show
-::schau::Schau
 ::sendung::Sendung
 ::übertragung::Übertragung
 ::ausstrahlung::Ausstrahlung
@@ -9468,14 +8719,12 @@ SendMode Input
 ::fernsehprogramm::Fernsehprogramm
 ::spielshow::Spielshow
 ::episode::Episode
-::folge::Folge
 ::seifenoper::Seifenoper
 ::telegramm::Telegramm
 ::briefwechsel::Briefwechsel
 ::korrespondenz::Korrespondenz
 ::sutra::Sutra
 ::brief::Brief
-::anschreiben::Anschreiben
 ::enzyklika::Enzyklika
 ::kettenbrief::Kettenbrief
 ::liebesbrief::Liebesbrief
@@ -9485,11 +8734,11 @@ SendMode Input
 ::weihnachtskarte::Weihnachtskarte
 ::valentin::Valentin
 ::postkarte::Postkarte
-::adieu::Adieu
 ::gruß::Gruß
 ::begrüßung::Begrüßung
 ::begrüßung::Begrüßung
 ::empfang::Empfang
+::händeschütteln::Händeschütteln
 ::handschlag::Handschlag
 ::entschuldigung::Entschuldigung
 ::kondolenz::Kondolenz
@@ -9517,7 +8766,6 @@ SendMode Input
 ::beweismittel::Beweismittel
 ::anhaltspunkt::Anhaltspunkt
 ::hinweis::Hinweis
-::faden::Faden
 ::fingerabdruck::Fingerabdruck
 ::fußabdruck::Fußabdruck
 ::fußspur::Fußspur
@@ -9531,7 +8779,6 @@ SendMode Input
 ::aufnahme::Aufnahme
 ::argument::Argument
 ::gegenargument::Gegenargument
-::gebot::Gebot
 ::vorschrift::Vorschrift
 ::perestroika::Perestroika
 ::umbau::Umbau
@@ -9556,7 +8803,6 @@ SendMode Input
 ::empfehlung::Empfehlung
 ::mahnung::Mahnung
 ::exempel::Exempel
-::lehre::Lehre
 ::geheimnis::Geheimnis
 ::propaganda::Propaganda
 ::agitprop::Agitprop
@@ -9581,11 +8827,8 @@ SendMode Input
 ::verlaub::Verlaub
 ::bordkarte::Bordkarte
 ::zuruf::Zuruf
-::hurra::Hurra
 ::ruhm::Ruhm
-::ehre::Ehre
 ::lob::Lob
-::halleluja::Halleluja
 ::lobrede::Lobrede
 ::panegyrik::Panegyrik
 ::anerkennungsschreiben::Anerkennungsschreiben
@@ -9601,7 +8844,6 @@ SendMode Input
 ::doktortitel::Doktortitel
 ::medaille::Medaille
 ::verdammung::Verdammung
-::tadel::Tadel
 ::vorwurf::Vorwurf
 ::ermahnung::Ermahnung
 ::mahnung::Mahnung
@@ -9629,7 +8871,6 @@ SendMode Input
 ::erklärung::Erklärung
 ::deklaration::Deklaration
 ::alibi::Alibi
-::ausrede::Ausrede
 ::lösung::Lösung
 ::erläuterung::Erläuterung
 ::begriffserklärung::Begriffserklärung
@@ -9646,8 +8887,6 @@ SendMode Input
 ::todesanzeige::Todesanzeige
 ::traueranzeige::Traueranzeige
 ::programm::Programm
-::voraussage::Voraussage
-::vorhersage::Vorhersage
 ::prophezeiung::Prophezeiung
 ::horoskop::Horoskop
 ::schätzung::Schätzung
@@ -9662,13 +8901,10 @@ SendMode Input
 ::axiom::Axiom
 ::these::These
 ::bedingung::Bedingung
-::vorbehalt::Vorbehalt
 ::vorbehaltsklausel::Vorbehaltsklausel
 ::szenario::Szenario
 ::unwahrheit::Unwahrheit
-::lüge::Lüge
 ::märchen::Märchen
-::sage::Sage
 ::geschichte::Geschichte
 ::erzählung::Erzählung
 ::halbwahrheit::Halbwahrheit
@@ -9690,19 +8926,16 @@ SendMode Input
 ::versprecher::Versprecher
 ::schüttelreim::Schüttelreim
 ::einigkeit::Einigkeit
-::einvernehmen::Einvernehmen
 ::übereinstimmung::Übereinstimmung
 ::bedingung::Bedingung
 ::kondition::Kondition
 ::pakt::Pakt
 ::kontrakt::Kontrakt
 ::konkordat::Konkordat
-::vertrag::Vertrag
 ::bündnis::Bündnis
 ::pakt::Pakt
 ::allianz::Allianz
 ::vereinbarung::Vereinbarung
-::abkommen::Abkommen
 ::humor::Humor
 ::sarkasmus::Sarkasmus
 ::ironie::Ironie
@@ -9719,11 +8952,8 @@ SendMode Input
 ::anschauung::Anschauung
 ::vermutung::Vermutung
 ::hypothese::Hypothese
-::frage::Frage
-::puzzle::Puzzle
 ::geduldspiel::Geduldspiel
 ::geduldsspiel::Geduldsspiel
-::rätsel::Rätsel
 ::denksportaufgabe::Denksportaufgabe
 ::kopfnuss::Kopfnuss
 ::kreuzworträtsel::Kreuzworträtsel
@@ -9744,12 +8974,10 @@ SendMode Input
 ::brandmal::Brandmal
 ::zuchtbrand::Zuchtbrand
 ::briefmarke::Briefmarke
-::ruf::Ruf
 ::vogelgesang::Vogelgesang
 ::symptom::Symptom
 ::manifestation::Manifestation
 ::erscheinung::Erscheinung
-::strich::Strich
 ::zug::Zug
 ::federstrich::Federstrich
 ::unterstreichung::Unterstreichung
@@ -9763,7 +8991,6 @@ SendMode Input
 ::zeichen::Zeichen
 ::nase::Nase
 ::nummer::Nummer
-::zahl::Zahl
 ::ziffer::Ziffer
 ::zahlwort::Zahlwort
 ::füllhorn::Füllhorn
@@ -9786,7 +9013,6 @@ SendMode Input
 ::buchstabe::Buchstabe
 ::graphem::Graphem
 ::schaft::Schaft
-::akut::Akut
 ::gravis::Gravis
 ::breve::Breve
 ::cedille::Cedille
@@ -9813,39 +9039,24 @@ SendMode Input
 ::kursivdruck::Kursivdruck
 ::sternchen::Sternchen
 ::asterisk::Asterisk
-::kreuz::Kreuz
 ::totenkreuz::Totenkreuz
 ::buchstabe::Buchstabe
 ::anfangsbuchstabe::Anfangsbuchstabe
-::i::I
 ::ypsilon::Ypsilon
 ::y grec::Y grec
-::gamma::Gamma
-::delta::Delta
-::epsilon::Epsilon
-::zeta::Zeta
 ::eta::Eta
-::theta::Theta
 ::jota::Jota
-::kappa::Kappa
-::lambda::Lambda
 ::my::My
 ::ny::Ny
-::xi::Xi
 ::omikron::Omikron
-::pi::Pi
 ::rho::Rho
-::sigma::Sigma
 ::tau::Tau
 ::ypsilon::Ypsilon
-::phi::Phi
 ::psi::Psi
-::omega::Omega
 ::leerzeichen::Leerzeichen
 ::rune::Rune
 ::ideogramm::Ideogramm
 ::logogramm::Logogramm
-::radikal::Radikal
 ::apostroph::Apostroph
 ::hochkomma::Hochkomma
 ::doppelpunkt::Doppelpunkt
@@ -9864,7 +9075,6 @@ SendMode Input
 ::marke::Marke
 ::warenzeichen::Warenzeichen
 ::gepräge::Gepräge
-::abdruck::Abdruck
 ::aufdruck::Aufdruck
 ::impressum::Impressum
 ::phylakterion::Phylakterion
@@ -9874,16 +9084,13 @@ SendMode Input
 ::quinte::Quinte
 ::sexte::Sexte
 ::septime::Septime
-::triller::Triller
 ::notenlinien::Notenlinien
 ::leerzeichen::Leerzeichen
 ::leerstelle::Leerstelle
-::schlüssel::Schlüssel
 ::bassschlüssel::Bassschlüssel
 ::bratschenschlüssel::Bratschenschlüssel
 ::altschlüssel::Altschlüssel
 ::tenorschlüssel::Tenorschlüssel
-::pause::Pause
 ::ton::Ton
 ::c-dur::C-Dur
 ::fermate::Fermate
@@ -9899,14 +9106,13 @@ SendMode Input
 ::bariton::Bariton
 ::ampel::Ampel
 ::verkehrsampel::Verkehrsampel
+::robot::Robot
 ::gebärdensprache::Gebärdensprache
-::gebärde::Gebärde
 ::zeichen::Zeichen
 ::körpersprache::Körpersprache
 ::grimasse::Grimasse
 ::stirnrunzeln::Stirnrunzeln
 ::strinrunzeln::Strinrunzeln
-::fletschen::Fletschen
 ::demonstration::Demonstration
 ::vorführung::Vorführung
 ::emblem::Emblem
@@ -9921,9 +9127,7 @@ SendMode Input
 ::pin-nummer::PIN-Nummer
 ::pin::PIN
 ::geheimzahl::Geheimzahl
-::vorschau::Vorschau
 ::voraufführung::Voraufführung
-::vorschau::Vorschau
 ::trailer::Trailer
 ::spektakel::Spektakel
 ::schauspiel::Schauspiel
@@ -9951,110 +9155,46 @@ SendMode Input
 ::quechua::Quechua
 ::nahuatl::Nahuatl
 ::navajo::Navajo
-::kasachisch::Kasachisch
-::tatarisch::Tatarisch
-::usbekisch::Usbekisch
-::jakutisch::Jakutisch
 ::tschuktschisch::Tschuktschisch
 ::mandarin::Mandarin
-::hochchinesisch::Hochchinesisch
-::kantonesisch::Kantonesisch
 ::lao::Lao
 ::maori::Maori
-::hawaiianisch::Hawaiianisch
-::javanisch::Javanisch
-::balinesisch::Balinesisch
 ::tagalog::Tagalog
 ::cebuano::Cebuano
 ::gegisch::Gegisch
-::toskisch::Toskisch
-::phrygisch::Phrygisch
-::altkirchenslawisch::Altkirchenslawisch
-::slowakisch::Slowakisch
-::slowenisch::Slowenisch
 ::windisch::Windisch
-::sorbisch::Sorbisch
-::altpreußisch::Altpreußisch
-::mittelenglisch::Mittelenglisch
-::altenglisch::Altenglisch
-::hochdeutsch::Hochdeutsch
-::althochdeutsch::Althochdeutsch
-::mittelhochdeutsch::Mittelhochdeutsch
-::jiddisch::Jiddisch
+::amerikanisches englisch::Amerikanisches Englisch
 ::jidisch::Jidisch
 ::judendeutsch::Judendeutsch
 ::judenteutsch::Judenteutsch
-::altsächsisch::Altsächsisch
-::mittelniederdeutsch::Mittelniederdeutsch
-::afrikaans::Afrikaans
-::urnordisch::Urnordisch
-::altnordisch::Altnordisch
-::altisländisch::Altisländisch
 ::nynorsk::Nynorsk
 ::neunorwegisch::Neunorwegisch
-::färöisch::Färöisch
-::friesisch::Friesisch
-::altfriesisch::Altfriesisch
-::udmurtisch::Udmurtisch
-::mordwinisch::Mordwinisch
-::livisch::Livisch
-::karelisch::Karelisch
 ::wepsisch::Wepsisch
 ::sami::Sami
-::samojedisch::Samojedisch
 ::selkupisch::Selkupisch
-::irisch-gälisch::Irisch-Gälisch
-::gälisch::Gälisch
-::altirisch::Altirisch
-::mittelirisch::Mittelirisch
-::schottisch-gälisch::Schottisch-Gälisch
-::kornisch::Kornisch
-::bretonisch::Bretonisch
-::umbrisch::Umbrisch
 ::oskisch::Oskisch
 ::latein::Latein
 ::vulgärlatein::Vulgärlatein
 ::spätlatein::Spätlatein
 ::mittellatein::Mittellatein
-::altfranzösisch::Altfranzösisch
-::wallonisch::Wallonisch
-::okzitanisch::Okzitanisch
-::galizisch::Galizisch
-::galicisch::Galicisch
-::baskisch::Baskisch
-::ladinisch::Ladinisch
-::tocharisch::Tocharisch
 ::sanskrit::Sanskrit
 ::urdu::Urdu
 ::hindi::Hindi
 ::bengali::Bengali
 ::oriya::Oriya
 ::marathi::Marathi
-::singhalesisch::Singhalesisch
-::indoarisch::Indoarisch
 ::nepali::Nepali
 ::pali::Pali
 ::dari::Dari
-::tadschikisch::Tadschikisch
-::parthisch::Parthisch
 ::paschtu::Paschtu
 ::paschto::Paschto
-::lykisch::Lykisch
-::luwisch::Luwisch
-::lydisch::Lydisch
-::neugriechisch::Neugriechisch
 ::koine::Koine
-::altgriechisch::Altgriechisch
-::attisch::Attisch
-::dorisch::Dorisch
-::tschetschenisch::Tschetschenisch
 ::dravidisch::Dravidisch
 ::kannada::Kannada
 ::malayalam::Malayalam
 ::tamil::Tamil
 ::telugu::Telugu
 ::hausa::Hausa
-::akkadisch::Akkadisch
 ::amarinya::Amarinya
 ::amharisch::Amharisch
 ::ugaritisch::Ugaritisch
@@ -10114,7 +9254,6 @@ SendMode Input
 ::motiv::Motiv
 ::variation::Variation
 ::begleitung::Begleitung
-::messe::Messe
 ::weihnachtslied::Weihnachtslied
 ::hymne::Hymne
 ::doxologie::Doxologie
@@ -10131,7 +9270,6 @@ SendMode Input
 ::quintett::Quintett
 ::serenade::Serenade
 ::kanon::Kanon
-::fuge::Fuge
 ::sonate::Sonate
 ::sonatine::Sonatine
 ::sinfonie::Sinfonie
@@ -10186,7 +9324,6 @@ SendMode Input
 ::gewichtung::Gewichtung
 ::rhythmus::Rhythmus
 ::auftakt::Auftakt
-::kürze::Kürze
 ::langatmigkeit::Langatmigkeit
 ::pleonasmus::Pleonasmus
 ::tautologie::Tautologie
@@ -10217,12 +9354,10 @@ SendMode Input
 ::vergleich::Vergleich
 ::synekdoche::Synekdoche
 ::äußerung::Äußerung
-::stimme::Stimme
 ::phonem::Phonem
 ::diphthong::Diphthong
 ::doppellaut::Doppellaut
 ::zwielaut::Zwielaut
-::vokal::Vokal
 ::selbstlaut::Selbstlaut
 ::schwa::Schwa
 ::halbvokal::Halbvokal
@@ -10230,17 +9365,12 @@ SendMode Input
 ::mitlaut::Mitlaut
 ::konsonant::Konsonant
 ::mitlaut::Mitlaut
-::alveolar::Alveolar
 ::plosiv::Plosiv
 ::aspiration::Aspiration
-::labial::Labial
 ::knacklaut::Knacklaut
 ::fugenlaut::Fugenlaut
-::frikativ::Frikativ
 ::reibelaut::Reibelaut
 ::zischlaut::Zischlaut
-::schrei::Schrei
-::ruf::Ruf
 ::geschrei::Geschrei
 ::gezeter::Gezeter
 ::zetermordio::Zetermordio
@@ -10260,19 +9390,16 @@ SendMode Input
 ::gelächter::Gelächter
 ::gekicher::Gekicher
 ::aussprache::Aussprache
-::seufzen::Seufzen
 ::seufzer::Seufzer
 ::geflüster::Geflüster
 ::homograph::Homograph
 ::gleichklang::Gleichklang
 ::homophon::Homophon
-::homofon::Homofon
 ::synkope::Synkope
 ::sandhi::Sandhi
 ::konversation::Konversation
 ::unterhaltung::Unterhaltung
 ::gespräch::Gespräch
-::verkehr::Verkehr
 ::schwatz::Schwatz
 ::geplauder::Geplauder
 ::dialog::Dialog
@@ -10329,9 +9456,7 @@ SendMode Input
 ::vortrag::Vortrag
 ::präsentation::Präsentation
 ::vorstellung::Vorstellung
-::order::Order
 ::befehl::Befehl
-::gebot::Gebot
 ::disambiguation::Disambiguation
 ::begriffsklärung::Begriffsklärung
 ::exegese::Exegese
@@ -10346,17 +9471,11 @@ SendMode Input
 ::gegenüberstellung::Gegenüberstellung
 ::meinungsverschiedenheit::Meinungsverschiedenheit
 ::differenz::Differenz
-::streit::Streit
 ::disput::Disput
-::streit::Streit
 ::streitgespräch::Streitgespräch
 ::diskussion::Diskussion
-::kontroverse::Kontroverse
 ::polemik::Polemik
-::streit::Streit
 ::wortwechsel::Wortwechsel
-::zank::Zank
-::nachfrage::Nachfrage
 ::benachrichtigung::Benachrichtigung
 ::mitteilung::Mitteilung
 ::einladung::Einladung
@@ -10371,9 +9490,6 @@ SendMode Input
 ::purismus::Purismus
 ::kreuzverhör::Kreuzverhör
 ::entscheidungsfrage::Entscheidungsfrage
-::interview::Interview
-::frage::Frage
-::anfrage::Anfrage
 ::examen::Examen
 ::prüfung::Prüfung
 ::abschlussprüfung::Abschlussprüfung
@@ -10388,15 +9504,12 @@ SendMode Input
 ::versicherung::Versicherung
 ::zusicherung::Zusicherung
 ::verweigerung::Verweigerung
-::nein::Nein
 ::nichtanerkennung::Nichtanerkennung
 ::verneinung::Verneinung
 ::negierung::Negierung
 ::widerspruch::Widerspruch
 ::haftungsausschluss::Haftungsausschluss
 ::beanstandung::Beanstandung
-::klage::Klage
-::anzeige::Anzeige
 ::monierung::Monierung
 ::reklamation::Reklamation
 ::beanstandung::Beanstandung
@@ -10406,6 +9519,7 @@ SendMode Input
 ::jeremiade::Jeremiade
 ::offenbarung::Offenbarung
 ::enthüllung::Enthüllung
+::entdeckung::Entdeckung
 ::bekenntnis::Bekenntnis
 ::eingeständnis::Eingeständnis
 ::geständnis::Geständnis
@@ -10422,7 +9536,6 @@ SendMode Input
 ::märchen::Märchen
 ::fabel::Fabel
 ::kinderreim::Kinderreim
-::klatsch::Klatsch
 ::tratsch::Tratsch
 ::gerücht::Gerücht
 ::schmutz::Schmutz
@@ -10449,14 +9562,11 @@ SendMode Input
 ::amtsenthebung::Amtsenthebung
 ::amtsenthebungsverfahren::Amtsenthebungsverfahren
 ::anspielung::Anspielung
-::rede::Rede
 ::ansprache::Ansprache
-::anrede::Anrede
 ::diskurs::Diskurs
 ::impromptu::Impromptu
 ::zusammenfassung::Zusammenfassung
 ::redeschluss::Redeschluss
-::predigt::Predigt
 ::bergpredigt::Bergpredigt
 ::homilie::Homilie
 ::aufmunterung::Aufmunterung
@@ -10468,7 +9578,6 @@ SendMode Input
 ::öffentlichkeitsarbeit::Öffentlichkeitsarbeit
 ::public relations::Public Relations
 ::pr::PR
-::anzeige::Anzeige
 ::werbung::Werbung
 ::annonce::Annonce
 ::reklameanzeige::Reklameanzeige
@@ -10477,13 +9586,11 @@ SendMode Input
 ::werbung::Werbung
 ::gelbe seiten::Gelbe Seiten
 ::rücktritt::Rücktritt
-::verzicht::Verzicht
 ::abdankung::Abdankung
 ::telepathie::Telepathie
 ::gedankenlesen::Gedankenlesen
 ::gedankenübertragung::Gedankenübertragung
 ::parapsychologie::Parapsychologie
-::hellsehen::Hellsehen
 ::hellseherei::Hellseherei
 ::asw::ASW
 ::präkognition::Präkognition
@@ -10491,7 +9598,6 @@ SendMode Input
 ::psychokinese::Psychokinese
 ::windsack::Windsack
 ::referenz::Referenz
-::quelle::Quelle
 ::maßstab::Maßstab
 ::höhenfestpunkt::Höhenfestpunkt
 ::kriterium::Kriterium
@@ -10506,7 +9612,6 @@ SendMode Input
 ::wasserzeichen::Wasserzeichen
 ::kilometerstein::Kilometerstein
 ::meilenstein::Meilenstein
-::unbekannte::Unbekannte
 ::logo::Logo
 ::logotyp::Logotyp
 ::etikett::Etikett
@@ -10523,22 +9628,17 @@ SendMode Input
 ::verneinung::Verneinung
 ::bühnenmusik::Bühnenmusik
 ::jahrbuch::Jahrbuch
-::vorfall::Vorfall
 ::tortur::Tortur
 ::vision::Vision
-::wunder::Wunder
 ::störung::Störung
-::wunder::Wunder
 ::mirakel::Mirakel
 ::schluss::Schluss
-::ende::Ende
 ::endspiel::Endspiel
 ::ergebnis::Ergebnis
 ::ausgang::Ausgang
 ::resultat::Resultat
 ::änderung::Änderung
 ::veränderung::Veränderung
-::wandel::Wandel
 ::modifikation::Modifikation
 ::sublimierung::Sublimierung
 ::sublimation::Sublimation
@@ -10548,7 +9648,6 @@ SendMode Input
 ::kollision::Kollision
 ::zusammenstoß::Zusammenstoß
 ::entgleisung::Entgleisung
-::feuer::Feuer
 ::brand::Brand
 ::freudenfeuer::Freudenfeuer
 ::lagerfeuer::Lagerfeuer
@@ -10560,14 +9659,11 @@ SendMode Input
 ::leiche im schrank::Leiche im Schrank
 ::idyll::Idyll
 ::idylle::Idylle
-::vorfall::Vorfall
 ::begebenheit::Begebenheit
 ::ereignis::Ereignis
 ::geschehnis::Geschehnis
 ::explosion::Explosion
 ::detonation::Detonation
-::fall::Fall
-::mal::Mal
 ::bewegung::Bewegung
 ::blechschaden::Blechschaden
 ::himmelfahrt::Himmelfahrt
@@ -10584,7 +9680,6 @@ SendMode Input
 ::katastrophe::Katastrophe
 ::unglück::Unglück
 ::hungersnot::Hungersnot
-::plage::Plage
 ::erfolg::Erfolg
 ::fehlgeburt::Fehlgeburt
 ::wiedergeburt::Wiedergeburt
@@ -10596,7 +9691,6 @@ SendMode Input
 ::theophanie::Theophanie
 ::anfang::Anfang
 ::entstehung::Entstehung
-::genese::Genese
 ::genesis::Genesis
 ::ursache::Ursache
 ::anlass::Anlass
@@ -10611,8 +9705,6 @@ SendMode Input
 ::schwankung::Schwankung
 ::fluktuation::Fluktuation
 ::belastung::Belastung
-::stoß::Stoß
-::druck::Druck
 ::fleischwunde::Fleischwunde
 ::wiederholung::Wiederholung
 ::repetition::Repetition
@@ -10628,19 +9720,12 @@ SendMode Input
 ::stoßwelle::Stoßwelle
 ::schockwelle::Schockwelle
 ::überschallknall::Überschallknall
-::woge::Woge
 ::brandung::Brandung
 ::flutwelle::Flutwelle
 ::tsunami::Tsunami
 ::tsunami::Tsunami
 ::rückstoß::Rückstoß
-::welle::Welle
-::woge::Woge
 ::schiffbruch::Schiffbruch
-::unentschieden::Unentschieden
-::remis::Remis
-::patt::Patt
-::o::O
 ::christianisierung::Christianisierung
 ::tod::Tod
 ::übergang::Übergang
@@ -10650,14 +9735,12 @@ SendMode Input
 ::sublimation::Sublimation
 ::ansteckung::Ansteckung
 ::kollaps::Kollaps
-::fall::Fall
 ::absturz::Absturz
 ::sturz::Sturz
 ::flop::Flop
 ::misserfolg::Misserfolg
 ::fiasko::Fiasko
 ::implosion::Implosion
-::unterschied::Unterschied
 ::finsternis::Finsternis
 ::eklipse::Eklipse
 ::sonnenfinsternis::Sonnenfinsternis
@@ -10665,37 +9748,17 @@ SendMode Input
 ::sonnenfinsternis::Sonnenfinsternis
 ::mondfinsternis::Mondfinsternis
 ::trübsal::Trübsal
-::verschmelzen::Verschmelzen
-::knall::Knall
 ::explosion::Explosion
-::schlag::Schlag
 ::ausbruch::Ausbruch
-::pieps::Pieps
 ::schall::Schall
 ::getöse::Getöse
-::girren::Girren
-::knarren::Knarren
-::quietschen::Quietschen
-::krähen::Krähen
-::schritt::Schritt
 ::muh::Muh
-::brummen::Brummen
-::murren::Murren
-::nuscheln::Nuscheln
 ::gemurmel::Gemurmel
-::poltern::Poltern
-::rumpeln::Rumpeln
-::grollen::Grollen
 ::gequieke::Gequieke
 ::gequietsche::Gequietsche
-::knarren::Knarren
-::quietschen::Quietschen
 ::donner::Donner
 ::donnerschlag::Donnerschlag
-::zwitschern::Zwitschern
 ::bebung::Bebung
-::schlag::Schlag
-::pfiff::Pfiff
 ::puls::Puls
 ::herzschlag::Herzschlag
 ::diastole::Diastole
@@ -10716,7 +9779,6 @@ SendMode Input
 ::zersplitterung::Zersplitterung
 ::berührung::Berührung
 ::klaps::Klaps
-::schlag::Schlag
 ::erschütterung::Erschütterung
 ::blitz::Blitz
 ::zusammenkunft::Zusammenkunft
@@ -10746,16 +9808,12 @@ SendMode Input
 ::kulturrevolution::Kulturrevolution
 ::mutation::Mutation
 ::geschlechtsumwandlung::Geschlechtsumwandlung
-::fall::Fall
 ::untergang::Untergang
 ::ruin::Ruin
 ::erdbeben::Erdbeben
-::nachbeben::Nachbeben
 ::seebeben::Seebeben
 ::invasion::Invasion
 ::überfall::Überfall
-::wirbel::Wirbel
-::wirbel::Wirbel
 ::strudel::Strudel
 ::stromschnelle::Stromschnelle
 ::charybdis::Charybdis
@@ -10763,22 +9821,18 @@ SendMode Input
 ::epidemie::Epidemie
 ::seuche::Seuche
 ::pandemie::Pandemie
-::leck::Leck
 ::befruchtung::Befruchtung
 ::bestäubung::Bestäubung
 ::umdrehung::Umdrehung
 ::laufmasche::Laufmasche
-::fortschreiten::Fortschreiten
 ::translation::Translation
 ::spray::Spray
 ::sprühnebel::Sprühnebel
 ::spritzer::Spritzer
 ::schuss::Schuss
 ::funktion::Funktion
-::feier::Feier
 ::festveranstaltung::Festveranstaltung
 ::party::Party
-::feier::Feier
 ::ball::Ball
 ::maskenball::Maskenball
 ::ball::Ball
@@ -10786,7 +9840,6 @@ SendMode Input
 ::prom::Prom
 ::promenade::Promenade
 ::hausparty::Hausparty
-::feier::Feier
 ::zeremonie::Zeremonie
 ::bestattung::Bestattung
 ::beerdigung::Beerdigung
@@ -10808,7 +9861,6 @@ SendMode Input
 ::slalom::Slalom
 ::turnier::Turnier
 ::hahnenkampf::Hahnenkampf
-::finale::Finale
 ::endkampf::Endkampf
 ::schlussrunde::Schlussrunde
 ::endspiel::Endspiel
@@ -10816,12 +9868,9 @@ SendMode Input
 ::halbfinale::Halbfinale
 ::semifinale::Semifinale
 ::stabhochsprung::Stabhochsprung
-::kugelstoßen::Kugelstoßen
 ::hammerwurf::Hammerwurf
 ::hammerwerfen::Hammerwerfen
-::spiel::Spiel
 ::dreisprung::Dreisprung
-::wettrüsten::Wettrüsten
 ::rüstungswettlauf::Rüstungswettlauf
 ::sieg::Sieg
 ::pyrrhussieg::Pyrrhussieg
@@ -10840,7 +9889,6 @@ SendMode Input
 ::hitze::Hitze
 ::überschwang::Überschwang
 ::inbrunst::Inbrunst
-::eifer::Eifer
 ::ödipuskomplex::Ödipuskomplex
 ::ödipuskonflikt::Ödipuskonflikt
 ::apathie::Apathie
@@ -10855,14 +9903,11 @@ SendMode Input
 ::fetisch::Fetisch
 ::libido::Libido
 ::nymphomanie::Nymphomanie
-::drang::Drang
 ::laune::Laune
-::grille::Grille
 ::erleichterung::Erleichterung
 ::entlastung::Entlastung
 ::sadomasochismus::Sadomasochismus
 ::masochismus::Masochismus
-::kreuz::Kreuz
 ::agonie::Agonie
 ::todesangst::Todesangst
 ::qual::Qual
@@ -10877,6 +9922,7 @@ SendMode Input
 ::verachtung::Verachtung
 ::geringschätzung::Geringschätzung
 ::missachtung::Missachtung
+::abscheu::Abscheu
 ::dankbarkeit::Dankbarkeit
 ::verwirrung::Verwirrung
 ::selbstwertgefühl::Selbstwertgefühl
@@ -10884,24 +9930,19 @@ SendMode Input
 ::eitelkeit::Eitelkeit
 ::bescheidenheit::Bescheidenheit
 ::demut::Demut
-::staunen::Staunen
 ::erwartung::Erwartung
 ::spannung::Spannung
 ::gelassenheit::Gelassenheit
-::ärger::Ärger
 ::zorn::Zorn
 ::wut::Wut
 ::zorn::Zorn
 ::raserei::Raserei
-::rage::Rage
 ::anstoß::Anstoß
 ::wut::Wut
-::rage::Rage
 ::empörung::Empörung
 ::entrüstung::Entrüstung
 ::frust::Frust
 ::frustration::Frustration
-::angst::Angst
 ::schreck::Schreck
 ::bestürzung::Bestürzung
 ::fassungslosigkeit::Fassungslosigkeit
@@ -10914,10 +9955,7 @@ SendMode Input
 ::rampenfieber::Rampenfieber
 ::vorahnung::Vorahnung
 ::scheuheit::Scheuheit
-::angst::Angst
-::sorge::Sorge
 ::freude::Freude
-::jubel::Jubel
 ::triumph::Triumph
 ::euphorie::Euphorie
 ::hochgefühl::Hochgefühl
@@ -10936,10 +9974,7 @@ SendMode Input
 ::traurigkeit::Traurigkeit
 ::melancholie::Melancholie
 ::schwermut::Schwermut
-::weh::Weh
-::jammer::Jammer
 ::kummer::Kummer
-::leid::Leid
 ::schauer::Schauer
 ::kälteschauer::Kälteschauer
 ::hilflosigkeit::Hilflosigkeit
@@ -10950,7 +9985,6 @@ SendMode Input
 ::defätismus::Defätismus
 ::miesmacherei::Miesmacherei
 ::zynismus::Zynismus
-::liebe::Liebe
 ::zuneigung::Zuneigung
 ::schwarm::Schwarm
 ::hass::Hass
@@ -10980,12 +10014,10 @@ SendMode Input
 ::begeisterung::Begeisterung
 ::enthusiasmus::Enthusiasmus
 ::schwärmerei::Schwärmerei
-::eifer::Eifer
 ::begeisterung::Begeisterung
 ::exuberanz::Exuberanz
 ::überfluss::Überfluss
 ::überschwänglichkeit::Überschwänglichkeit
-::gang::Gang
 ::gericht::Gericht
 ::schnellgericht::Schnellgericht
 ::schnellimbiss::Schnellimbiss
@@ -11029,7 +10061,6 @@ SendMode Input
 ::festmahl::Festmahl
 ::bankett::Bankett
 ::portion::Portion
-::bissen::Bissen
 ::happen::Happen
 ::hauptgericht::Hauptgericht
 ::beilage::Beilage
@@ -11039,15 +10070,12 @@ SendMode Input
 ::suppe::Suppe
 ::buchstabensuppe::Buchstabensuppe
 ::borschtsch::Borschtsch
-::brühe::Brühe
 ::suppe::Suppe
 ::bouillon::Bouillon
-::brühe::Brühe
 ::brühwürfel::Brühwürfel
 ::hühnersuppe::Hühnersuppe
 ::minestrone::Minestrone
 ::gemüsesuppe::Gemüsesuppe
-::eintopf::Eintopf
 ::brei::Brei
 ::gulasch::Gulasch
 ::frikassee::Frikassee
@@ -11108,8 +10136,6 @@ SendMode Input
 ::zabaione::Zabaione
 ::zabaglione::Zabaglione
 ::sabayon::Sabayon
-::krümel::Krümel
-::brösel::Brösel
 ::brosame::Brosame
 ::brotkrümel::Brotkrümel
 ::brotkrume::Brotkrume
@@ -11190,7 +10216,6 @@ SendMode Input
 ::schöpserne::Schöpserne
 ::lamm::Lamm
 ::lammfleisch::Lammfleisch
-::rücken::Rücken
 ::schweinefleisch::Schweinefleisch
 ::schinken::Schinken
 ::pršut::Pršut
@@ -11208,7 +10233,6 @@ SendMode Input
 ::sesamöl::Sesamöl
 ::sesamsamenöl::Sesamsamenöl
 ::sonnenblumenöl::Sonnenblumenöl
-::wurst::Wurst
 ::blutwurst::Blutwurst
 ::knackwurst::Knackwurst
 ::knackwürstchen::Knackwürstchen
@@ -11283,15 +10307,12 @@ SendMode Input
 ::broccoli::Broccoli
 ::kürbis::Kürbis
 ::flaschenkürbis::Flaschenkürbis
-::gurke::Gurke
 ::salzgurke::Salzgurke
 ::gewürzgurke::Gewürzgurke
 ::spargel::Spargel
 ::bambussprossen::Bambussprossen
-::spross::Spross
 ::sprössling::Sprössling
 ::sprosse::Sprosse
-::bete::Bete
 ::rübe::Rübe
 ::rote bete::Rote Bete
 ::rote beete::Rote Beete
@@ -11325,7 +10346,6 @@ SendMode Input
 ::spinat::Spinat
 ::erdnuß::Erdnuß
 ::erdnuss::Erdnuss
-::schale::Schale
 ::orangenschale::Orangenschale
 ::fallobst::Fallobst
 ::apfel::Apfel
@@ -11428,8 +10448,6 @@ SendMode Input
 ::wellhornschnecke::Wellhornschnecke
 ::stockfisch::Stockfisch
 ::schalentier::Schalentier
-::aal::Aal
-::aalartige::Aalartige
 ::hering::Hering
 ::muschel::Muschel
 ::venusmuschel::Venusmuschel
@@ -11453,7 +10471,6 @@ SendMode Input
 ::milch::Milch
 ::fischmilch::Fischmilch
 ::kaviar::Kaviar
-::futter::Futter
 ::silage::Silage
 ::heu::Heu
 ::lieschgras::Lieschgras
@@ -11474,8 +10491,6 @@ SendMode Input
 ::sülze::Sülze
 ::aspik::Aspik
 ::gewürz::Gewürz
-::würze::Würze
-::würze::Würze
 ::kondiment::Kondiment
 ::würzsauce::Würzsauce
 ::kraut::Kraut
@@ -11540,16 +10555,13 @@ SendMode Input
 ::kondensmilch::Kondensmilch
 ::vollmilch::Vollmilch
 ::buttermilch::Buttermilch
-::sahne::Sahne
 ::obers::Obers
 ::rahm::Rahm
 ::sauerrahm::Sauerrahm
-::butter::Butter
 ::ghee::Ghee
 ::joghurt::Joghurt
 ::sauermilch::Sauermilch
 ::dickmilch::Dickmilch
-::käse::Käse
 ::frischkäse::Frischkäse
 ::hüttenkäse::Hüttenkäse
 ::schmelzkäse::Schmelzkäse
@@ -11559,7 +10571,6 @@ SendMode Input
 ::quark::Quark
 ::topfen::Topfen
 ::erdnussbutter::Erdnussbutter
-::aufstrich::Aufstrich
 ::miso::Miso
 ::foie gras::Foie Gras
 ::süßstoff::Süßstoff
@@ -11583,7 +10594,6 @@ SendMode Input
 ::fondue::Fondue
 ::arme ritter::Arme Ritter
 ::haggis::Haggis
-::gehacktes::Gehacktes
 ::haschee::Haschee
 ::hackfleisch::Hackfleisch
 ::faschiertes::Faschiertes
@@ -11611,27 +10621,22 @@ SendMode Input
 ::getränk::Getränk
 ::drink::Drink
 ::füllung::Füllung
-::trank::Trank
-::tränke::Tränke
 ::elixier::Elixier
 ::zaubertrunk::Zaubertrunk
 ::heilmittel::Heilmittel
 ::lebenselixier::Lebenselixier
-::nachspülen::Nachspülen
 ::trinkspruch::Trinkspruch
 ::toast::Toast
 ::tischrede::Tischrede
 ::alkohol::Alkohol
 ::bier::Bier
 ::bockbier::Bockbier
-::lager::Lager
 ::malz::Malz
 ::ale::Ale
 ::kwass::Kwass
 ::met::Met
 ::ingwerbier::Ingwerbier
 ::sake::Sake
-::wein::Wein
 ::traubenlese::Traubenlese
 ::rotwein::Rotwein
 ::weißwein::Weißwein
@@ -11656,7 +10661,6 @@ SendMode Input
 ::gin::Gin
 ::grog::Grog
 ::ouzo::Ouzo
-::rum::Rum
 ::wodka::Wodka
 ::whisky::Whisky
 ::bourbon::Bourbon
@@ -11728,8 +10732,6 @@ SendMode Input
 ::kohorte::Kohorte
 ::altersgruppe::Altersgruppe
 ::jugend::Jugend
-::jugendlicher::Jugendlicher
-::jugendliche::Jugendliche
 ::episkopat::Episkopat
 ::weltepiskopat::Weltepiskopat
 ::sommerschlaf::Sommerschlaf
@@ -11757,7 +10759,6 @@ SendMode Input
 ::müllgrube::Müllgrube
 ::müllhaufen::Müllhaufen
 ::misthaufen::Misthaufen
-::stapel::Stapel
 ::heuschober::Heuschober
 ::heuhaufen::Heuhaufen
 ::scheiterhaufen::Scheiterhaufen
@@ -11776,14 +10777,10 @@ SendMode Input
 ::dynastie::Dynastie
 ::feudalismus::Feudalismus
 ::kernfamilie::Kernfamilie
-::klasse::Klasse
-::paar::Paar
 ::pärchen::Pärchen
 ::bibliothek::Bibliothek
 ::mythologie::Mythologie
 ::einermenge::Einermenge
-::paar::Paar
-::paar::Paar
 ::trilogie::Trilogie
 ::sextett::Sextett
 ::oktett::Oktett
@@ -11792,29 +10789,23 @@ SendMode Input
 ::schar::Schar
 ::herde::Herde
 ::fauna::Fauna
-::tierreich::Tierreich
 ::tierwelt::Tierwelt
 ::tierwelt::Tierwelt
 ::fauna::Fauna
 ::herde::Herde
 ::rudel::Rudel
-::schule::Schule
 ::kolonie::Kolonie
 ::satz::Satz
 ::set::Set
-::klasse::Klasse
 ::kategorie::Kategorie
 ::vereinigung::Vereinigung
 ::vereinigungsmenge::Vereinigungsmenge
-::durchschnitt::Durchschnitt
 ::kreuzprodukt::Kreuzprodukt
-::menge::Menge
 ::domains::Domains
 ::domänen::Domänen
 ::wertevorrat::Wertevorrat
 ::zielmenge::Zielmenge
 ::universum::Universum
-::untermenge::Untermenge
 ::teilmenge::Teilmenge
 ::nullmenge::Nullmenge
 ::mandelbrotmenge::Mandelbrotmenge
@@ -11828,7 +10819,6 @@ SendMode Input
 ::paket::Paket
 ::haarbüschel::Haarbüschel
 ::strohbündel::Strohbündel
-::wisch::Wisch
 ::organisation::Organisation
 ::ngo::NGO
 ::nro::NRO
@@ -11843,7 +10833,6 @@ SendMode Input
 ::rotes kreuz::Rotes Kreuz
 ::heilsarmee::Heilsarmee
 ::verein::Verein
-::verband::Verband
 ::assoziation::Assoziation
 ::regierung::Regierung
 ::regime::Regime
@@ -11918,11 +10907,9 @@ SendMode Input
 ::unterhaus::Unterhaus
 ::house of lords::House of Lords
 ::oberhaus::Oberhaus
-::legislative::Legislative
 ::versammlung::Versammlung
 ::verwaltung::Verwaltung
 ::justiz::Justiz
-::judikative::Judikative
 ::nation::Nation
 ::ausland::Ausland
 ::dritte welt::Dritte Welt
@@ -11933,14 +10920,12 @@ SendMode Input
 ::weimarer republik::Weimarer Republik
 ::drittes reich::Drittes Reich
 ::schurkenstaat::Schurkenstaat
-::block::Block
 ::eu::EU
 ::nato::NATO
 ::großmacht::Großmacht
 ::stadtstaat::Stadtstaat
 ::wohlfahrtsstaat::Wohlfahrtsstaat
 ::population::Population
-::armen::Armen
 ::heimatfront::Heimatfront
 ::pöbel::Pöbel
 ::massen::Massen
@@ -11969,7 +10954,6 @@ SendMode Input
 ::armee::Armee
 ::heer::Heer
 ::landstreitkräfte::Landstreitkräfte
-::marine::Marine
 ::seestreitkräfte::Seestreitkräfte
 ::küstenwache::Küstenwache
 ::luftwaffe::Luftwaffe
@@ -12004,7 +10988,6 @@ SendMode Input
 ::gefolge::Gefolge
 ::gefolgschaft::Gefolgschaft
 ::fangemeinde::Fangemeinde
-::gemeinde::Gemeinde
 ::gemeinschaft::Gemeinschaft
 ::gesellschaft::Gesellschaft
 ::community::Community
@@ -12019,7 +11002,6 @@ SendMode Input
 ::liga::Liga
 ::gewerkschaft::Gewerkschaft
 ::freimaurerei::Freimaurerei
-::klasse::Klasse
 ::zirkel::Zirkel
 ::gruppe::Gruppe
 ::clique::Clique
@@ -12033,7 +11015,6 @@ SendMode Input
 ::quartett::Quartett
 ::streichquartett::Streichquartett
 ::orchester::Orchester
-::band::Band
 ::kapelle::Kapelle
 ::musikkapelle::Musikkapelle
 ::combo::Combo
@@ -12060,9 +11041,7 @@ SendMode Input
 ::mannschaft::Mannschaft
 ::haufen::Haufen
 ::bande::Bande
-::rotte::Rotte
 ::kindergarten::Kindergarten
-::schule::Schule
 ::akademie::Akademie
 ::jeschiwa::Jeschiwa
 ::akademie::Akademie
@@ -12076,7 +11055,6 @@ SendMode Input
 ::konservatorium::Konservatorium
 ::subkultur::Subkultur
 ::hip hop::Hip Hop
-::flotte::Flotte
 ::ausrichtung::Ausrichtung
 ::gemeinschaft unabhängiger staaten::Gemeinschaft unabhängiger Staaten
 ::gus::GUS
@@ -12091,8 +11069,6 @@ SendMode Input
 ::liga::Liga
 ::bund::Bund
 ::zollunion::Zollunion
-::alliierter::Alliierter
-::alliierte::Alliierte
 ::kaste::Kaste
 ::versammlung::Versammlung
 ::besprechung::Besprechung
@@ -12142,7 +11118,6 @@ SendMode Input
 ::quorum::Quorum
 ::fünfte kolonne::Fünfte Kolonne
 ::untergrundorganisation::Untergrundorganisation
-::widerstand::Widerstand
 ::autokratie::Autokratie
 ::republik::Republik
 ::teilrepublik::Teilrepublik
@@ -12162,7 +11137,6 @@ SendMode Input
 ::ökonomie::Ökonomie
 ::pluralismus::Pluralismus
 ::ökosystem::Ökosystem
-::nachkommen::Nachkommen
 ::nachwelt::Nachwelt
 ::generation::Generation
 ::babyboom::Babyboom
@@ -12193,13 +11167,9 @@ SendMode Input
 ::verabredung::Verabredung
 ::oberschicht::Oberschicht
 ::elite::Elite
-::auslese::Auslese
 ::oberschicht::Oberschicht
 ::führungsschicht::Führungsschicht
 ::spitzengruppe::Spitzengruppe
-::spitze::Spitze
-::creme::Creme
-::kreme::Kreme
 ::intelligenz::Intelligenz
 ::intelligenzija::Intelligenzija
 ::literat::Literat
@@ -12215,7 +11185,6 @@ SendMode Input
 ::reiterei::Reiterei
 ::hexensabbat::Hexensabbat
 ::potpourri::Potpourri
-::spanne::Spanne
 ::mischmasch::Mischmasch
 ::sammelsurium::Sammelsurium
 ::wurf::Wurf
@@ -12247,7 +11216,6 @@ SendMode Input
 ::gesamtschule::Gesamtschule
 ::diskussionsrunde::Diskussionsrunde
 ::jury::Jury
-::linke::Linke
 ::konvoi::Konvoi
 ::geleitzug::Geleitzug
 ::konvoi::Konvoi
@@ -12255,7 +11223,6 @@ SendMode Input
 ::bank::Bank
 ::sparkasse::Sparkasse
 ::schwarzmarkt::Schwarzmarkt
-::verkehr::Verkehr
 ::personenverkehr::Personenverkehr
 ::karawane::Karawane
 ::kavalkade::Kavalkade
@@ -12266,19 +11233,14 @@ SendMode Input
 ::aufmarsch::Aufmarsch
 ::gefolge::Gefolge
 ::schlange::Schlange
-::reihe::Reihe
-::reihe::Reihe
 ::warteschlange::Warteschlange
 ::schlange::Schlange
-::reihe::Reihe
 ::zeile::Zeile
-::spalte::Spalte
 ::korpus::Korpus
 ::facharbeiter::Facharbeiter
 ::handwerker::Handwerker
 ::vegetation::Vegetation
 ::flora::Flora
-::pflanzenreich::Pflanzenreich
 ::pflanzenwelt::Pflanzenwelt
 ::dickicht::Dickicht
 ::wald::Wald
@@ -12290,7 +11252,6 @@ SendMode Input
 ::strauchwerk::Strauchwerk
 ::gesträuch::Gesträuch
 ::belegschaft::Belegschaft
-::personal::Personal
 ::stab::Stab
 ::diktatur::Diktatur
 ::gewaltherrschaft::Gewaltherrschaft
@@ -12316,7 +11277,6 @@ SendMode Input
 ::metadaten::Metadaten
 ::schatz::Schatz
 ::avantgarde::Avantgarde
-::spitze::Spitze
 ::vorhut::Vorhut
 ::konstruktivismus::Konstruktivismus
 ::kubismus::Kubismus
@@ -12352,22 +11312,18 @@ SendMode Input
 ::kolonie::Kolonie
 ::schutzgebiet::Schutzgebiet
 ::weltraum::Weltraum
-::all::All
 ::weltall::Weltall
-::grenze::Grenze
 ::luftraum::Luftraum
 ::bananenrepublik::Bananenrepublik
 ::bithynien::Bithynien
 ::nicäa::Nicäa
 ::nubien::Nubien
 ::ödland::Ödland
-::wüste::Wüste
 ::heide::Heide
 ::heideland::Heideland
 ::oase::Oase
 ::schlachtfeld::Schlachtfeld
 ::minenfeld::Minenfeld
-::quelle::Quelle
 ::dschungel::Dschungel
 ::heimat::Heimat
 ::heimatland::Heimatland
@@ -12377,8 +11333,6 @@ SendMode Input
 ::grund::Grund
 ::unterseite::Unterseite
 ::abgrenzung::Abgrenzung
-::grenze::Grenze
-::grenze::Grenze
 ::eigenschaft::Eigenschaft
 ::rand::Rand
 ::bushaltestelle::Bushaltestelle
@@ -12405,7 +11359,6 @@ SendMode Input
 ::stadt::Stadt
 ::megalopolis::Megalopolis
 ::bezirk::Bezirk
-::gemeinde::Gemeinde
 ::lichtung::Lichtung
 ::rodung::Rodung
 ::zusammenfluss::Zusammenfluss
@@ -12459,8 +11412,6 @@ SendMode Input
 ::extremität::Extremität
 ::extremum::Extremum
 ::feld::Feld
-::wiese::Wiese
-::weide::Weide
 ::feld::Feld
 ::spielfeld::Spielfeld
 ::platz::Platz
@@ -12468,7 +11419,6 @@ SendMode Input
 ::trödelmarkt::Trödelmarkt
 ::frontseite::Frontseite
 ::vorderseite::Vorderseite
-::front::Front
 ::frontlinie::Frontlinie
 ::epizentrum::Epizentrum
 ::habitat::Habitat
@@ -12478,8 +11428,6 @@ SendMode Input
 ::hemisphäre::Hemisphäre
 ::halbkugel::Halbkugel
 ::erdhalbkugel::Erdhalbkugel
-::versteck::Versteck
-::versteck::Versteck
 ::heimat::Heimat
 ::horizont::Horizont
 ::silhouette::Silhouette
@@ -12488,39 +11436,27 @@ SendMode Input
 ::reservat::Reservat
 ::grafschaft::Grafschaft
 ::innenseite::Innenseite
-::inneres::Inneres
 ::interieur::Interieur
-::inneres::Inneres
 ::ionosphäre::Ionosphäre
-::isobare::Isobare
-::höhle::Höhle
 ::bau::Bau
-::wiese::Wiese
 ::linie::Linie
 ::blickrichtung::Blickrichtung
 ::breitengrad::Breitengrad
 ::breitenkreis::Breitenkreis
-::breite::Breite
 ::plimsoll-marke::Plimsoll-Marke
 ::länge::Länge
 ::schmelztiegel::Schmelztiegel
 ::meridian::Meridian
 ::nadir::Nadir
 ::nationalpark::Nationalpark
-::nordpol::Nordpol
 ::umlaufbahn::Umlaufbahn
 ::orbit::Orbit
-::umriss::Umriss
 ::küstenlinie::Küstenlinie
 ::außenseite::Außenseite
-::äußeres::Äußeres
 ::außenseite::Außenseite
 ::reisfeld::Reisfeld
-::gemeinde::Gemeinde
-::park::Park
 ::parkplatz::Parkplatz
 ::parkhaus::Parkhaus
-::weide::Weide
 ::reiseroute::Reiseroute
 ::route::Route
 ::pfad::Pfad
@@ -12534,13 +11470,8 @@ SendMode Input
 ::position::Position
 ::platz::Platz
 ::ort::Ort
-::stelle::Stelle
 ::standort::Standort
 ::kindslage::Kindslage
-::stelle::Stelle
-::posten::Posten
-::linke::Linke
-::gemeinde::Gemeinde
 ::munizipalität::Munizipalität
 ::präfektur::Präfektur
 ::protektorat::Protektorat
@@ -12556,7 +11487,6 @@ SendMode Input
 ::hafenstadt::Hafenstadt
 ::binnenseehafen::Binnenseehafen
 ::reede::Reede
-::werft::Werft
 ::rough::Rough
 ::nachbarschaft::Nachbarschaft
 ::umgebung::Umgebung
@@ -12569,12 +11499,8 @@ SendMode Input
 ::seestück::Seestück
 ::platz::Platz
 ::sitzplatz::Sitzplatz
-::sitz::Sitz
-::abschnitt::Abschnitt
-::teil::Teil
 ::stück::Stück
 ::seite::Seite
-::südpol::Südpol
 ::vakuum::Vakuum
 ::einflussbereich::Einflussbereich
 ::einflussphäre::Einflussphäre
@@ -12591,13 +11517,11 @@ SendMode Input
 ::steueroase::Steueroase
 ::steuerparadies::Steuerparadies
 ::themenpark::Themenpark
-::spitze::Spitze
 ::schreibtischfläche::Schreibtischfläche
 ::tropen::Tropen
 ::stadt::Stadt
 ::ort::Ort
 ::städtchen::Städtchen
-::gemeinde::Gemeinde
 ::kaff::Kaff
 ::kuhdorf::Kuhdorf
 ::geisterstadt::Geisterstadt
@@ -12608,14 +11532,11 @@ SendMode Input
 ::gebiet::Gebiet
 ::subtropen::Subtropen
 ::wendekreis::Wendekreis
-::spitze::Spitze
 ::wasserstand::Wasserstand
 ::wasserscheide::Wasserscheide
 ::seidenstraße::Seidenstraße
 ::kurs::Kurs
 ::peilung::Peilung
-::lauf::Lauf
-::verbleib::Verbleib
 ::wildnis::Wildnis
 ::zenit::Zenit
 ::zodiac::Zodiac
@@ -12625,10 +11546,8 @@ SendMode Input
 ::krebs::Krebs
 ::jungfrau::Jungfrau
 ::skorpion::Skorpion
-::schütze::Schütze
 ::steinbock::Steinbock
 ::wassermann::Wassermann
-::fische::Fische
 ::bereich::Bereich
 ::distrikt::Distrikt
 ::eingabefeld::Eingabefeld
@@ -12667,7 +11586,6 @@ SendMode Input
 ::bulgarien::Bulgarien
 ::sofia::Sofia
 ::warna::Warna
-::südostasien::Südostasien
 ::myanmar::Myanmar
 ::birma::Birma
 ::rangun::Rangun
@@ -12719,7 +11637,6 @@ SendMode Input
 ::panama::Panama
 ::kanalzone::Kanalzone
 ::mexiko::Mexiko
-::westindien::Westindien
 ::niederländische antillen::Niederländische Antillen
 ::aruba::Aruba
 ::kuba::Kuba
@@ -12766,7 +11683,6 @@ SendMode Input
 ::äquatorialguinea::Äquatorialguinea
 ::norwegen::Norwegen
 ::oslo::Oslo
-::bergen::Bergen
 ::trondheim::Trondheim
 ::drontheim::Drontheim
 ::schweden::Schweden
@@ -12775,9 +11691,7 @@ SendMode Input
 ::gotenburg::Gotenburg
 ::gothenburg::Gothenburg
 ::deutschland::Deutschland
-::ostdeutschland::Ostdeutschland
 ::deutsche demokratische republik::Deutsche Demokratische Republik
-::westdeutschland::Westdeutschland
 ::bundesrepublik deutschland::Bundesrepublik Deutschland
 ::brd::BRD
 ::sachsen::Sachsen
@@ -12809,7 +11723,6 @@ SendMode Input
 ::preußen::Preußen
 ::preussen::Preussen
 ::thüringen::Thüringen
-::osttimor::Osttimor
 ::ecuador::Ecuador
 ::quito::Quito
 ::eritrea::Eritrea
@@ -12843,10 +11756,8 @@ SendMode Input
 ::mittlerer osten::Mittlerer Osten
 ::fruchtbarer halbmond::Fruchtbarer Halbmond
 ::israel::Israel
-::westbank::Westbank
 ::westjordanland::Westjordanland
 ::cisjordanien::Cisjordanien
-::westjordanien::Westjordanien
 ::galiläa::Galiläa
 ::nazaret::Nazaret
 ::gaza::Gaza
@@ -13009,7 +11920,6 @@ SendMode Input
 ::cornwall::Cornwall
 ::yorkshire::Yorkshire
 ::insel man::Insel Man
-::nordirland::Nordirland
 ::belfast::Belfast
 ::irland::Irland
 ::dublin::Dublin
@@ -13044,7 +11954,6 @@ SendMode Input
 ::gujarat::Gujarat
 ::tamil nadu::Tamil Nadu
 ::maharashtra::Maharashtra
-::westbengalen::Westbengalen
 ::nepal::Nepal
 ::kathmandu::Kathmandu
 ::tibet::Tibet
@@ -13133,10 +12042,8 @@ SendMode Input
 ::orkney::Orkney
 ::shetlandinseln::Shetlandinseln
 ::korea::Korea
-::nordkorea::Nordkorea
 ::demokratische volksrepublik korea::Demokratische Volksrepublik Korea
 ::pjöngjang::Pjöngjang
-::südkorea::Südkorea
 ::republik korea::Republik Korea
 ::seoul::Seoul
 ::laos::Laos
@@ -13180,7 +12087,6 @@ SendMode Input
 ::marokko::Marokko
 ::casablanca::Casablanca
 ::fès::Fès
-::westsahara::Westsahara
 ::mosambik::Mosambik
 ::neuseeland::Neuseeland
 ::auckland::Auckland
@@ -13239,7 +12145,6 @@ SendMode Input
 ::somalia::Somalia
 ::mogadischu::Mogadischu
 ::horn von afrika::Horn von Afrika
-::südafrika::Südafrika
 ::kapstadt::Kapstadt
 ::johannesburg::Johannesburg
 ::oranjefreistaat::Oranjefreistaat
@@ -13316,6 +12221,7 @@ SendMode Input
 ::aserbaidschan::Aserbaidschan
 ::baku::Baku
 ::iberien::Iberien
+::iberische halbinsel::Iberische Halbinsel
 ::tiflis::Tiflis
 ::abchasien::Abchasien
 ::kasachstan::Kasachstan
@@ -13407,10 +12313,8 @@ SendMode Input
 ::new york::New York
 ::syracuse::Syracuse
 ::syrakus::Syrakus
-::nordkarolina::Nordkarolina
 ::north carolina::North Carolina
 ::oregon::Oregon
-::südkarolina::Südkarolina
 ::south carolina::South Carolina
 ::texas::Texas
 ::provo::Provo
@@ -13438,7 +12342,6 @@ SendMode Input
 ::simbabwe::Simbabwe
 ::sahara::Sahara
 ::vesuv::Vesuv
-::nordafrika::Nordafrika
 ::ursache::Ursache
 ::grund::Grund
 ::anreiz::Anreiz
@@ -13452,7 +12355,6 @@ SendMode Input
 ::ttm::TTM
 ::fernweh::Fernweh
 ::wanderlust::Wanderlust
-::gewissen::Gewissen
 ::aare::Aare
 ::abgrund::Abgrund
 ::etsch::Etsch
@@ -13504,12 +12406,10 @@ SendMode Input
 ::australien::Australien
 ::balaton::Balaton
 ::plattensee::Plattensee
-::ostsee::Ostsee
 ::baltisches meer::Baltisches Meer
 ::ufer::Ufer
 ::barentssee::Barentssee
 ::golf::Golf
-::bucht::Bucht
 ::meerbusen::Meerbusen
 ::golf von bengalen::Golf von Bengalen
 ::golf von biskaya::Golf von Biskaya
@@ -13530,11 +12430,9 @@ SendMode Input
 ::beteigeuze::Beteigeuze
 ::doppelstern::Doppelstern
 ::stückchen::Stückchen
-::fetzen::Fetzen
 ::schwarzwald::Schwarzwald
 ::schwarzes meer::Schwarzes Meer
 ::mantel::Mantel
-::hülle::Hülle
 ::umhüllung::Umhüllung
 ::körper::Körper
 ::boson::Boson
@@ -13542,7 +12440,6 @@ SendMode Input
 ::bresche::Bresche
 ::bach::Bach
 ::bächlein::Bächlein
-::blase::Blase
 ::bau::Bau
 ::caldera::Caldera
 ::callisto::Callisto
@@ -13550,7 +12447,6 @@ SendMode Input
 ::kleiner hund::Kleiner Hund
 ::schlucht::Schlucht
 ::felsschlucht::Felsschlucht
-::klamm::Klamm
 ::kap::Kap
 ::steinbock::Steinbock
 ::karibik::Karibik
@@ -13561,15 +12457,10 @@ SendMode Input
 ::kaspisches meer::Kaspisches Meer
 ::cassiopeia::Cassiopeia
 ::katarakt::Katarakt
-::fang::Fang
 ::kation::Kation
-::höhle::Höhle
-::höhle::Höhle
 ::himmelskörper::Himmelskörper
 ::ceres::Ceres
-::kette::Kette
 ::chamäleon::Chamäleon
-::spalte::Spalte
 ::kluft::Kluft
 ::abgrund::Abgrund
 ::chromosphäre::Chromosphäre
@@ -13577,7 +12468,6 @@ SendMode Input
 ::kar::Kar
 ::wolke::Wolke
 ::gewölk::Gewölk
-::taube::Taube
 ::koma::Koma
 ::komet::Komet
 ::kongo::Kongo
@@ -13597,9 +12487,7 @@ SendMode Input
 ::korallenbank::Korallenbank
 ::korallenmeer::Korallenmeer
 ::rabe::Rabe
-::riss::Riss
 ::spalt::Spalt
-::spalte::Spalte
 ::krater::Krater
 ::becher::Becher
 ::gletscherspalte::Gletscherspalte
@@ -13611,7 +12499,6 @@ SendMode Input
 ::kumuluswolke::Kumuluswolke
 ::cumulus::Cumulus
 ::schwan::Schwan
-::schuppen::Schuppen
 ::donau::Donau
 ::totes meer::Totes Meer
 ::engpass::Engpass
@@ -13630,7 +12517,6 @@ SendMode Input
 ::treibeis::Treibeis
 ::düne::Düne
 ::welt::Welt
-::erde::Erde
 ::erdkugel::Erdkugel
 ::ostchinesisches meer::Ostchinesisches Meer
 ::ebro::Ebro
@@ -13663,7 +12549,6 @@ SendMode Input
 ::forst::Forst
 ::waldung::Waldung
 ::waldland::Waldland
-::fossil::Fossil
 ::fragment::Fragment
 ::gallenstein::Gallenstein
 ::ganges::Ganges
@@ -13672,7 +12557,6 @@ SendMode Input
 ::geysir::Geysir
 ::riese::Riese
 ::gletscher::Gletscher
-::ferner::Ferner
 ::kees::Kees
 ::gluon::Gluon
 ::schlucht::Schlucht
@@ -13736,19 +12620,15 @@ SendMode Input
 ::seeuver::Seeuver
 ::oberer see::Oberer See
 ::tanganjikasee::Tanganjikasee
-::erde::Erde
 ::erdboden::Erdboden
 ::grund::Grund
 ::land::Land
 ::boden::Boden
-::erde::Erde
 ::boden::Boden
 ::erdreich::Erdreich
 ::landfläche::Landfläche
 ::landmasse::Landmasse
 ::festland::Festland
-::stelle::Stelle
-::leck::Leck
 ::sims::Sims
 ::vorsprung::Vorsprung
 ::lena::Lena
@@ -13798,13 +12678,10 @@ SendMode Input
 ::moräne::Moräne
 ::berg::Berg
 ::mündung::Mündung
-::fliege::Fliege
-::mutagen::Mutagen
 ::nebel::Nebel
 ::notwendigkeit::Notwendigkeit
 ::nezessität::Nezessität
 ::notwendigkeit::Notwendigkeit
-::bedarf::Bedarf
 ::bedürfnis::Bedürfnis
 ::neptun::Neptun
 ::vogelnest::Vogelnest
@@ -13816,16 +12693,12 @@ SendMode Input
 ::nimbus::Nimbus
 ::regenwolke::Regenwolke
 ::schleierwolke::Schleierwolke
-::nordamerika::Nordamerika
-::nordsee::Nordsee
 ::nova::Nova
 ::nukleon::Nukleon
 ::atomkern::Atomkern
-::ob::Ob
 ::ozean::Ozean
 ::meeresboden::Meeresboden
 ::oktant::Oktant
-::oder::Oder
 ::olymp::Olymp
 ::schlangenträger::Schlangenträger
 ::orinoco::Orinoco
@@ -13837,10 +12710,8 @@ SendMode Input
 ::großer ozean::Großer Ozean
 ::packeis::Packeis
 ::pangäa::Pangäa
-::teil::Teil
 ::partikel::Partikel
 ::teilchen::Teilchen
-::pass::Pass
 ::bergpass::Bergpass
 ::pfau::Pfau
 ::kieselstein::Kieselstein
@@ -13854,7 +12725,6 @@ SendMode Input
 ::photon::Photon
 ::maler::Maler
 ::pion::Pion
-::fische::Fische
 ::grube::Grube
 ::loch::Loch
 ::planet::Planet
@@ -13863,7 +12733,6 @@ SendMode Input
 ::pluto::Pluto
 ::polarstern::Polarstern
 ::teich::Teich
-::lache::Lache
 ::pfütze::Pfütze
 ::positron::Positron
 ::schlagloch::Schlagloch
@@ -13890,7 +12759,6 @@ SendMode Input
 ::rhône::Rhône
 ::grat::Grat
 ::rigel::Rigel
-::riss::Riss
 ::fluss::Fluss
 ::strom::Strom
 ::flussbett::Flussbett
@@ -13899,12 +12767,10 @@ SendMode Input
 ::gestein::Gestein
 ::rocky mountains::Rocky Mountains
 ::ruhrgebiet::Ruhrgebiet
-::sattel::Sattel
 ::pfeil::Pfeil
 ::salzwiese::Salzwiese
 ::sandbank::Sandbank
 ::saturn::Saturn
-::schuppe::Schuppe
 ::schelde::Schelde
 ::skorpion::Skorpion
 ::bildhauer::Bildhauer
@@ -13916,9 +12782,7 @@ SendMode Input
 ::sediment::Sediment
 ::satz::Satz
 ::segment::Segment
-::seine::Seine
 ::schlange::Schlange
-::schale::Schale
 ::eierschale::Eierschale
 ::sandbank::Sandbank
 ::ufer::Ufer
@@ -13927,25 +12791,20 @@ SendMode Input
 ::brotscheibe::Brotscheibe
 ::scheibe::Scheibe
 ::anteil::Anteil
-::teil::Teil
 ::stück::Stück
 ::steigung::Steigung
 ::hang::Hang
 ::schneewehe::Schneewehe
 ::schneeverwehung::Schneeverwehung
 ::sonnensystem::Sonnensystem
-::südamerika::Südamerika
 ::südchinesisches meer::Südchinesisches Meer
 ::kreuz des südens::Kreuz des Südens
-::funke::Funke
 ::splitter::Splitter
 ::stalaktit::Stalaktit
 ::stalagmit::Stalagmit
 ::stern::Stern
-::steppe::Steppe
 ::sund::Sund
 ::meerenge::Meerenge
-::enge::Enge
 ::straße::Straße
 ::straße von gibraltar::Straße von Gibraltar
 ::meerenge von gibraltar::Meerenge von Gibraltar
@@ -13953,8 +12812,6 @@ SendMode Input
 ::magellanstraße::Magellanstraße
 ::stratosphäre::Stratosphäre
 ::subkontinent::Subkontinent
-::sonne::Sonne
-::sonne::Sonne
 ::überriese::Überriese
 ::supergigant::Supergigant
 ::supernova::Supernova
@@ -13986,9 +12843,7 @@ SendMode Input
 ::ural::Ural
 ::uranus::Uranus
 ::valenzelektron::Valenzelektron
-::senke::Senke
 ::tal::Tal
-::variable::Variable
 ::wega::Wega
 ::venus::Venus
 ::victoriafälle::Victoriafälle
@@ -13997,8 +12852,6 @@ SendMode Input
 ::vulkan::Vulkan
 ::wolga::Wolga
 ::fuchs::Fuchs
-::wand::Wand
-::mauer::Mauer
 ::wasserlauf::Wasserlauf
 ::wasserfall::Wasserfall
 ::katarakt::Katarakt
@@ -14010,8 +12863,6 @@ SendMode Input
 ::jangtse::Jangtse
 ::gelbes meer::Gelbes Meer
 ::jenissei::Jenissei
-::außerirdischer::Außerirdischer
-::außerirdische::Außerirdische
 ::yeti::Yeti
 ::schneemensch::Schneemensch
 ::doppelgänger::Doppelgänger
@@ -14037,7 +12888,6 @@ SendMode Input
 ::kirke::Kirke
 ::drache::Drache
 ::ganymed::Ganymed
-::greif::Greif
 ::hypnos::Hypnos
 ::perseus::Perseus
 ::andromeda::Andromeda
@@ -14057,7 +12907,6 @@ SendMode Input
 ::lykanthrop::Lykanthrop
 ::lykanthropin::Lykanthropin
 ::werwölfin::Werwölfin
-::hexe::Hexe
 ::hexer::Hexer
 ::lindwurm::Lindwurm
 ::natur::Natur
@@ -14200,8 +13049,6 @@ SendMode Input
 ::helene::Helene
 ::mephistopheles::Mephistopheles
 ::uncle sam::Uncle Sam
-::erwachsener::Erwachsener
-::erwachsene::Erwachsene
 ::abenteurer::Abenteurer
 ::abenteurerin::Abenteurerin
 ::anachronismus::Anachronismus
@@ -14219,7 +13066,6 @@ SendMode Input
 ::schöpfer::Schöpfer
 ::schöpferin::Schöpferin
 ::wächter::Wächter
-::wache::Wache
 ::verteidiger::Verteidiger
 ::ingenieur::Ingenieur
 ::ingenieurin::Ingenieurin
@@ -14233,12 +13079,6 @@ SendMode Input
 ::bewohnerin::Bewohnerin
 ::ureinwohner::Ureinwohner
 ::ureinwohnerin::Ureinwohnerin
-::eingeborener::Eingeborener
-::eingeborene::Eingeborene
-::intellektueller::Intellektueller
-::intellektuelle::Intellektuelle
-::geliebter::Geliebter
-::geliebte::Geliebte
 ::anführer::Anführer
 ::anführerin::Anführerin
 ::leiter::Leiter
@@ -14249,19 +13089,11 @@ SendMode Input
 ::mann::Mann
 ::zwischenhändler::Zwischenhändler
 ::vermittler::Vermittler
-::gleichaltriger::Gleichaltriger
-::gleichaltrige::Gleichaltrige
-::ebenbürtiger::Ebenbürtiger
-::beaufsichtigender::Beaufsichtigender
 ::empfänger::Empfänger
 ::empfängerin::Empfängerin
-::reisender::Reisender
-::reisende::Reisende
 ::persona non grata::Persona non grata
 ::arbeiter::Arbeiter
 ::arbeiterin::Arbeiterin
-::angestellter::Angestellter
-::angestellte::Angestellte
 ::hackler::Hackler
 ::hacklerin::Hacklerin
 ::arbeitnehmer::Arbeitnehmer
@@ -14288,10 +13120,7 @@ SendMode Input
 ::kaffer::Kaffer
 ::mulatte::Mulatte
 ::mulattin::Mulattin
-::europide::Europide
 ::caucasoid::Caucasoid
-::weißer::Weißer
-::weiße::Weiße
 ::kaukasier::Kaukasier
 ::kaukasierin::Kaukasierin
 ::bleichgesicht::Bleichgesicht
@@ -14523,10 +13352,6 @@ SendMode Input
 ::jordanierin::Jordanierin
 ::koreaner::Koreaner
 ::koreanerin::Koreanerin
-::nordkoreaner::Nordkoreaner
-::nordkoreanerin::Nordkoreanerin
-::südkoreaner::Südkoreaner
-::südkoreanerin::Südkoreanerin
 ::kenianer::Kenianer
 ::kenianerin::Kenianerin
 ::kurde::Kurde
@@ -14564,7 +13389,6 @@ SendMode Input
 ::mauritierin::Mauritierin
 ::mexikaner::Mexikaner
 ::mexikanerin::Mexikanerin
-::maure::Maure
 ::mohr::Mohr
 ::marokkaner::Marokkaner
 ::marokkanerin::Marokkanerin
@@ -14580,8 +13404,6 @@ SendMode Input
 ::nicaraguanerin::Nicaraguanerin
 ::nigerianer::Nigerianer
 ::nigerianerin::Nigerianerin
-::nordamerikaner::Nordamerikaner
-::nordamerikanerin::Nordamerikanerin
 ::norweger::Norweger
 ::norwegerin::Norwegerin
 ::omaner::Omaner
@@ -14609,7 +13431,6 @@ SendMode Input
 ::russin::Russin
 ::russländer::Russländer
 ::russländerin::Russländerin
-::großrussisch::Großrussisch
 ::moskauer::Moskauer
 ::moskowiter::Moskowiter
 ::moskauerin::Moskauerin
@@ -14626,7 +13447,6 @@ SendMode Input
 ::skandinavier::Skandinavier
 ::skandinavierin::Skandinavierin
 ::wikinger::Wikinger
-::schotte::Schotte
 ::schottin::Schottin
 ::schottin::Schottin
 ::senegalese::Senegalese
@@ -14637,10 +13457,6 @@ SendMode Input
 ::slowenin::Slowenin
 ::windischer::Windischer
 ::windische::Windische
-::südafrikaner::Südafrikaner
-::südafrikanerin::Südafrikanerin
-::südamerikaner::Südamerikaner
-::südamerikanerin::Südamerikanerin
 ::spanier::Spanier
 ::spanierin::Spanierin
 ::sudanese::Sudanese
@@ -14663,7 +13479,6 @@ SendMode Input
 ::togoerin::Togoerin
 ::tunesier::Tunesier
 ::tunesierin::Tunesierin
-::türke::Türke
 ::türkin::Türkin
 ::tschuwaschisch::Tschuwaschisch
 ::efendi::Efendi
@@ -14698,8 +13513,6 @@ SendMode Input
 ::gambierin::Gambierin
 ::malteser::Malteser
 ::malteserin::Malteserin
-::deutscher::Deutscher
-::deutsche::Deutsche
 ::berliner::Berliner
 ::berlinerin::Berlinerin
 ::preuße::Preuße
@@ -14751,21 +13564,14 @@ SendMode Input
 ::buchhalter::Buchhalter
 ::buchhalterin::Buchhalterin
 ::kundenbetreuer::Kundenbetreuer
-::angeklagte::Angeklagte
-::verdächtiger::Verdächtiger
-::verdächtige::Verdächtige
 ::akolyth::Akolyth
 ::akustiker::Akustiker
 ::akustikerin::Akustikerin
-::bekannter::Bekannter
-::freund::Freund
-::bekannte::Bekannte
 ::freundin::Freundin
 ::akrobat::Akrobat
 ::akrobatin::Akrobatin
 ::schauspieler::Schauspieler
 ::schauspielerin::Schauspielerin
-::handelnde::Handelnde
 ::schauspielerin::Schauspielerin
 ::empfänger::Empfänger
 ::empfängerin::Empfängerin
@@ -14775,11 +13581,7 @@ SendMode Input
 ::verwaltungsleiter::Verwaltungsleiter
 ::sachbearbeiter::Sachbearbeiter
 ::administrator::Administrator
-::jugendlicher::Jugendlicher
-::jugendliche::Jugendliche
 ::jüngling::Jüngling
-::adoptierter::Adoptierter
-::adoptierte::Adoptierte
 ::ehebrecher::Ehebrecher
 ::abenteuerin::Abenteuerin
 ::abenteurerin::Abenteurerin
@@ -14800,18 +13602,15 @@ SendMode Input
 ::alchemist::Alchemist
 ::alchemistin::Alchemistin
 ::algebraiker::Algebraiker
-::freund::Freund
 ::freundin::Freundin
 ::messdiener::Messdiener
 ::absolvent::Absolvent
 ::absolventin::Absolventin
 ::botschafter::Botschafter
-::amputierte::Amputierte
 ::analytiker::Analytiker
 ::anarchist::Anarchist
 ::anatom::Anatom
 ::vorfahr::Vorfahr
-::ahne::Ahne
 ::ahnin::Ahnin
 ::anchorman::Anchorman
 ::leitgesicht::Leitgesicht
@@ -14833,11 +13632,9 @@ SendMode Input
 ::lehrling::Lehrling
 ::arabist::Arabist
 ::arabistin::Arabistin
-::schlichter::Schlichter
 ::schiedsrichter::Schiedsrichter
 ::archidiakon::Archidiakon
 ::erzherzogin::Erzherzogin
-::erzherzog::Erzherzog
 ::archäologe::Archäologe
 ::archäologin::Archäologin
 ::erzbischof::Erzbischof
@@ -14946,7 +13743,6 @@ SendMode Input
 ::korbmacherin::Korbmacherin
 ::korbflechter::Korbflechter
 ::korbflechterin::Korbflechterin
-::bass::Bass
 ::baß::Baß
 ::bassist::Bassist
 ::fagottist::Fagottist
@@ -14978,10 +13774,7 @@ SendMode Input
 ::bienenhalterin::Bienenhalterin
 ::bettler::Bettler
 ::bettlerin::Bettlerin
-::gläubiger::Gläubiger
-::liebe::Liebe
 ::liebling::Liebling
-::liebes::Liebes
 ::schatz::Schatz
 ::nutznießer::Nutznießer
 ::berserker::Berserker
@@ -14992,8 +13785,6 @@ SendMode Input
 ::biograf::Biograf
 ::biologe::Biologe
 ::biologin::Biologin
-::bisexuelle::Bisexuelle
-::bisexueller::Bisexueller
 ::bischof::Bischof
 ::erpresser::Erpresser
 ::erpresserin::Erpresserin
@@ -15037,10 +13828,8 @@ SendMode Input
 ::boxer::Boxer
 ::boxerin::Boxerin
 ::bubi::Bubi
-::junge::Junge
 ::knabe::Knabe
 ::söhnchen::Söhnchen
-::freund::Freund
 ::boyfriend::Boyfriend
 ::angeber::Angeber
 ::angeberin::Angeberin
@@ -15052,7 +13841,6 @@ SendMode Input
 ::züchter::Züchter
 ::brauer::Brauer
 ::maurer::Maurer
-::braut::Braut
 ::brautjungfer::Brautjungfer
 ::bruder::Bruder
 ::bruder::Bruder
@@ -15060,7 +13848,6 @@ SendMode Input
 ::kamerad::Kamerad
 ::schwager::Schwager
 ::braunhemd::Braunhemd
-::brünette::Brünette
 ::kumpel::Kumpel
 ::baumeister::Baumeister
 ::erbauer::Erbauer
@@ -15069,8 +13856,6 @@ SendMode Input
 ::bulle::Bulle
 ::bullette::Bullette
 ::gendarm::Gendarm
-::halbstarker::Halbstarker
-::halbstarke::Halbstarke
 ::rabauke::Rabauke
 ::rabaukin::Rabaukin
 ::rowdy::Rowdy
@@ -15106,7 +13891,6 @@ SendMode Input
 ::käufer::Käufer
 ::einkäufer::Einkäufer
 ::zuschauer::Zuschauer
-::schaulustiger::Schaulustiger
 ::kadett::Kadett
 ::kalif::Kalif
 ::schreibkünstler::Schreibkünstler
@@ -15120,7 +13904,6 @@ SendMode Input
 ::kameraoperateur::Kameraoperateur
 ::kandidat::Kandidat
 ::kandidatin::Kandidatin
-::nominierte::Nominierte
 ::kannibale::Kannibale
 ::kannibalin::Kannibalin
 ::menschenfresser::Menschenfresser
@@ -15139,7 +13922,6 @@ SendMode Input
 ::tischler::Tischler
 ::bauschreiner::Bauschreiner
 ::überträger::Überträger
-::träger::Träger
 ::kartograph::Kartograph
 ::kartograf::Kartograf
 ::kartographin::Kartographin
@@ -15166,11 +13948,8 @@ SendMode Input
 ::höhlenmensch::Höhlenmensch
 ::troglodyt::Troglodyt
 ::berühmtheit::Berühmtheit
-::unverheirateter::Unverheirateter
-::unverheiratete::Unverheiratete
 ::junggeselle::Junggeselle
 ::junggesellin::Junggesellin
-::zölibatär::Zölibatär
 ::zölibatärin::Zölibatärin
 ::cellist::Cellist
 ::cellistin::Cellistin
@@ -15241,7 +14020,6 @@ SendMode Input
 ::reinigungskraft::Reinigungskraft
 ::pfarrer::Pfarrer
 ::kleriker::Kleriker
-::geistlicher::Geistlicher
 ::hochwürden::Hochwürden
 ::ehrwürden::Ehrwürden
 ::klimatologe::Klimatologe
@@ -15255,7 +14033,6 @@ SendMode Input
 ::hanswurst::Hanswurst
 ::trainer::Trainer
 ::kutscher::Kutscher
-::schuster::Schuster
 ::schusterin::Schusterin
 ::flickschuster::Flickschuster
 ::flickschusterin::Flickschusterin
@@ -15270,7 +14047,6 @@ SendMode Input
 ::mitarbeiterin::Mitarbeiterin
 ::sammler::Sammler
 ::sammlerin::Sammlerin
-::oberst::Oberst
 ::riese::Riese
 ::riesin::Riesin
 ::kämpfer::Kämpfer
@@ -15320,7 +14096,6 @@ SendMode Input
 ::zeitgenosse::Zeitgenosse
 ::zeitgenossin::Zeitgenossin
 ::sträfling::Sträfling
-::koch::Koch
 ::köchin::Köchin
 ::chefkoch::Chefkoch
 ::küchenchef::Küchenchef
@@ -15380,7 +14155,6 @@ SendMode Input
 ::kuhhirtin::Kuhhirtin
 ::cowgirl::Cowgirl
 ::handwerker::Handwerker
-::gläubiger::Gläubiger
 ::verbrecher::Verbrecher
 ::schwerverbrecher::Schwerverbrecher
 ::übeltäter::Übeltäter
@@ -15390,10 +14164,8 @@ SendMode Input
 ::grünschnabel::Grünschnabel
 ::gelbschnabel::Gelbschnabel
 ::wölfling::Wölfling
-::gehörnter::Gehörnter
 ::hahnrei::Hahnrei
 ::hornträger::Hornträger
-::zicke::Zicke
 ::pastor::Pastor
 ::pastorin::Pastorin
 ::pfarrer::Pfarrer
@@ -15424,9 +14196,6 @@ SendMode Input
 ::papi::Papi
 ::milchmädchen::Milchmädchen
 ::melkerin::Melkerin
-::schnitte::Schnitte
-::braut::Braut
-::perle::Perle
 ::mieze::Mieze
 ::schnecke::Schnecke
 ::tussi::Tussi
@@ -15447,15 +14216,11 @@ SendMode Input
 ::nachzügler::Nachzügler
 ::diakon::Diakon
 ::diakon::Diakon
-::verstorbene::Verstorbene
-::verstorbener::Verstorbener
 ::schuldner::Schuldner
 ::dekoratör::Dekoratör
 ::dekoratörin::Dekoratörin
 ::defätist::Defätist
 ::deist::Deist
-::delegierter::Delegierter
-::abgeordneter::Abgeordneter
 ::vertreter::Vertreter
 ::lieferant::Lieferant
 ::zusteller::Zusteller
@@ -15477,9 +14242,7 @@ SendMode Input
 ::hautarzt::Hautarzt
 ::hautärztin::Hautärztin
 ::derwisch::Derwisch
-::nachkomme::Nachkomme
 ::deserteur::Deserteur
-::abtrünnige::Abtrünnige
 ::überläufer::Überläufer
 ::zerstörer::Zerstörer
 ::ermittler::Ermittler
@@ -15501,12 +14264,9 @@ SendMode Input
 ::manager::Manager
 ::flugdienstberater::Flugdienstberater
 ::dispatcher::Dispatcher
-::dissident::Dissident
 ::dissidentin::Dissidentin
 ::taucher::Taucher
 ::taucherin::Taucherin
-::geschiedener::Geschiedener
-::geschiedene::Geschiedene
 ::arzt::Arzt
 ::ärztin::Ärztin
 ::mediziner::Mediziner
@@ -15522,12 +14282,10 @@ SendMode Input
 ::spender::Spender
 ::pförtner::Pförtner
 ::doppelgänger::Doppelgänger
-::double::Double
 ::doppelagent::Doppelagent
 ::doppelagentin::Doppelagentin
 ::verräter::Verräter
 ::witwe von stand::Witwe von Stand
-::wehrpflichtiger::Wehrpflichtiger
 ::dolmetscher::Dolmetscher
 ::bühnenautor::Bühnenautor
 ::bühnenautorin::Bühnenautorin
@@ -15539,8 +14297,6 @@ SendMode Input
 ::fahrer::Fahrer
 ::fahrerin::Fahrerin
 ::junkie::Junkie
-::drogensüchtiger::Drogensüchtiger
-::drogenabhängiger::Drogenabhängiger
 ::drogenkonsument::Drogenkonsument
 ::schlagzeuger::Schlagzeuger
 ::trommler::Trommler
@@ -15549,7 +14305,6 @@ SendMode Input
 ::trinker::Trinker
 ::drusen::Drusen
 ::herzogin::Herzogin
-::herzog::Herzog
 ::tölpel::Tölpel
 ::narr::Narr
 ::depp::Depp
@@ -15593,8 +14348,6 @@ SendMode Input
 ::kaiser::Kaiser
 ::imperator::Imperator
 ::kaiserin::Kaiserin
-::angestellter::Angestellter
-::angestellte::Angestellte
 ::arbeitgeber::Arbeitgeber
 ::arbeitgeberin::Arbeitgeberin
 ::zauberer::Zauberer
@@ -15632,7 +14385,6 @@ SendMode Input
 ::geldwechsler::Geldwechsler
 ::henker::Henker
 ::scharfrichter::Scharfrichter
-::exekutive::Exekutive
 ::exilant::Exilant
 ::exorzist::Exorzist
 ::exorzistin::Exorzistin
@@ -15644,7 +14396,6 @@ SendMode Input
 ::geisterbannerin::Geisterbannerin
 ::teufelsbanner::Teufelsbanner
 ::teufelsbannerin::Teufelsbannerin
-::forscher::Forscher
 ::forscherin::Forscherin
 ::extremist::Extremist
 ::extremistin::Extremistin
@@ -15659,8 +14410,6 @@ SendMode Input
 ::kenner::Kenner
 ::fanatiker::Fanatiker
 ::fanatikerin::Fanatikerin
-::geliebte::Geliebte
-::geliebter::Geliebter
 ::liebhaber::Liebhaber
 ::liebhaberin::Liebhaberin
 ::mätresse::Mätresse
@@ -15694,7 +14443,6 @@ SendMode Input
 ::rollmops::Rollmops
 ::fellache::Fellache
 ::fellachin::Fellachin
-::alter::Alter
 ::mädchen::Mädchen
 ::mädel::Mädel
 ::feminist::Feminist
@@ -15718,7 +14466,6 @@ SendMode Input
 ::entdecker::Entdecker
 ::feuerwehrmann::Feuerwehrmann
 ::feuerwehrfrau::Feuerwehrfrau
-::erstgeborene::Erstgeborene
 ::oberleutnant::Oberleutnant
 ::fischer::Fischer
 ::fischerin::Fischerin
@@ -15729,7 +14476,6 @@ SendMode Input
 ::floristin::Floristin
 ::flötist::Flötist
 ::flötistin::Flötistin
-::feind::Feind
 ::gegner::Gegner
 ::troubadour::Troubadour
 ::trobador::Trobador
@@ -15745,8 +14491,6 @@ SendMode Input
 ::fußballspieler::Fußballspieler
 ::fußballspielerin::Fußballspielerin
 ::seher::Seher
-::fremder::Fremder
-::fremde::Fremde
 ::ausländer::Ausländer
 ::ausländerin::Ausländerin
 ::außenminister::Außenminister
@@ -15773,7 +14517,6 @@ SendMode Input
 ::neuling::Neuling
 ::mönch::Mönch
 ::benediktiner::Benediktiner
-::freund::Freund
 ::kumpel::Kumpel
 ::kamerad::Kamerad
 ::freundin::Freundin
@@ -15819,7 +14562,6 @@ SendMode Input
 ::ahn::Ahn
 ::stammvater::Stammvater
 ::vorfahr::Vorfahr
-::vorfahre::Vorfahre
 ::genie::Genie
 ::herr::Herr
 ::geograf::Geograf
@@ -15838,7 +14580,6 @@ SendMode Input
 ::glaser::Glaser
 ::weltenbummler::Weltenbummler
 ::vielfraß::Vielfraß
-::nimmersatt::Nimmersatt
 ::gourmand::Gourmand
 ::schlemmer::Schlemmer
 ::schlemmerin::Schlemmerin
@@ -15882,6 +14623,7 @@ SendMode Input
 ::omi::Omi
 ::oma::Oma
 ::enkelsohn::Enkelsohn
+::enkel::Enkel
 ::grafologe::Grafologe
 ::grafologin::Grafologin
 ::graphologe::Graphologe
@@ -15927,11 +14669,9 @@ SendMode Input
 ::zigeuner::Zigeuner
 ::zigeunerin::Zigeunerin
 ::hacker::Hacker
-::hexe::Hexe
 ::friseur::Friseur
 ::mischling::Mischling
 ::esel::Esel
-::handlanger::Handlanger
 ::harlekin::Harlekin
 ::harfenist::Harfenist
 ::harfenistin::Harfenistin
@@ -15940,7 +14680,6 @@ SendMode Input
 ::drache::Drache
 ::drachen::Drachen
 ::xanthippe::Xanthippe
-::hexe::Hexe
 ::vettel::Vettel
 ::chassid::Chassid
 ::hutmacher::Hutmacher
@@ -15961,7 +14700,6 @@ SendMode Input
 ::staatsoberhaupt::Staatsoberhaupt
 ::heide::Heide
 ::hedonist::Hedonist
-::erbe::Erbe
 ::steuermann::Steuermann
 ::herold::Herold
 ::bote::Bote
@@ -15983,8 +14721,6 @@ SendMode Input
 ::antiheld::Antiheld
 ::heldin::Heldin
 ::heroine::Heroine
-::heterosexueller::Heterosexueller
-::heterosexuelle::Heterosexuelle
 ::historiker::Historiker
 ::historikerin::Historikerin
 ::anhalter::Anhalter
@@ -15995,9 +14731,6 @@ SendMode Input
 ::schwein::Schwein
 ::homöopath::Homöopath
 ::homöopathin::Homöopathin
-::homosexueller::Homosexueller
-::homosexuelle::Homosexuelle
-::schwuler::Schwuler
 ::lesbierin::Lesbierin
 ::lesbe::Lesbe
 ::homo::Homo
@@ -16017,8 +14750,6 @@ SendMode Input
 ::hausfrau::Hausfrau
 ::hugenotte::Hugenotte
 ::hugenottin::Hugenottin
-::buckliger::Buckliger
-::buckel::Buckel
 ::hunne::Hunne
 ::jäger::Jäger
 ::ehemann::Ehemann
@@ -16041,7 +14772,6 @@ SendMode Input
 ::fischkundlerin::Fischkundlerin
 ::ideologe::Ideologe
 ::ideologin::Ideologin
-::schwachsinniger::Schwachsinniger
 ::schwachkopf::Schwachkopf
 ::idiot::Idiot
 ::idiotin::Idiotin
@@ -16050,7 +14780,6 @@ SendMode Input
 ::faulenzer::Faulenzer
 ::faulenzerin::Faulenzerin
 ::drohne::Drohne
-::ignorant::Ignorant
 ::analphabet::Analphabet
 ::analphabetin::Analphabetin
 ::einwanderer::Einwanderer
@@ -16067,26 +14796,19 @@ SendMode Input
 ::hochstapler::Hochstapler
 ::impressionist::Impressionist
 ::amtsinhaber::Amtsinhaber
-::industrieller::Industrieller
 ::kindesmörder::Kindesmörder
 ::kindesmörderin::Kindesmörderin
 ::infanterist::Infanterist
-::quelle::Quelle
 ::informant::Informant
 ::informantin::Informantin
 ::polyhistor::Polyhistor
 ::universalgelehrter::Universalgelehrter
-::fragender::Fragender
-::fragende::Fragende
 ::fragesteller::Fragesteller
 ::fragestellerin::Fragestellerin
-::fragender::Fragender
-::fragende::Fragende
 ::fragesteller::Fragesteller
 ::fragestellerin::Fragestellerin
 ::initiator::Initiator
 ::bauer::Bauer
-::handlanger::Handlanger
 ::rebell::Rebell
 ::aufrührer::Aufrührer
 ::freiheitskämpfer::Freiheitskämpfer
@@ -16110,7 +14832,6 @@ SendMode Input
 ::jakob::Jakob
 ::javaner::Javaner
 ::javanerin::Javanerin
-::javanisch::Javanisch
 ::narr::Narr
 ::hofnarr::Hofnarr
 ::jesuit::Jesuit
@@ -16129,8 +14850,6 @@ SendMode Input
 ::jongleur::Jongleur
 ::jurist::Jurist
 ::juristin::Juristin
-::geschworener::Geschworener
-::geschworene::Geschworene
 ::entführer::Entführer
 ::entführerin::Entführerin
 ::töter::Töter
@@ -16140,15 +14859,11 @@ SendMode Input
 ::könig::König
 ::kronanwalt::Kronanwalt
 ::kronanwältin::Kronanwältin
-::verwandter::Verwandter
-::verwandte::Verwandte
 ::familie::Familie
-::verwandter::Verwandter
 ::ritter::Ritter
 ::bachelor::Bachelor
 ::templer::Templer
 ::besserwisser::Besserwisser
-::neunmalkluger::Neunmalkluger
 ::rechthaber::Rechthaber
 ::schulmeister::Schulmeister
 ::klugscheißer::Klugscheißer
@@ -16159,10 +14874,8 @@ SendMode Input
 ::herrin::Herrin
 ::dame::Dame
 ::edelfrau::Edelfrau
-::adelige::Adelige
 ::dame::Dame
 ::lama::Lama
-::gefreiter::Gefreiter
 ::vermieterin::Vermieterin
 ::hauswirtin::Hauswirtin
 ::vermieter::Vermieter
@@ -16198,8 +14911,6 @@ SendMode Input
 ::rettungsschwimmer::Rettungsschwimmer
 ::rettungsschwimmerin::Rettungsschwimmerin
 ::leuchtfeuerwärter::Leuchtfeuerwärter
-::polyglotter::Polyglotter
-::polyglotte::Polyglotte
 ::sprachwissenschaftler::Sprachwissenschaftler
 ::linguist::Linguist
 ::sprachwissenschaftlerin::Sprachwissenschaftlerin
@@ -16209,17 +14920,12 @@ SendMode Input
 ::schwesterchen::Schwesterchen
 ::lobbyist::Lobbyist
 ::schlosser::Schlosser
-::wache::Wache
 ::wachposten::Wachposten
 ::schildwache::Schildwache
 ::edelmann::Edelmann
-::adeliger::Adeliger
 ::verlierer::Verlierer
 ::verlierer::Verlierer
 ::holzfäller::Holzfäller
-::irrer::Irrer
-::wahnsinniger::Wahnsinniger
-::verrückter::Verrückter
 ::pyromane::Pyromane
 ::geigenbauer::Geigenbauer
 ::geigenbauerin::Geigenbauerin
@@ -16231,8 +14937,6 @@ SendMode Input
 ::mamma::Mamma
 ::mutter::Mutter
 ::puffmutter::Puffmutter
-::wahnsinnige::Wahnsinnige
-::verrückte::Verrückte
 ::meister::Meister
 ::elefantentreiber::Elefantentreiber
 ::mädchen::Mädchen
@@ -16248,7 +14952,6 @@ SendMode Input
 ::macher::Macher
 ::hersteller::Hersteller
 ::fabrikant::Fabrikant
-::junge::Junge
 ::knabe::Knabe
 ::bub::Bub
 ::mann::Mann
@@ -16258,7 +14961,6 @@ SendMode Input
 ::handpflegerin::Handpflegerin
 ::nagelpfleger::Nagelpfleger
 ::nagelpflegerin::Nagelpflegerin
-::maniküre::Maniküre
 ::model::Model
 ::mannequin::Mannequin
 ::literat::Literat
@@ -16351,7 +15053,6 @@ SendMode Input
 ::frauenhasserin::Frauenhasserin
 ::frauenfeind::Frauenfeind
 ::frauenfeindin::Frauenfeindin
-::misogyn::Misogyn
 ::missing link::Missing Link
 ::missionar::Missionar
 ::mätresse::Mätresse
@@ -16416,9 +15117,7 @@ SendMode Input
 ::naturforscherin::Naturforscherin
 ::nazi::Nazi
 ::faschist::Faschist
-::neapolitanisch::Neapolitanisch
 ::nekromant::Nekromant
-::neugeborener::Neugeborener
 ::neffe::Neffe
 ::sonderling::Sonderling
 ::nerd::Nerd
@@ -16430,8 +15129,6 @@ SendMode Input
 ::neurochirurgin::Neurochirurgin
 ::neurotiker::Neurotiker
 ::neurotikerin::Neurotikerin
-::neuvermählter::Neuvermählter
-::neuvermählte::Neuvermählte
 ::nachrichtensprecher::Nachrichtensprecher
 ::nachrichtensprecherin::Nachrichtensprecherin
 ::nichte::Nichte
@@ -16476,10 +15173,7 @@ SendMode Input
 ::beamte::Beamte
 ::funktionär::Funktionär
 ::funktionärin::Funktionärin
-::nachkommen::Nachkommen
 ::greis::Greis
-::alter::Alter
-::alte::Alte
 ::greisin::Greisin
 ::olympionike::Olympionike
 ::ombudsmann::Ombudsmann
@@ -16524,7 +15218,6 @@ SendMode Input
 ::kieferorthopädin::Kieferorthopädin
 ::orthopäde::Orthopäde
 ::orthopädin::Orthopädin
-::ostgote::Ostgote
 ::paria::Paria
 ::außenseiter::Außenseiter
 ::ausreißer::Ausreißer
@@ -16534,7 +15227,6 @@ SendMode Input
 ::inhaber::Inhaber
 ::heide::Heide
 ::heidin::Heidin
-::ungläubiger::Ungläubiger
 ::page::Page
 ::maler::Maler
 ::malerin::Malerin
@@ -16593,9 +15285,7 @@ SendMode Input
 ::passant::Passant
 ::passantin::Passantin
 ::edelmann::Edelmann
-::adeliger::Adeliger
 ::edelfrau::Edelfrau
-::adelige::Adelige
 ::brieffreund::Brieffreund
 ::brieffreundin::Brieffreundin
 ::rentner::Rentner
@@ -16639,7 +15329,6 @@ SendMode Input
 ::klavierspieler::Klavierspieler
 ::klavierspielerin::Klavierspielerin
 ::taschendieb::Taschendieb
-::pilger::Pilger
 ::wallfahrer::Wallfahrer
 ::pilot::Pilot
 ::flugzeugführer::Flugzeugführer
@@ -16662,11 +15351,9 @@ SendMode Input
 ::klempnerin::Klempnerin
 ::plutokrat::Plutokrat
 ::plutokratin::Plutokratin
-::wilderer::Wilderer
 ::wilddieb::Wilddieb
 ::freischütz::Freischütz
 ::poet::Poet
-::dichter::Dichter
 ::dichterin::Dichterin
 ::dichterin::Dichterin
 ::polizist::Polizist
@@ -16687,7 +15374,6 @@ SendMode Input
 ::kiffer::Kiffer
 ::kifferin::Kifferin
 ::höhlenforscher::Höhlenforscher
-::töpfer::Töpfer
 ::töpferin::Töpferin
 ::prätor::Prätor
 ::schelm::Schelm
@@ -16701,9 +15387,6 @@ SendMode Input
 ::kindergärtler::Kindergärtler
 ::kindergärtlerin::Kindergärtlerin
 ::präsident::Präsident
-::vorsitzender::Vorsitzender
-::vorsitzende::Vorsitzende
-::beute::Beute
 ::priester::Priester
 ::pfarrer::Pfarrer
 ::pfaffe::Pfaffe
@@ -16723,8 +15406,6 @@ SendMode Input
 ::schulvorsteher::Schulvorsteher
 ::schuldirektor::Schuldirektor
 ::drucker::Drucker
-::kriegsgefangener::Kriegsgefangener
-::kriegsgefangene::Kriegsgefangene
 ::privatdetektiv::Privatdetektiv
 ::schnüffler::Schnüffler
 ::aufpasser::Aufpasser
@@ -16745,10 +15426,7 @@ SendMode Input
 ::staatsanwältin::Staatsanwältin
 ::goldsucher::Goldsucher
 ::prospektor::Prospektor
-::prostituierte::Prostituierte
-::hure::Hure
 ::dirne::Dirne
-::schlampe::Schlampe
 ::nutte::Nutte
 ::stellvertreter::Stellvertreter
 ::stellvertreterin::Stellvertreterin
@@ -16798,7 +15476,6 @@ SendMode Input
 ::rekrut::Rekrut
 ::rotkopf::Rotkopf
 ::rotschopf::Rotschopf
-::rothaarige::Rothaarige
 ::prolet::Prolet
 ::schiedsrichter::Schiedsrichter
 ::flüchtling::Flüchtling
@@ -16816,7 +15493,6 @@ SendMode Input
 ::sünder::Sünder
 ::republikaner::Republikaner
 ::republikanerin::Republikanerin
-::forscher::Forscher
 ::einwohner::Einwohner
 ::einwohnerin::Einwohnerin
 ::bewohner::Bewohner
@@ -16870,8 +15546,6 @@ SendMode Input
 ::matrose::Matrose
 ::seemann::Seemann
 ::engel::Engel
-::heiliger::Heiliger
-::heilige::Heilige
 ::verkäufer::Verkäufer
 ::verkäuferin::Verkäuferin
 ::verkäuferin::Verkäuferin
@@ -16889,7 +15563,6 @@ SendMode Input
 ::lustmolch::Lustmolch
 ::satrap::Satrap
 ::barbar::Barbar
-::wilder::Wilder
 ::retter::Retter
 ::saxophonist::Saxophonist
 ::saxophonistin::Saxophonistin
@@ -16897,7 +15570,6 @@ SendMode Input
 ::prügelknabe::Prügelknabe
 ::sündenbock::Sündenbock
 ::pechvogel::Pechvogel
-::gelehrte::Gelehrte
 ::schüler::Schüler
 ::schuljunge::Schuljunge
 ::schulkind::Schulkind
@@ -16940,7 +15612,6 @@ SendMode Input
 ::kolonist::Kolonist
 ::siedler::Siedler
 ::ansiedler::Ansiedler
-::näher::Näher
 ::näherin::Näherin
 ::sexsymbol::Sexsymbol
 ::küster::Küster
@@ -16967,7 +15638,6 @@ SendMode Input
 ::shogun::Shogun
 ::ladenbesitzer::Ladenbesitzer
 ::händler::Händler
-::schütze::Schütze
 ::kugelstoßer::Kugelstoßer
 ::kugelstoßerin::Kugelstoßerin
 ::megäre::Megäre
@@ -17002,10 +15672,8 @@ SendMode Input
 ::nacktbader::Nacktbader
 ::nacktbaderin::Nacktbaderin
 ::skinhead::Skinhead
-::schlampe::Schlampe
 ::luder::Luder
 ::flittchen::Flittchen
-::hure::Hure
 ::sklave::Sklave
 ::sklavin::Sklavin
 ::sklavenhalter::Sklavenhalter
@@ -17083,7 +15751,6 @@ SendMode Input
 ::ehepartnerin::Ehepartnerin
 ::spion::Spion
 ::schildknappe::Schildknappe
-::knappe::Knappe
 ::stallknecht::Stallknecht
 ::pferdeknecht::Pferdeknecht
 ::stalinist::Stalinist
@@ -17108,7 +15775,6 @@ SendMode Input
 ::stewardess::Stewardess
 ::aktionär::Aktionär
 ::stoiker::Stoiker
-::fremder::Fremder
 ::ausländer::Ausländer
 ::stratege::Stratege
 ::blitzer::Blitzer
@@ -17121,8 +15787,6 @@ SendMode Input
 ::schlagmann::Schlagmann
 ::student::Student
 ::studentin::Studentin
-::studierender::Studierender
-::studierende::Studierende
 ::hochschüler::Hochschüler
 ::hochschülerin::Hochschülerin
 ::schüler::Schüler
@@ -17143,7 +15807,6 @@ SendMode Input
 ::aufseher::Aufseher
 ::versorger::Versorger
 ::lieferant::Lieferant
-::freund::Freund
 ::freundin::Freundin
 ::wellenreiter::Wellenreiter
 ::chirurg::Chirurg
@@ -17153,13 +15816,9 @@ SendMode Input
 ::substitut::Substitut
 ::leihmutter::Leihmutter
 ::ersatzmutter::Ersatzmutter
-::überlebender::Überlebender
-::überlebende::Überlebende
 ::liebchen::Liebchen
 ::liebling::Liebling
 ::schatz::Schatz
-::liebster::Liebster
-::liebste::Liebste
 ::schwimmer::Schwimmer
 ::schwimmerin::Schwimmerin
 ::schweinehirt::Schweinehirt
@@ -17167,7 +15826,6 @@ SendMode Input
 ::schweinehirtin::Schweinehirtin
 ::schweinehüter::Schweinehüter
 ::schweinehüterin::Schweinehüterin
-::schlampe::Schlampe
 ::flittchen::Flittchen
 ::swinger::Swinger
 ::swingerin::Swingerin
@@ -17176,7 +15834,6 @@ SendMode Input
 ::speichellecker::Speichellecker
 ::schleimer::Schleimer
 ::arschkriecher::Arschkriecher
-::schneider::Schneider
 ::schneiderin::Schneiderin
 ::talent::Talent
 ::begabung::Begabung
@@ -17221,11 +15878,9 @@ SendMode Input
 ::theologe::Theologe
 ::theologin::Theologin
 ::theoretiker::Theoretiker
-::heiler::Heiler
 ::therapeut::Therapeut
 ::dieb::Dieb
 ::denker::Denker
-::dritte::Dritte
 ::fliesenleger::Fliesenleger
 ::blechschmied::Blechschmied
 ::blechschmiedin::Blechschmiedin
@@ -17235,7 +15890,6 @@ SendMode Input
 ::peiniger::Peiniger
 ::folterknecht::Folterknecht
 ::tory::Tory
-::reisender::Reisender
 ::toxikologe::Toxikologe
 ::toxikologin::Toxikologin
 ::praktikant::Praktikant
@@ -17247,11 +15901,8 @@ SendMode Input
 ::vagabund::Vagabund
 ::penner::Penner
 ::landstreicher::Landstreicher
-::wohnsitzlose::Wohnsitzlose
 ::übersetzer::Übersetzer
 ::übersetzerin::Übersetzerin
-::transsexueller::Transsexueller
-::transsexuelle::Transsexuelle
 ::transvestit::Transvestit
 ::handlungsreisender::Handlungsreisender
 ::vertreter::Vertreter
@@ -17281,7 +15932,6 @@ SendMode Input
 ::tapezierer::Tapezierer
 ::emporkömmling::Emporkömmling
 ::parvenü::Parvenü
-::neureicher::Neureicher
 ::urologe::Urologe
 ::urologin::Urologin
 ::benutzer::Benutzer
@@ -17297,7 +15947,6 @@ SendMode Input
 ::vandale::Vandale
 ::vasall::Vasall
 ::vegetarier::Vegetarier
-::veganer::Veganer
 ::veganerin::Veganerin
 ::bauchredner::Bauchredner
 ::ventriloquist::Ventriloquist
@@ -17307,7 +15956,6 @@ SendMode Input
 ::veterinär::Veterinär
 ::veterinärin::Veterinärin
 ::vizepräsident::Vizepräsident
-::opfer::Opfer
 ::dorfbewohner::Dorfbewohner
 ::dörfler::Dörfler
 ::schurke::Schurke
@@ -17323,16 +15971,12 @@ SendMode Input
 ::violinist::Violinist
 ::violinistin::Violinistin
 ::jungfrau::Jungfrau
-::virtuose::Virtuose
 ::vicomte::Vicomte
-::westgote::Westgote
 ::besucher::Besucher
 ::besucherin::Besucherin
 ::gast::Gast
 ::gästin::Gästin
-::schlampe::Schlampe
 ::drachen::Drachen
-::zicke::Zicke
 ::schlemmer::Schlemmer
 ::wähler::Wähler
 ::wählerin::Wählerin
@@ -17342,7 +15986,6 @@ SendMode Input
 ::pöbel::Pöbel
 ::plebejer::Plebejer
 ::witzbold::Witzbold
-::ober::Ober
 ::kellner::Kellner
 ::kellnerin::Kellnerin
 ::statist::Statist
@@ -17392,9 +16035,7 @@ SendMode Input
 ::gewinner::Gewinner
 ::gewinnerin::Gewinnerin
 ::fensterputzer::Fensterputzer
-::zeuge::Zeuge
 ::zeugin::Zeugin
-::zeuge::Zeuge
 ::zeugin::Zeugin
 ::frau::Frau
 ::schürzenjäger::Schürzenjäger
@@ -17553,7 +16194,6 @@ SendMode Input
 ::auswirkung::Auswirkung
 ::wirkung::Wirkung
 ::konsequenz::Konsequenz
-::folge::Folge
 ::brisanz::Brisanz
 ::dominoeffekt::Dominoeffekt
 ::einwirkung::Einwirkung
@@ -17576,13 +16216,11 @@ SendMode Input
 ::nuklearenergie::Nuklearenergie
 ::korona::Korona
 ::polarlicht::Polarlicht
-::nordlicht::Nordlicht
 ::strahl::Strahl
 ::atmosphärendruck::Atmosphärendruck
 ::luftdruck::Luftdruck
 ::blutdruck::Blutdruck
 ::gehirnwelle::Gehirnwelle
-::stille::Stille
 ::brise::Brise
 ::kerzenlicht::Kerzenlicht
 ::kerzenschein::Kerzenschein
@@ -17590,6 +16228,7 @@ SendMode Input
 ::kontinentaldrift::Kontinentaldrift
 ::zentripetalkraft::Zentripetalkraft
 ::ladung::Ladung
+::blutkreislauf::Blutkreislauf
 ::corioliskraft::Corioliskraft
 ::frost::Frost
 ::elmsfeuer::Elmsfeuer
@@ -17624,9 +16263,7 @@ SendMode Input
 ::nahrungskette::Nahrungskette
 ::feld::Feld
 ::nebel::Nebel
-::kraft::Kraft
 ::reibung::Reibung
-::front::Front
 ::wetterfront::Wetterfront
 ::warmfront::Warmfront
 ::kaltfront::Kaltfront
@@ -17650,7 +16287,6 @@ SendMode Input
 ::verdampfungswärme::Verdampfungswärme
 ::hitzewelle::Hitzewelle
 ::lebenszyklus::Lebenszyklus
-::licht::Licht
 ::blitz::Blitz
 ::linienspektrum::Linienspektrum
 ::lorentzkraft::Lorentzkraft
@@ -17660,7 +16296,6 @@ SendMode Input
 ::magnetosphäre::Magnetosphäre
 ::magnetfeld::Magnetfeld
 ::flugbahn::Flugbahn
-::bahn::Bahn
 ::trajektorie::Trajektorie
 ::massendefekt::Massendefekt
 ::mikrowelle::Mikrowelle
@@ -17689,12 +16324,10 @@ SendMode Input
 ::spannung::Spannung
 ::potential::Potential
 ::niederschlag::Niederschlag
-::druck::Druck
 ::überdruck::Überdruck
 ::strahlung::Strahlung
 ::radiation::Radiation
 ::radiowelle::Radiowelle
-::regen::Regen
 ::regentropfen::Regentropfen
 ::regensturm::Regensturm
 ::regenguss::Regenguss
@@ -17703,8 +16336,6 @@ SendMode Input
 ::sprühregen::Sprühregen
 ::schauer::Schauer
 ::brechung::Brechung
-::widerstand::Widerstand
-::widerstand::Widerstand
 ::impedanz::Impedanz
 ::auflösung::Auflösung
 ::samum::Samum
@@ -17739,7 +16370,6 @@ SendMode Input
 ::zugluft::Zugluft
 ::dampfdruck::Dampfdruck
 ::vulkanismus::Vulkanismus
-::wetter::Wetter
 ::wirbelwind::Wirbelwind
 ::wirbelsturm::Wirbelsturm
 ::wind::Wind
@@ -17791,11 +16421,9 @@ SendMode Input
 ::blütenstaub::Blütenstaub
 ::pollen::Pollen
 ::pollinium::Pollinium
-::stempel::Stempel
 ::fruchtknoten::Fruchtknoten
 ::ovar::Ovar
 ::ovarium::Ovarium
-::zapfen::Zapfen
 ::nussschale::Nussschale
 ::same::Same
 ::samen::Samen
@@ -17804,7 +16432,6 @@ SendMode Input
 ::same::Same
 ::kern::Kern
 ::stein::Stein
-::kapsel::Kapsel
 ::keimblatt::Keimblatt
 ::blütenblatt::Blütenblatt
 ::berberitze::Berberitze
@@ -17855,7 +16482,6 @@ SendMode Input
 ::amarant::Amarant
 ::amarant::Amarant
 ::gänsefuß::Gänsefuß
-::melde::Melde
 ::zuckerrübe::Zuckerrübe
 ::bougainvillea::Bougainvillea
 ::kaktus::Kaktus
@@ -17956,7 +16582,6 @@ SendMode Input
 ::emmer::Emmer
 ::mais::Mais
 ::kukuruz::Kukuruz
-::türken::Türken
 ::türkenkorn::Türkenkorn
 ::türkisch korn::Türkisch Korn
 ::türkischer weizen::Türkischer Weizen
@@ -17981,9 +16606,7 @@ SendMode Input
 ::affenbrotbaum::Affenbrotbaum
 ::durian::Durian
 ::kakaobaum::Kakaobaum
-::linde::Linde
 ::lindenbaum::Lindenbaum
-::linde::Linde
 ::macadamianuss::Macadamianuss
 ::heide::Heide
 ::besenheide::Besenheide
@@ -17992,12 +16615,9 @@ SendMode Input
 ::rhododendron::Rhododendron
 ::alpenrose::Alpenrose
 ::preiselbeere::Preiselbeere
-::wintergrün::Wintergrün
-::buche::Buche
 ::kastanienbaum::Kastanienbaum
 ::kastanie::Kastanie
 ::eichel::Eichel
-::eiche::Eiche
 ::steineiche::Steineiche
 ::korkeiche::Korkeiche
 ::birke::Birke
@@ -18063,7 +16683,6 @@ SendMode Input
 ::josuabaum::Josuabaum
 ::flachs::Flachs
 ::flachsfaser::Flachsfaser
-::leinen::Leinen
 ::brasilholz::Brasilholz
 ::johannisbrotbaum::Johannisbrotbaum
 ::tamarinde::Tamarinde
@@ -18175,7 +16794,6 @@ SendMode Input
 ::mandarine::Mandarine
 ::limone::Limone
 ::limette::Limette
-::weide::Weide
 ::trauerweide::Trauerweide
 ::pappel::Pappel
 ::espe::Espe
@@ -18199,7 +16817,6 @@ SendMode Input
 ::steinbrech::Steinbrech
 ::platane::Platane
 ::vergissmeinnicht::Vergissmeinnicht
-::winde::Winde
 ::seide::Seide
 ::teufelszwirn::Teufelszwirn
 ::ysop::Ysop
@@ -18272,7 +16889,6 @@ SendMode Input
 ::rapunzel::Rapunzel
 ::spornblume::Spornblume
 ::trüffel::Trüffel
-::flechte::Flechte
 ::pilz::Pilz
 ::giftpilz::Giftpilz
 ::fliegenpilz::Fliegenpilz
@@ -18286,16 +16902,13 @@ SendMode Input
 ::schimmel::Schimmel
 ::zimmerpflanze::Zimmerpflanze
 ::unkraut::Unkraut
-::ernte::Ernte
 ::dorn::Dorn
-::stachel::Stachel
 ::fleisch::Fleisch
 ::fruchtfleisch::Fruchtfleisch
 ::rebe::Rebe
 ::weinrebe::Weinrebe
 ::kletterpflanze::Kletterpflanze
 ::schlingpflanze::Schlingpflanze
-::ranke::Ranke
 ::baum::Baum
 ::konifere::Konifere
 ::nadelbaum::Nadelbaum
@@ -18307,7 +16920,6 @@ SendMode Input
 ::epiphyt::Epiphyt
 ::saprophyt::Saprophyt
 ::wurzel::Wurzel
-::wurzeln::Wurzeln
 ::steckling::Steckling
 ::ableger::Ableger
 ::senkreis::Senkreis
@@ -18340,7 +16952,6 @@ SendMode Input
 ::weinstock::Weinstock
 ::rebstock::Rebstock
 ::blatt::Blatt
-::blätter::Blätter
 ::farnwedel::Farnwedel
 ::spelze::Spelze
 ::feigenblatt::Feigenblatt
@@ -18366,7 +16977,6 @@ SendMode Input
 ::gemeinfreiheit::Gemeinfreiheit
 ::eigentum::Eigentum
 ::besitz::Besitz
-::habe::Habe
 ::immobilie::Immobilie
 ::land::Land
 ::geld::Geld
@@ -18376,33 +16986,24 @@ SendMode Input
 ::erwerb::Erwerb
 ::zuwachs::Zuwachs
 ::schnäppchen::Schnäppchen
-::einkommen::Einkommen
 ::einnahme::Einnahme
 ::bruttosozialprodukt::Bruttosozialprodukt
 ::bip::BIP
 ::bruttoinlandsprodukt::Bruttoinlandsprodukt
 ::bruttogewinn::Bruttogewinn
 ::rohertrag::Rohertrag
-::beute::Beute
-::beute::Beute
 ::raubgut::Raubgut
 ::erbschaft::Erbschaft
-::erbe::Erbe
 ::primogenitur::Primogenitur
-::erbe::Erbe
 ::patrimonium::Patrimonium
 ::geburtsrecht::Geburtsrecht
 ::erbstück::Erbstück
 ::geschenk::Geschenk
-::präsent::Präsent
-::spende::Spende
 ::mitgift::Mitgift
 ::stipendium::Stipendium
-::preis::Preis
 ::geburtstagsgeschenk::Geburtstagsgeschenk
 ::weihnachtsgeschenk::Weihnachtsgeschenk
 ::abgabe::Abgabe
-::spende::Spende
 ::zehnt::Zehnt
 ::prämie::Prämie
 ::kopfgeld::Kopfgeld
@@ -18430,7 +17031,6 @@ SendMode Input
 ::wiedergutmachung::Wiedergutmachung
 ::entschädigung::Entschädigung
 ::rückerstattung::Rückerstattung
-::miete::Miete
 ::trinkgeld::Trinkgeld
 ::geldüberweisung::Geldüberweisung
 ::überweisung::Überweisung
@@ -18441,10 +17041,8 @@ SendMode Input
 ::bußgeld::Bußgeld
 ::geldbuße::Geldbuße
 ::geldstrafe::Geldstrafe
-::rate::Rate
 ::lebenshaltungskosten::Lebenshaltungskosten
 ::fahrpreis::Fahrpreis
-::steuer::Steuer
 ::einkommensteuer::Einkommensteuer
 ::abgeltungsteuer::Abgeltungsteuer
 ::abgeltungssteuer::Abgeltungssteuer
@@ -18467,14 +17065,12 @@ SendMode Input
 ::porto::Porto
 ::wechselkurs::Wechselkurs
 ::verlust::Verlust
-::summe::Summe
 ::ziffer::Ziffer
 ::investition::Investition
 ::aktie::Aktie
 ::nennwert::Nennwert
 ::aktie::Aktie
 ::spekulation::Spekulation
-::wette::Wette
 ::jackpot::Jackpot
 ::haftpflichtversicherung::Haftpflichtversicherung
 ::lebensversicherung::Lebensversicherung
@@ -18486,13 +17082,9 @@ SendMode Input
 ::sicherheit::Sicherheit
 ::pfand::Pfand
 ::reichtum::Reichtum
-::vermögen::Vermögen
-::kapital::Kapital
-::mittel::Mittel
 ::geldmittel::Geldmittel
 ::gewinn- und verlustrechnung::Gewinn- und Verlustrechnung
 ::startkapital::Startkapital
-::kapital::Kapital
 ::fonds::Fonds
 ::ersparnisse::Ersparnisse
 ::sparkonto::Sparkonto
@@ -18504,24 +17096,20 @@ SendMode Input
 ::blutbank::Blutbank
 ::schatz::Schatz
 ::diamant::Diamant
-::perle::Perle
 ::vorschuss::Vorschuss
 ::anzahlung::Anzahlung
 ::kreditkarte::Kreditkarte
 ::debitkarte::Debitkarte
-::wechsel::Wechsel
 ::kredit::Kredit
 ::geldbrief::Geldbrief
 ::postanweisung::Postanweisung
 ::scheck::Scheck
 ::geld::Geld
 ::kohle::Kohle
-::knete::Knete
 ::währung::Währung
 ::banknote::Banknote
 ::papiergeld::Papiergeld
 ::rückgeld::Rückgeld
-::münze::Münze
 ::geldstück::Geldstück
 ::dukat::Dukat
 ::vierteldollar::Vierteldollar
@@ -18536,7 +17124,6 @@ SendMode Input
 ::bilanz::Bilanz
 ::forderung::Forderung
 ::dividende::Dividende
-::wert::Wert
 ::budget::Budget
 ::etat::Etat
 ::haushalt::Haushalt
@@ -18555,7 +17142,6 @@ SendMode Input
 ::assimilation::Assimilation
 ::absorption::Absorption
 ::stapelverarbeitung::Stapelverarbeitung
-::flamme::Flamme
 ::ansammlung::Ansammlung
 ::aufbau::Aufbau
 ::propaganda::Propaganda
@@ -18585,7 +17171,6 @@ SendMode Input
 ::verwesung::Verwesung
 ::deflation::Deflation
 ::degeneration::Degeneration
-::nachfrage::Nachfrage
 ::entnazifizierung::Entnazifizierung
 ::verschlimmerung::Verschlimmerung
 ::evolution::Evolution
@@ -18605,7 +17190,6 @@ SendMode Input
 ::evolution::Evolution
 ::ausführung::Ausführung
 ::wurf ferkel::Wurf Ferkel
-::feuer::Feuer
 ::kernspaltung::Kernspaltung
 ::fragmentierung::Fragmentierung
 ::zersplitterung::Zersplitterung
@@ -18615,9 +17199,6 @@ SendMode Input
 ::ontogenie::Ontogenie
 ::hämatopoese::Hämatopoese
 ::wachstum::Wachstum
-::ansteigen::Ansteigen
-::anstieg::Anstieg
-::anwachsen::Anwachsen
 ::erhöhung::Erhöhung
 ::zunahme::Zunahme
 ::inkrement::Inkrement
@@ -18629,7 +17210,6 @@ SendMode Input
 ::kernschmelze::Kernschmelze
 ::menstruation::Menstruation
 ::periode::Periode
-::regel::Regel
 ::regelblutung::Regelblutung
 ::stoffwechsel::Stoffwechsel
 ::metabolismus::Metabolismus
@@ -18666,7 +17246,6 @@ SendMode Input
 ::quellcode::Quellcode
 ::quellkode::Quellkode
 ::stagflation::Stagflation
-::speicher::Speicher
 ::überleben der bestangepassten::Überleben der Bestangepassten
 ::synkretismums::Synkretismums
 ::synergie::Synergie
@@ -18682,7 +17261,6 @@ SendMode Input
 ::einheit::Einheit
 ::karat::Karat
 ::dezimalzahl::Dezimalzahl
-::konstante::Konstante
 ::koeffizient::Koeffizient
 ::reibungskoeffizient::Reibungskoeffizient
 ::youngscher modul::Youngscher Modul
@@ -18719,27 +17297,21 @@ SendMode Input
 ::steradiant::Steradiant
 ::raumwinkel::Raumwinkel
 ::quadratmeter::Quadratmeter
-::acker::Acker
 ::joch::Joch
 ::joch landes::Joch Landes
 ::juchart::Juchart
 ::ar::Ar
 ::hektar::Hektar
-::hin::Hin
 ::tasse::Tasse
 ::pint::Pint
 ::quart::Quart
-::scheffel::Scheffel
 ::gallone::Gallone
-::scheffel::Scheffel
 ::milliliter::Milliliter
 ::kubikzentimeter::Kubikzentimeter
 ::liter::Liter
 ::kubikmeter::Kubikmeter
 ::bit::Bit
-::nibble::Nibble
 ::byte::Byte
-::block::Block
 ::kilobyte::Kilobyte
 ::mebibyte::Mebibyte
 ::mb::MB
@@ -18786,12 +17358,10 @@ SendMode Input
 ::meter::Meter
 ::kilometer::Kilometer
 ::klafter::Klafter
-::faden::Faden
 ::dollar::Dollar
 ::euro::Euro
 ::franc::Franc
 ::franken::Franken
-::real::Real
 ::australischer dollar::Australischer Dollar
 ::neuseeland-dollar::Neuseeland-Dollar
 ::singapur-dollar::Singapur-Dollar
@@ -18836,7 +17406,6 @@ SendMode Input
 ::milligramm::Milligramm
 ::karat::Karat
 ::gramm::Gramm
-::mol::Mol
 ::kilo::Kilo
 ::kilogramm::Kilogramm
 ::tonne::Tonne
@@ -18862,36 +17431,18 @@ SendMode Input
 ::dezimalbruch::Dezimalbruch
 ::zehnerbruch::Zehnerbruch
 ::hälfte::Hälfte
-::drittel::Drittel
-::viertel::Viertel
-::fünftel::Fünftel
-::sechstel::Sechstel
-::achtel::Achtel
-::tausendstel::Tausendstel
 ::ziffer::Ziffer
-::eins::Eins
 ::identität::Identität
-::zwei::Zwei
-::drei::Drei
-::vier::Vier
-::sechs::Sechs
-::acht::Acht
 ::dekade::Dekade
-::zehn::Zehn
-::dutzend::Dutzend
 ::bäckerdutzend::Bäckerdutzend
 ::gros::Gros
 ::myriade::Myriade
 ::milliarde::Milliarde
 ::billion::Billion
-::pi::Pi
 ::korrektur::Korrektur
-::schritt::Schritt
 ::grenzwert::Grenzwert
-::grenze::Grenze
 ::katzensprung::Katzensprung
 ::minimum::Minimum
-::wert::Wert
 ::sack voll::Sack voll
 ::sackvoll::Sackvoll
 ::löffelvoll::Löffelvoll
@@ -18899,7 +17450,6 @@ SendMode Input
 ::teelöffel::Teelöffel
 ::tröpfchen::Tröpfchen
 ::spur::Spur
-::menge::Menge
 ::bataillon::Bataillon
 ::maximum::Maximum
 ::unmenge::Unmenge
@@ -18938,13 +17488,9 @@ SendMode Input
 ::bindewort::Bindewort
 ::apposition::Apposition
 ::indikativ::Indikativ
-::konjunktiv::Konjunktiv
-::muss::Muss
-::imperativ::Imperativ
 ::befehlsform::Befehlsform
 ::diathese::Diathese
 ::genus verbi::Genus verbi
-::passiv::Passiv
 ::flexion::Flexion
 ::beugung::Beugung
 ::biegung::Biegung
@@ -18954,13 +17500,11 @@ SendMode Input
 ::präteritum::Präteritum
 ::plusquamperfekt::Plusquamperfekt
 ::antonymie::Antonymie
-::teil::Teil
 ::glied::Glied
 ::rest::Rest
 ::sympathie::Sympathie
 ::verwandtschaft::Verwandtschaft
 ::mutterschaft::Mutterschaft
-::ausmaß::Ausmaß
 ::maßstab::Maßstab
 ::prozent::Prozent
 ::prozentsatz::Prozentsatz
@@ -18969,39 +17513,26 @@ SendMode Input
 ::intelligenzquotient::Intelligenzquotient
 ::brechzahl::Brechzahl
 ::brechungsindex::Brechungsindex
-::norden::Norden
 ::nord::Nord
-::nordosten::Nordosten
 ::osten::Osten
 ::ost::Ost
-::südosten::Südosten
 ::süden::Süden
-::südwesten::Südwesten
 ::west::West
 ::westen::Westen
-::nordwesten::Nordwesten
 ::politik::Politik
 ::korrelation::Korrelation
 ::parasitismus::Parasitismus
 ::symbiose::Symbiose
 ::zusammenhang::Zusammenhang
 ::synchronisierung::Synchronisierung
-::dritter::Dritter
-::dritte::Dritte
-::fünfte::Fünfte
-::sechster::Sechster
-::achte::Achte
-::vierzigster::Vierzigster
 ::skala::Skala
 ::richterskala::Richterskala
 ::vergleich::Vergleich
 ::komparation::Komparation
-::regel::Regel
 ::antithese::Antithese
 ::kontrast::Kontrast
 ::widerspruch::Widerspruch
 ::körper::Körper
-::ebene::Ebene
 ::form::Form
 ::zylinder::Zylinder
 ::herz::Herz
@@ -19017,11 +17548,9 @@ SendMode Input
 ::tangente::Tangente
 ::sekante::Sekante
 ::nische::Nische
-::ecke::Ecke
 ::kegelschnitt::Kegelschnitt
 ::kreis::Kreis
 ::halbkreis::Halbkreis
-::bogen::Bogen
 ::arkus::Arkus
 ::kreisbogen::Kreisbogen
 ::kreissegment::Kreissegment
@@ -19030,7 +17559,6 @@ SendMode Input
 ::schnörkel::Schnörkel
 ::spirale::Spirale
 ::exzentrizität::Exzentrizität
-::wirbel::Wirbel
 ::ellipse::Ellipse
 ::quadrat::Quadrat
 ::viereck::Viereck
@@ -19050,7 +17578,6 @@ SendMode Input
 ::dodekagon::Dodekagon
 ::zwölfeck::Zwölfeck
 ::rhombus::Rhombus
-::raute::Raute
 ::rechteck::Rechteck
 ::karree::Karree
 ::orthogon::Orthogon
@@ -19070,33 +17597,20 @@ SendMode Input
 ::delle::Delle
 ::unebenheit::Unebenheit
 ::mondsichel::Mondsichel
-::ellipsoid::Ellipsoid
 ::hypotenuse::Hypotenuse
 ::höhe::Höhe
 ::ausgeglichenheit::Ausgeglichenheit
-::kugel::Kugel
-::kugel::Kugel
 ::ball::Ball
 ::torus::Torus
-::trommel::Trommel
 ::rohr::Rohr
-::röhre::Röhre
 ::peripherie::Peripherie
 ::rand::Rand
 ::kratzer::Kratzer
-::falte::Falte
-::runzel::Runzel
-::ritze::Ritze
 ::sprung::Sprung
-::riss::Riss
-::spalte::Spalte
 ::spalt::Spalt
-::versteck::Versteck
 ::falz::Falz
-::falte::Falte
 ::bügelfalte::Bügelfalte
 ::zykloide::Zykloide
-::leere::Leere
 ::platz::Platz
 ::punkt::Punkt
 ::baum::Baum
@@ -19108,8 +17622,6 @@ SendMode Input
 ::verzweigung::Verzweigung
 ::sack::Sack
 ::papiersack::Papiersack
-::beutel::Beutel
-::tüte::Tüte
 ::pyramide::Pyramide
 ::tetraeder::Tetraeder
 ::pentaeder::Pentaeder
@@ -19122,13 +17634,10 @@ SendMode Input
 ::kegelstumpf::Kegelstumpf
 ::pyramidenstumpf::Pyramidenstumpf
 ::beschaffenheit::Beschaffenheit
-::zustand::Zustand
-::stand::Stand
 ::status::Status
 ::situation::Situation
 ::sachlage::Sachlage
 ::lage::Lage
-::zustand::Zustand
 ::beziehung::Beziehung
 ::verwandtschaft::Verwandtschaft
 ::kameradschaft::Kameradschaft
@@ -19153,18 +17662,14 @@ SendMode Input
 ::gefangenschaft::Gefangenschaft
 ::status quo::Status quo
 ::standardisierung::Standardisierung
-::ausmaß::Ausmaß
 ::grad::Grad
 ::umfang::Umfang
 ::gipfel::Gipfel
 ::lebensstandard::Lebensstandard
-::ebene::Ebene
 ::obdachlosigkeit::Obdachlosigkeit
-::fall::Fall
 ::stau::Stau
 ::position::Position
 ::gleichwertigkeit::Gleichwertigkeit
-::einstand::Einstand
 ::meisterschaft::Meisterschaft
 ::priorität::Priorität
 ::unterwürfigkeit::Unterwürfigkeit
@@ -19179,7 +17684,6 @@ SendMode Input
 ::koexistenz::Koexistenz
 ::anwesenheit::Anwesenheit
 ::abwesenheit::Abwesenheit
-::ehe::Ehe
 ::heirat::Heirat
 ::bigamie::Bigamie
 ::endogamie::Endogamie
@@ -19199,7 +17703,6 @@ SendMode Input
 ::orden::Orden
 ::rechtstaatlichkeit::Rechtstaatlichkeit
 ::rechtsstaat::Rechtsstaat
-::ruhe::Ruhe
 ::frieden::Frieden
 ::stabilität::Stabilität
 ::frieden::Frieden
@@ -19209,7 +17712,6 @@ SendMode Input
 ::waffenruhe::Waffenruhe
 ::übereinstimmung::Übereinstimmung
 ::konsens::Konsens
-::einvernehmen::Einvernehmen
 ::einstimmigkeit::Einstimmigkeit
 ::gesellschaftsvertrag::Gesellschaftsvertrag
 ::unruhen::Unruhen
@@ -19223,8 +17725,7 @@ SendMode Input
 ::aufruhr::Aufruhr
 ::sturm::Sturm
 ::konflikt::Konflikt
-::streit::Streit
-::verdacht::Verdacht
+::kalter krieg::Kalter Krieg
 ::argwohn::Argwohn
 ::dunkelheit::Dunkelheit
 ::finsternis::Finsternis
@@ -19243,7 +17744,6 @@ SendMode Input
 ::trauerfall::Trauerfall
 ::unschuld::Unschuld
 ::reinheit::Reinheit
-::schuld::Schuld
 ::mittäterschaft::Mittäterschaft
 ::freiheit::Freiheit
 ::autonomie::Autonomie
@@ -19280,7 +17780,6 @@ SendMode Input
 ::moratorium::Moratorium
 ::winterschlaf::Winterschlaf
 ::sackgasse::Sackgasse
-::stillstand::Stillstand
 ::müdigkeit::Müdigkeit
 ::ermüdung::Ermüdung
 ::schlappheit::Schlappheit
@@ -19293,7 +17792,6 @@ SendMode Input
 ::schlaflosigkeit::Schlaflosigkeit
 ::anästhesie::Anästhesie
 ::erweckung::Erweckung
-::schlaf::Schlaf
 ::rem-schlaf::REM-Schlaf
 ::rem-phase::REM-Phase
 ::hypnose::Hypnose
@@ -19314,7 +17812,6 @@ SendMode Input
 ::banausie::Banausie
 ::philisterei::Philisterei
 ::spießbürgertum::Spießbürgertum
-::hunger::Hunger
 ::durst::Durst
 ::sexualtrieb::Sexualtrieb
 ::geschlechtstrieb::Geschlechtstrieb
@@ -19353,7 +17850,6 @@ SendMode Input
 ::inkompetenz::Inkompetenz
 ::pest::Pest
 ::seuche::Seuche
-::plage::Plage
 ::malaria::Malaria
 ::rheuma::Rheuma
 ::rheumatismus::Rheumatismus
@@ -19565,13 +18061,10 @@ SendMode Input
 ::schwarzrost::Schwarzrost
 ::trauma::Trauma
 ::verletzung::Verletzung
-::wunde::Wunde
 ::verwundung::Verwundung
 ::trauma::Trauma
 ::abrasion::Abrasion
 ::kratzer::Kratzer
-::schnitt::Schnitt
-::biss::Biss
 ::schlangenbiss::Schlangenbiss
 ::blutung::Blutung
 ::prellung::Prellung
@@ -19580,7 +18073,6 @@ SendMode Input
 ::brandwunde::Brandwunde
 ::verbrennung::Verbrennung
 ::sonnenbrand::Sonnenbrand
-::bräune::Bräune
 ::sonnenbräune::Sonnenbräune
 ::verbrennung ersten grades::Verbrennung ersten Grades
 ::verbrennung zweiten grades::Verbrennung zweiten Grades
@@ -19594,15 +18086,12 @@ SendMode Input
 ::frostbeule::Frostbeule
 ::bruch::Bruch
 ::hernie::Hernie
-::stich::Stich
-::biss::Biss
 ::insektenstich::Insektenstich
 ::insektenbiss::Insektenbiss
 ::bienenstich::Bienenstich
 ::wespenstich::Wespenstich
 ::skorpionstich::Skorpionstich
 ::schleudertrauma::Schleudertrauma
-::wunde::Wunde
 ::verletzung::Verletzung
 ::läsion::Läsion
 ::verstauchung::Verstauchung
@@ -19618,7 +18107,6 @@ SendMode Input
 ::exophthalmus::Exophthalmus
 ::ballenzehe::Ballenzehe
 ::schiefzehe::Schiefzehe
-::ödem::Ödem
 ::hämatom::Hämatom
 ::hyperglykämie::Hyperglykämie
 ::gelbsucht::Gelbsucht
@@ -19669,7 +18157,6 @@ SendMode Input
 ::muskelkrampf::Muskelkrampf
 ::spasmus::Spasmus
 ::tic::Tic
-::zucken::Zucken
 ::narbe::Narbe
 ::schwiele::Schwiele
 ::hornhaut::Hornhaut
@@ -19686,10 +18173,8 @@ SendMode Input
 ::obstipation::Obstipation
 ::verstopfung::Verstopfung
 ::obstipation::Obstipation
-::schwindel::Schwindel
 ::thrombus::Thrombus
 ::besorgnis::Besorgnis
-::angst::Angst
 ::hypochondrie::Hypochondrie
 ::nervosität::Nervosität
 ::spannung::Spannung
@@ -19706,7 +18191,6 @@ SendMode Input
 ::fremdenhass::Fremdenhass
 ::delirium::Delirium
 ::fieberphantasie::Fieberphantasie
-::taumel::Taumel
 ::dysthymie::Dysthymie
 ::manie::Manie
 ::wahn::Wahn
@@ -19727,7 +18211,6 @@ SendMode Input
 ::verärgerung::Verärgerung
 ::verdruss::Verdruss
 ::ungeduld::Ungeduld
-::zauber::Zauber
 ::trance::Trance
 ::quittung::Quittung
 ::zustimmung::Zustimmung
@@ -19750,7 +18233,6 @@ SendMode Input
 ::schrott::Schrott
 ::schrotthaufen::Schrotthaufen
 ::schrottkiste::Schrottkiste
-::reife::Reife
 ::erwachsenenalter::Erwachsenenalter
 ::adoleszenz::Adoleszenz
 ::pubertät::Pubertät
@@ -19758,20 +18240,16 @@ SendMode Input
 ::flegelalter::Flegelalter
 ::grad::Grad
 ::sorte::Sorte
-::hervorspringen::Hervorspringen
 ::betonung::Betonung
 ::primat::Primat
 ::prestige::Prestige
 ::anonymität::Anonymität
 ::vergessenheit::Vergessenheit
-::ehre::Ehre
 ::ruhm::Ruhm
 ::ruhm::Ruhm
-::ruf::Ruf
 ::berühmtheit::Berühmtheit
 ::achtung::Achtung
 ::wertschätzung::Wertschätzung
-::ruf::Ruf
 ::scham::Scham
 ::ungnade::Ungnade
 ::demütigung::Demütigung
@@ -19791,16 +18269,13 @@ SendMode Input
 ::katzenjammer::Katzenjammer
 ::kater::Kater
 ::wohlbefinden::Wohlbefinden
-::wohlergehen::Wohlergehen
 ::wohlfahrt::Wohlfahrt
 ::gesundheit::Gesundheit
-::mangel::Mangel
 ::hungersnot::Hungersnot
 ::dringlichkeit::Dringlichkeit
 ::myiasis::Myiasis
 ::filzlaus::Filzlaus
 ::nichtvorhandensein::Nichtvorhandensein
-::nichts::Nichts
 ::nacktheit::Nacktheit
 ::verdammnis::Verdammnis
 ::allwissenheit::Allwissenheit
@@ -19811,7 +18286,6 @@ SendMode Input
 ::unvollständigkeit::Unvollständigkeit
 ::fehler::Fehler
 ::makel::Makel
-::blase::Blase
 ::hydrocephalus::Hydrocephalus
 ::hydrozephalus::Hydrozephalus
 ::wasserkopf::Wasserkopf
@@ -19826,12 +18300,10 @@ SendMode Input
 ::segen::Segen
 ::pech::Pech
 ::unglück::Unglück
-::härte::Härte
 ::not::Not
 ::widrigkeit::Widrigkeit
 ::desaster::Desaster
 ::katastrophe::Katastrophe
-::bankrott::Bankrott
 ::flüssigsein::Flüssigsein
 ::plasma::Plasma
 ::potential::Potential
@@ -19851,7 +18323,6 @@ SendMode Input
 ::verpflichtung::Verpflichtung
 ::pflicht::Pflicht
 ::verantwortung::Verantwortung
-::schuld::Schuld
 ::verpflichtung::Verpflichtung
 ::behaglichkeit::Behaglichkeit
 ::bequemlichkeit::Bequemlichkeit
@@ -19868,6 +18339,7 @@ SendMode Input
 ::vergiftung::Vergiftung
 ::kontext::Kontext
 ::zusammenhang::Zusammenhang
+::zuhause::Zuhause
 ::elternhaus::Elternhaus
 ::nest::Nest
 ::domäne::Domäne
@@ -19884,7 +18356,6 @@ SendMode Input
 ::klima::Klima
 ::atmosphäre::Atmosphäre
 ::antizyklon::Antizyklon
-::milde::Milde
 ::ambiente::Ambiente
 ::freisein::Freisein
 ::straflosigkeit::Straflosigkeit
@@ -19894,7 +18365,6 @@ SendMode Input
 ::austrocknung::Austrocknung
 ::entwässerung::Entwässerung
 ::dehydratation::Dehydratation
-::dürre::Dürre
 ::trockenzeit::Trockenzeit
 ::trockenheit::Trockenheit
 ::xerophthalmie::Xerophthalmie
@@ -19927,7 +18397,6 @@ SendMode Input
 ::tetraplegie::Tetraplegie
 ::korruption::Korruption
 ::tod::Tod
-::ende::Ende
 ::beleuchtung::Beleuchtung
 ::absolution::Absolution
 ::urbanisierung::Urbanisierung
@@ -19937,7 +18406,6 @@ SendMode Input
 ::stein der weisen::Stein der Weisen
 ::edukt::Edukt
 ::phlogiston::Phlogiston
-::allergen::Allergen
 ::aldehyd::Aldehyd
 ::stäubchen::Stäubchen
 ::legierung::Legierung
@@ -19952,7 +18420,6 @@ SendMode Input
 ::bakelit::Bakelit
 ::rohstoff::Rohstoff
 ::grundstoff::Grundstoff
-::schwamm::Schwamm
 ::essigsäure::Essigsäure
 ::azetat::Azetat
 ::aceton::Aceton
@@ -19970,7 +18437,6 @@ SendMode Input
 ::glutamin::Glutamin
 ::glycin::Glycin
 ::ornithin::Ornithin
-::säure::Säure
 ::arsenat::Arsenat
 ::arsensäure::Arsensäure
 ::arsenid::Arsenid
@@ -19983,6 +18449,7 @@ SendMode Input
 ::bernsteinsäure::Bernsteinsäure
 ::base::Base
 ::atom::Atom
+::isotop::Isotop
 ::radioisotop::Radioisotop
 ::bromoform::Bromoform
 ::nanoröhre::Nanoröhre
@@ -20036,7 +18503,6 @@ SendMode Input
 ::helium::Helium
 ::holmium::Holmium
 ::wasserstoff::Wasserstoff
-::hydrogen::Hydrogen
 ::hydrogenium::Hydrogenium
 ::deuterium::Deuterium
 ::indium::Indium
@@ -20091,7 +18557,6 @@ SendMode Input
 ::silber::Silber
 ::natrium::Natrium
 ::strontium::Strontium
-::schwefel::Schwefel
 ::sulfur::Sulfur
 ::tantal::Tantal
 ::technetium::Technetium
@@ -20172,7 +18637,6 @@ SendMode Input
 ::schmuckstein::Schmuckstein
 ::juwel::Juwel
 ::kleinod::Kleinod
-::schiefer::Schiefer
 ::bims::Bims
 ::ambra::Ambra
 ::amber::Amber
@@ -20236,7 +18700,6 @@ SendMode Input
 ::ammoniak::Ammoniak
 ::salmiak::Salmiak
 ::testosteron::Testosteron
-::östrogen::Östrogen
 ::glucosamin::Glucosamin
 ::cortisol::Cortisol
 ::anilin::Anilin
@@ -20245,7 +18708,6 @@ SendMode Input
 ::flaum::Flaum
 ::fluse::Fluse
 ::fussel::Fussel
-::schale::Schale
 ::perlmutter::Perlmutter
 ::perlmutt::Perlmutt
 ::pergament::Pergament
@@ -20279,7 +18741,6 @@ SendMode Input
 ::natriumhydrogenkarbonat::Natriumhydrogenkarbonat
 ::natriumhydrogencarbonat::Natriumhydrogencarbonat
 ::edukt::Edukt
-::bleiche::Bleiche
 ::wasserstoffperoxid::Wasserstoffperoxid
 ::löscher::Löscher
 ::löschpapier::Löschpapier
@@ -20288,7 +18749,6 @@ SendMode Input
 ::schreibunterlage::Schreibunterlage
 ::borat::Borat
 ::borsäure::Borsäure
-::schwefel::Schwefel
 ::bromid::Bromid
 ::pufferlösung::Pufferlösung
 ::buttersäure::Buttersäure
@@ -20305,7 +18765,6 @@ SendMode Input
 ::kohlenhydrat::Kohlenhydrat
 ::ruß::Ruß
 ::russ::Russ
-::karzinogen::Karzinogen
 ::zellulose::Zellulose
 ::glykogen::Glykogen
 ::phenol::Phenol
@@ -20319,11 +18778,9 @@ SendMode Input
 ::karbonat::Karbonat
 ::kohlensäure::Kohlensäure
 ::karton::Karton
-::pappe::Pappe
 ::karneol::Karneol
 ::gusseisen::Gusseisen
 ::schmiedeeisen::Schmiedeeisen
-::stahl::Stahl
 ::edelstahl::Edelstahl
 ::zement::Zement
 ::stahlbeton::Stahlbeton
@@ -20342,12 +18799,10 @@ SendMode Input
 ::tonstein::Tonstein
 ::kohle::Kohle
 ::steinkohle::Steinkohle
-::anthrazit::Anthrazit
 ::braunkohle::Braunkohle
 ::wollwachs::Wollwachs
 ::kompost::Kompost
 ::verbindung::Verbindung
-::beton::Beton
 ::leiter::Leiter
 ::halbleiter::Halbleiter
 ::isolator::Isolator
@@ -20378,9 +18833,6 @@ SendMode Input
 ::atem::Atem
 ::mundgeruch::Mundgeruch
 ::druckluft::Druckluft
-::feuer::Feuer
-::ocker::Ocker
-::erde::Erde
 ::schmutz::Schmutz
 ::dreck::Dreck
 ::wasser::Wasser
@@ -20407,21 +18859,16 @@ SendMode Input
 ::emission::Emission
 ::effluvium::Effluvium
 ::fäkalien::Fäkalien
-::scheiße::Scheiße
-::kacke::Kacke
 ::scheißbolle::Scheißbolle
 ::haufen::Haufen
 ::dünger::Dünger
 ::mist::Mist
 ::pipi::Pipi
-::pisse::Pisse
 ::urin::Urin
 ::harn::Harn
-::kotze::Kotze
 ::abwasser::Abwasser
 ::abwasser::Abwasser
 ::müll::Müll
-::abfall::Abfall
 ::schutt::Schutt
 ::fallout::Fallout
 ::dünger::Dünger
@@ -20462,11 +18909,9 @@ SendMode Input
 ::dextrose::Dextrose
 ::glyzerin::Glyzerin
 ::nitroglyzerin::Nitroglyzerin
-::schiefer::Schiefer
 ::granit::Granit
 ::schmierstoff::Schmierstoff
 ::schmiermittel::Schmiermittel
-::schmiere::Schmiere
 ::gleitmittel::Gleitmittel
 ::fugenmörtel::Fugenmörtel
 ::guanin::Guanin
@@ -20500,7 +18945,6 @@ SendMode Input
 ::tinte::Tinte
 ::weihrauch::Weihrauch
 ::eisenerz::Eisenerz
-::isomer::Isomer
 ::jade::Jade
 ::jaspis::Jaspis
 ::jute::Jute
@@ -20528,10 +18972,7 @@ SendMode Input
 ::flüssigkeit::Flüssigkeit
 ::lehm::Lehm
 ::löss::Löss
-::log::Log
-::holz::Holz
 ::bauholz::Bauholz
-::lauge::Lauge
 ::lysin::Lysin
 ::ahornzucker::Ahornzucker
 ::marmor::Marmor
@@ -20589,19 +19030,16 @@ SendMode Input
 ::phenol::Phenol
 ::farbstoff::Farbstoff
 ::pigment::Pigment
-::putz::Putz
 ::stuck::Stuck
 ::gips::Gips
 ::stuckgips::Stuckgips
 ::polysaccharid::Polysaccharid
-::polymer::Polymer
 ::sandstein::Sandstein
 ::politur::Politur
 ::polypropylen::Polypropylen
 ::pottasche::Pottasche
 ::kaliumhydroxid::Kaliumhydroxid
 ::ätzkali::Ätzkali
-::puder::Puder
 ::pulver::Pulver
 ::produkt::Produkt
 ::reaktionsprodukt::Reaktionsprodukt
@@ -20637,14 +19075,12 @@ SendMode Input
 ::toxin::Toxin
 ::mykotoxin::Mykotoxin
 ::gift::Gift
-::schiefer::Schiefer
 ::schindel::Schindel
 ::schuhcreme::Schuhcreme
 ::kieselsäure::Kieselsäure
 ::silikat::Silikat
 ::silikon::Silikon
 ::kieselgel::Kieselgel
-::schlacke::Schlacke
 ::schneematsch::Schneematsch
 ::schnee::Schnee
 ::speckstein::Speckstein
@@ -20655,7 +19091,6 @@ SendMode Input
 ::lösemittel::Lösemittel
 ::lösungsmittel::Lösungsmittel
 ::spinell::Spinell
-::stärke::Stärke
 ::pfeilwurzelmehl::Pfeilwurzelmehl
 ::arrowroot::Arrowroot
 ::sago::Sago
@@ -20691,7 +19126,6 @@ SendMode Input
 ::topas::Topas
 ::spurenelement::Spurenelement
 ::tryptophan::Tryptophan
-::türkis::Türkis
 ::tyrosin::Tyrosin
 ::pechblende::Pechblende
 ::uraninit::Uraninit
@@ -20710,13 +19144,11 @@ SendMode Input
 ::ascorbinsäure::Ascorbinsäure
 ::askorbinsäure::Askorbinsäure
 ::tapete::Tapete
-::wachs::Wachs
 ::bienenwachs::Bienenwachs
 ::ohrenschmalz::Ohrenschmalz
 ::zerumen::Zerumen
 ::reinigungsmittel::Reinigungsmittel
 ::molke::Molke
-::holz::Holz
 ::bohle::Bohle
 ::brennholz::Brennholz
 ::kleinholz::Kleinholz
@@ -20745,15 +19177,12 @@ SendMode Input
 ::vergangenheit::Vergangenheit
 ::geschichte::Geschichte
 ::zukunft::Zukunft
-::zeit::Zeit
 ::mesozoikum::Mesozoikum
-::kreide::Kreide
 ::jura::Jura
 ::trias::Trias
 ::kambrium::Kambrium
 ::proterozoikum::Proterozoikum
 ::uhrzeit::Uhrzeit
-::zeit::Zeit
 ::woche::Woche
 ::arbeitstag::Arbeitstag
 ::werktag::Werktag
@@ -20774,7 +19203,6 @@ SendMode Input
 ::lebensdauer::Lebensdauer
 ::lebenszeit::Lebenszeit
 ::lebenserwartung::Lebenserwartung
-::tage::Tage
 ::jahrtausend::Jahrtausend
 ::millennium::Millennium
 ::lagerfähigkeit::Lagerfähigkeit
@@ -20783,7 +19211,6 @@ SendMode Input
 ::lebenserwartung::Lebenserwartung
 ::tod::Tod
 ::leben nach dem tod::Leben nach dem Tod
-::jenseits::Jenseits
 ::unterwelt::Unterwelt
 ::unsterblichkeit::Unsterblichkeit
 ::anfangsphase::Anfangsphase
@@ -20791,10 +19218,7 @@ SendMode Input
 ::schulzeit::Schulzeit
 ::jugend::Jugend
 ::pubertät::Pubertät
-::geschlechtsreife::Geschlechtsreife
-::dreißiger::Dreißiger
 ::erwachsenenalter::Erwachsenenalter
-::alter::Alter
 ::senilität::Senilität
 ::altersschwäche::Altersschwäche
 ::menopause::Menopause
@@ -20882,7 +19306,6 @@ SendMode Input
 ::pessach::Pessach
 ::passah::Passah
 ::passa::Passa
-::weihnachten::Weihnachten
 ::heiligabend::Heiligabend
 ::zweiter weihnachtstag::Zweiter Weihnachtstag
 ::schawuot::Schawuot
@@ -20931,7 +19354,6 @@ SendMode Input
 ::juni::Juni
 ::brachet::Brachet
 ::juli::Juli
-::heuert::Heuert
 ::august::August
 ::ernting::Ernting
 ::september::September
@@ -20950,8 +19372,6 @@ SendMode Input
 ::semester::Semester
 ::halbjahr::Halbjahr
 ::trimester::Trimester
-::stunde::Stunde
-::zeit::Zeit
 ::uhr::Uhr
 ::stoßzeit::Stoßzeit
 ::hauptverkehrszeit::Hauptverkehrszeit
@@ -20967,7 +19387,6 @@ SendMode Input
 ::nanosekunde::Nanosekunde
 ::millisekunde::Millisekunde
 ::jahreszeit::Jahreszeit
-::herbst::Herbst
 ::frühling::Frühling
 ::frühjahr::Frühjahr
 ::lenz::Lenz
@@ -21007,7 +19426,6 @@ SendMode Input
 ::jubiläum::Jubiläum
 ::hundertjahrfeier::Hundertjahrfeier
 ::geburtsdatum::Geburtsdatum
-::antike::Antike
 ::ära::Ära
 ::zeitalter::Zeitalter
 ::vorgeschichte::Vorgeschichte
@@ -21015,19 +19433,13 @@ SendMode Input
 ::eiszeit::Eiszeit
 ::innings::Innings
 ::satz::Satz
-::mittelalter::Mittelalter
 ::renaissance::Renaissance
 ::regentschaft::Regentschaft
 ::weltraumzeitalter::Weltraumzeitalter
 ::anfang::Anfang
 ::präsidentschaft::Präsidentschaft
-::ende::Ende
 ::schluss::Schluss
-::tiefe::Tiefe
-::ende::Ende
-::ablauf::Ablauf
 ::intervall::Intervall
-::pause::Pause
 ::unterbrechung::Unterbrechung
 ::zäsur::Zäsur
 ::zwischenspiel::Zwischenspiel
@@ -21038,7 +19450,6 @@ SendMode Input
 ::verzögerung::Verzögerung
 ::interregnum::Interregnum
 ::schönheitsschlaf::Schönheitsschlaf
-::pause::Pause
 ::auszeit::Auszeit
 ::timeout::Timeout
 ::verschnaufpause::Verschnaufpause
@@ -21058,10 +19469,8 @@ SendMode Input
 ::fluchtgeschwindigkeit::Fluchtgeschwindigkeit
 ::lichtgeschwindigkeit::Lichtgeschwindigkeit
 ::meile pro stunde::Meile pro Stunde
-::rate::Rate
 ::zyklus::Zyklus
 ::menstruationszyklus::Menstruationszyklus
-::stufe::Stufe
 ::flitterwochen::Flitterwochen
 ::inkubationszeit::Inkubationszeit
 ::echtzeit::Echtzeit
@@ -21078,7 +19487,6 @@ SendMode Input
 ::pipi machen::Pipi machen
 ::wasser lassen::Wasser lassen
 ::zeitpunkt::Zeitpunkt
-::zeit::Zeit
 ::sache::Sache
 ::gott lästern::Gott lästern
 ::kopf hoch::Kopf hoch
@@ -21089,7 +19497,6 @@ SendMode Input
 ::durst stillen::Durst stillen
 ::durst löschen::Durst löschen
 ::schnitte anfertigen::Schnitte anfertigen
-::butter::Butter
 ::selbstmord begehen::Selbstmord begehen
 ::pilze ernten::Pilze ernten
 ::pilze sammeln::Pilze sammeln
@@ -21103,10 +19510,7 @@ SendMode Input
 ::rad fahren::Rad fahren
 ::schlittschuh laufen::Schlittschuh laufen
 ::ski laufen::Ski laufen
-::verschicken::Verschicken
-::versenden::Versenden
 ::zeit totschlagen::Zeit totschlagen
-::zurückschrecken::Zurückschrecken
 ::umweg::Umweg
 ::indemnität erteilen::Indemnität erteilen
 ::platz machen::Platz machen

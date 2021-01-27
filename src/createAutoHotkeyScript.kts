@@ -7,6 +7,7 @@ import java.nio.charset.Charset
 
 val inputFile = File("wordLists/wikt/wn-wikt-deu.tab")
 val outputFile = File("src/FixGermanNouns.ahk")
+val languageTool = JLanguageTool(GermanyGerman())
 
 println("Input file: ${inputFile.absolutePath}")
 println("Output file: ${outputFile.absolutePath}")
@@ -17,12 +18,10 @@ val preprocessedLines = lines
     .map { it.split("\t")[2] }
     .map { it.removeSuffix("-") }
 
-val languageTool = JLanguageTool(GermanyGerman())
-
 
 val processedLines = preprocessedLines
     .filter { it[0].isUpperCase() }
-    .filter { languageTool.check(it).isEmpty() }
+    .filterNot { languageTool.check(it.toLowerCase()).isEmpty() }
     .filter { it.length <= 40 }
     .map { "::${it.toLowerCase()}::$it" }
 
