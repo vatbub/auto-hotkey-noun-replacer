@@ -1,0 +1,134 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>jar</packaging>
+
+    <repositories>
+        <repository>
+            <id>sonatype-snapshots</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+
+    <parent>
+        <groupId>com.github.vatbub</groupId>
+        <artifactId>kotlinParentPom</artifactId>
+        <version>1.1.1-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>autoHotkeyNounReplacer</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <name>AutoHotkey Noun replacer</name>
+    <description>Tool that filters a word list and generates a file for AutoHotkey to automatically correct misspelled
+        nouns
+    </description>
+    <inceptionYear>2016</inceptionYear>
+    <url>https://github.com/vatbub/common</url>
+
+    <scm>
+        <connection>scm:git:git@github.com:vatbub/${gitRepoName}.git</connection>
+        <url>https://github.com/vatbub/${gitRepoName}</url>
+        <developerConnection>scm:git:git@github.com:vatbub/${gitRepoName}.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+
+    <properties>
+        <gitRepoName>auto-hotkey-noun-replacer</gitRepoName>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <mainClass>com.github.vatbub.autoHotkeyNounReplacer.CreateAutoHotkeyScriptKt</mainClass>
+        <slf4j.version>1.7.30</slf4j.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-jdk14</artifactId>
+            <version>${slf4j.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.languagetool</groupId>
+            <artifactId>language-all</artifactId>
+            <version>5.4</version>
+        </dependency>
+        <dependency>
+            <groupId>com.beust</groupId>
+            <artifactId>jcommander</artifactId>
+            <version>1.81</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.jetbrains.kotlin</groupId>
+                <artifactId>kotlin-maven-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-javadoc-plugin</artifactId>
+                <version>3.2.0</version>
+                <configuration>
+                    <skip>true</skip>
+                </configuration>
+            </plugin>
+            <!--<plugin>
+                <artifactId>maven-assembly-plugin</artifactId>
+                <executions>
+                    <execution>
+                        <id>buildMainExecutableJar</id>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>single</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin> -->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-shade-plugin</artifactId>
+                <version>3.2.4</version>
+                <executions>
+                    <execution>
+                        <phase>package</phase>
+                        <goals>
+                            <goal>shade</goal>
+                        </goals>
+                    </execution>
+                </executions>
+                <configuration>
+                    <filters>
+                        <filter>
+                            <artifact>org.languagetool:*</artifact>
+                            <excludes>
+                                <exclude>META-INF/org/languagetool/language-module.properties</exclude>
+                            </excludes>
+                        </filter>
+                    </filters>
+                    <shadedArtifactAttached>true</shadedArtifactAttached>
+                    <shadedClassifierName>jar-with-dependencies</shadedClassifierName>
+                    <transformers>
+                        <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+                            <manifestEntries>
+                                <Main-Class>${mainClass}</Main-Class>
+                                <Implementation-Title>${project.name}</Implementation-Title>
+                                <Implementation-Version>${project.version}</Implementation-Version>
+                                <Implementation-Build>${maven.build.timestamp}</Implementation-Build>
+                                <Implementation-Vendor>${project.organization.name}</Implementation-Vendor>
+                                <Custom-Implementation-Build>${maven.build.timestamp}</Custom-Implementation-Build>
+                                <Specification-Title>${project.name}</Specification-Title>
+                                <Specification-Vendor>${project.organization.name}</Specification-Vendor>
+                            </manifestEntries>
+                        </transformer>
+                    </transformers>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
